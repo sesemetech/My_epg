@@ -1,3 +1,4 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="mychannel" tvg-name="SE-STREAM TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo333PZQTHF5_ei-Mm07NVXBmwMRVGw4D04MGPwPCpqIfsuxQYpyScCuK-yYR7hlO5QekLOB6I0Y5iGFGpE3RwFxhBF11lcBUkYfF5bj1IUEQZHH07xtwLy2cx56m2k6OFoguuci6bHeNMLL6mzYzKCQur3UG7tfePMgk9zdfhqmziBZHmGICgtNSa0Dk/s1920/LOGO%20CHAN.png" group-title="Health",Health Channel
+#EXTM3U url-tvg="https://raw.githubusercontent.com/sesemetech/My_epg/refs/heads/main/epgai.xml"
+
+#EXTINF:-1 tvg-id="mychannel" tvg-name="Tanzania TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Smiley.svg" group-title="Health", Tanzania TV
 http://192.168.200.70:1935/live/myStream/playlist.m3u8
