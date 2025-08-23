@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv>
+  <channel id="mychannel">
+    <display-name>Tanzania TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/8/85/Smiley.svg"/>
+  </channel>
+
+  <!-- Today’s schedule -->
+  <programme start="20250823190000+0300" stop="20250823200000+0300" channel="mychannel">
+    <title>Evening Yoga</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+
+  <programme start="20250823200000+0300" stop="20250823210000+0300" channel="mychannel">
+    <title>Healthy Cooking</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+
+  <programme start="20250823210000+0300" stop="20250823220000+0300" channel="mychannel">
+    <title>Kids Fitness</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+
+  <!-- Tomorrow’s schedule -->
+  <programme start="20250824190000+0300" stop="20250824200000+0300" channel="mychannel">
+    <title>Morning Meditation</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+
+  <programme start="20250824200000+0300" stop="20250824210000+0300" channel="mychannel">
+    <title>Nutrition Tips</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+
+  <programme start="20250824210000+0300" stop="20250824220000+0300" channel="mychannel">
+    <title>Fitness Challenge</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+</tv>
