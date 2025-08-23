@@ -1,4 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/sesemetech/My_epg/refs/heads/main/epgai.xml"
 
-#EXTINF:-1 tvg-id="mychannel" tvg-name="SE-STREAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Smiley.svg" group-title="Health", Tanzania TV
+#EXTINF:-1 tvg-id="mychannel" tvg-name="SE-STREAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Smiley.svg" group-title="Health", SE-STREAM TV
  https://1890587864.rsc.cdn77.org/1890587864/index.m3u8
