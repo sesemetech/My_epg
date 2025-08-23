@@ -2,7 +2,7 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv>
   <channel id="mychannel">
-    <display-name>Tanzania TV</display-name>
+    <display-name>SE-STREAM TV</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/8/85/Smiley.svg"/>
   </channel>
 
