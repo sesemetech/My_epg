@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv>
+  <channel id="AFyaTV">
+    <display-name>Health Channel</display-name>
+  </channel>
+
+  <programme start="20250722190000+0300" stop="20250722200000+0300" channel="mychannel">
+    <title>Evening Yoga</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+
+  <programme start="20250722200000+0300" stop="20250722210000+0300" channel="mychannel">
+    <title>Healthy Cooking</title>
+    <desc>Learn to cook healthy meals.</desc>
+  </programme>
+</tv>
