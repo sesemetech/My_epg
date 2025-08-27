@@ -10,11 +10,11 @@
   <programme start="20250825110000 +0300" stop="20250825120000 +0300" channel="mychannel">
     <title>Evening Yoga</title>
     <desc>Relaxing yoga session for all ages.</desc>
-    <programme start="20250828113000+0300" stop="20250828120000+0300" channel="mychannel">
+    <programme start="20250828113000 +0300" stop="20250828120000 +0300" channel="mychannel">
     <title>Healthy Cooking</title>
     <desc>Learn to cook delicious and healthy meals.</desc>
   </programme>
-  <programme start="20250828120000+0300" stop="20250828123000+0300" channel="mychannel">
+  <programme start="20250828120000 +0300" stop="20250828123000 +0300" channel="mychannel">
     <title>Kids Fitness</title>
     <desc>Fun exercises designed for kids.</desc>
   </programme>
