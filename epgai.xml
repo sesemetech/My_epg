@@ -1,1 +1,106 @@
-<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE tv SYSTEM "xmltv.dtd"> <tv> <channel id="mychannel"> <display-name>SE-STREAM TV</display-name> <icon src="https://upload.wikimedia.org/wikipedia/commons/8/85/Smiley.svg"/> </channel> <!-- Monday 25 Aug --> <programme start="20250825110000 +0300" stop="20250825120000 +0300" channel="mychannel"> <title>Evening Yoga</title> <desc>Relaxing yoga session for all ages.</desc> </programme> <programme start="20250825120000 +0300" stop="20250825130000 +0300" channel="mychannel"> <title>Healthy Cooking</title> <desc>Learn to cook delicious and healthy meals.</desc> </programme> <programme start="20250825130000 +0300" stop="20250825140000 +0300" channel="mychannel"> <title>Kids Fitness</title> <desc>Fun exercises designed for kids.</desc> </programme> <!-- Tuesday 26 Aug --> <programme start="20250826110000 +0300" stop="20250826120000 +0300" channel="mychannel"> <title>Morning Meditation</title> <desc>Start the day with a calming meditation session.</desc> </programme> <programme start="20250826120000 +0300" stop="20250826130000 +0300" channel="mychannel"> <title>Nutrition Tips</title> <desc>Daily advice on maintaining a healthy diet.</desc> </programme> <programme start="20250826130000 +0300" stop="20250826140000 +0300" channel="mychannel"> <title>Fitness Challenge</title> <desc>Join the challenge to improve your strength and stamina.</desc> </programme> <!-- Monday 25 Aug --> <programme start="20250827110000 +0300" stop="20250827120000 +0300" channel="mychannel"> <title>Evening Yoga</title> <desc>Relaxing yoga session for all ages.</desc> </programme> <programme start="20250827120000 +0300" stop="20250827130000 +0300" channel="mychannel"> <title>Healthy Cooking</title> <desc>Learn to cook delicious and healthy meals.</desc> </programme> <programme start="20250827130000 +0300" stop="20250827140000 +0300" channel="mychannel"> <title>Kids Fitness</title> <desc>Fun exercises designed for kids.</desc> </programme> <!-- Tuesday 26 Aug --> <programme start="20250828110000 +0300" stop="20250828120000 +0300" channel="mychannel"> <title>Morning Meditation</title> <desc>Start the day with a calming meditation session.</desc> </programme> <programme start="20250828120000 +0300" stop="20250828130000 +0300" channel="mychannel"> <title>Nutrition Tips</title> <desc>Daily advice on maintaining a healthy diet.</desc> </programme> <programme start="20250828130000 +0300" stop="20250828140000 +0300" channel="mychannel"> <title>Fitness Challenge</title> <desc>Join the challenge to improve your strength and stamina.</desc> </programme> <!-- Monday 25 Aug --> <programme start="20250829110000 +0300" stop="20250829120000 +0300" channel="mychannel"> <title>Evening Yoga</title> <desc>Relaxing yoga session for all ages.</desc> </programme> <programme start="20250829120000 +0300" stop="20250829130000 +0300" channel="mychannel"> <title>Healthy Cooking</title> <desc>Learn to cook delicious and healthy meals.</desc> </programme> <programme start="20250829130000 +0300" stop="20250829140000 +0300" channel="mychannel"> <title>Kids Fitness</title> <desc>Fun exercises designed for kids.</desc> </programme> <!-- Tuesday 26 Aug --> <programme start="20250830110000 +0300" stop="20250830120000 +0300" channel="mychannel"> <title>Morning Meditation</title> <desc>Start the day with a calming meditation session.</desc> </programme> <programme start="20250830120000 +0300" stop="20250830130000 +0300" channel="mychannel"> <title>Nutrition Tips</title> <desc>Daily advice on maintaining a healthy diet.</desc> </programme> <programme start="20250830130000 +0300" stop="20250830140000 +0300" channel="mychannel"> <title>Fitness Challenge</title> <desc>Join the challenge to improve your strength and stamina.</desc> </programme> <!-- Monday 25 Aug --> <programme start="20250831110000 +0300" stop="20250831120000 +0300" channel="mychannel"> <title>Evening Yoga</title> <desc>Relaxing yoga session for all ages.</desc> </programme> <programme start="20250831120000 +0300" stop="20250831130000 +0300" channel="mychannel"> <title>Healthy Cooking</title> <desc>Learn to cook delicious and healthy meals.</desc> </programme> <programme start="20250831130000 +0300" stop="20250831140000 +0300" channel="mychannel"> <title>Kids Fitness</title> <desc>Fun exercises designed for kids.</desc> </programme> <!-- Tuesday 26 Aug --> <programme start="20250901110000 +0300" stop="20250901120000 +0300" channel="mychannel"> <title>Morning Meditation</title> <desc>Start the day with a calming meditation session.</desc> </programme> <programme start="20250901120000 +0300" stop="20250901130000 +0300" channel="mychannel"> <title>Nutrition Tips</title> <desc>Daily advice on maintaining a healthy diet.</desc> </programme> <programme start="20250901130000 +0300" stop="20250901140000 +0300" channel="mychannel"> <title>Fitness Challenge</title> <desc>Join the challenge to improve your strength and stamina.</desc> </programme> <!-- Monday 25 Aug --> <programme start="20250902110000 +0300" stop="20250902120000 +0300" channel="mychannel"> <title>Evening Yoga</title> <desc>Relaxing yoga session for all ages.</desc> </programme> <programme start="20250902120000 +0300" stop="20250902130000 +0300" channel="mychannel"> <title>Healthy Cooking</title> <desc>Learn to cook delicious and healthy meals.</desc> </programme> <programme start="20250902130000 +0300" stop="20250902140000 +0300" channel="mychannel"> <title>Kids Fitness</title> <desc>Fun exercises designed for kids.</desc> </programme> <!-- Tuesday 26 Aug --> <programme start="20250903110000 +0300" stop="20250903120000 +0300" channel="mychannel"> <title>Morning Meditation</title> <desc>Start the day with a calming meditation session.</desc> </programme> </tv>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv>
+  <channel id="mychannel">
+    <display-name>SE-STREAM TV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/8/85/Smiley.svg"/>
+  </channel>
+
+  <!-- Thu 28 Aug 2025 -->
+  <programme start="20250828110000+0300" stop="20250828120000+0300" channel="mychannel">
+    <title>Evening Yoga</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20250828120000+0300" stop="20250828130000+0300" channel="mychannel">
+    <title>Healthy Cooking</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20250828130000+0300" stop="20250828140000+0300" channel="mychannel">
+    <title>Kids Fitness</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+
+  <!-- Fri 29 Aug 2025 -->
+  <programme start="20250829110000+0300" stop="20250829120000+0300" channel="mychannel">
+    <title>Morning Meditation</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20250829120000+0300" stop="20250829130000+0300" channel="mychannel">
+    <title>Nutrition Tips</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20250829130000+0300" stop="20250829140000+0300" channel="mychannel">
+    <title>Fitness Challenge</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+
+  <!-- Sat 30 Aug 2025 -->
+  <programme start="20250830110000+0300" stop="20250830120000+0300" channel="mychannel">
+    <title>Evening Yoga</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20250830120000+0300" stop="20250830130000+0300" channel="mychannel">
+    <title>Healthy Cooking</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20250830130000+0300" stop="20250830140000+0300" channel="mychannel">
+    <title>Kids Fitness</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+
+  <!-- Sun 31 Aug 2025 -->
+  <programme start="20250831110000+0300" stop="20250831120000+0300" channel="mychannel">
+    <title>Morning Meditation</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20250831120000+0300" stop="20250831130000+0300" channel="mychannel">
+    <title>Nutrition Tips</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20250831130000+0300" stop="20250831140000+0300" channel="mychannel">
+    <title>Fitness Challenge</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+
+  <!-- Mon 01 Sep 2025 -->
+  <programme start="20250901110000+0300" stop="20250901120000+0300" channel="mychannel">
+    <title>Evening Yoga</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20250901120000+0300" stop="20250901130000+0300" channel="mychannel">
+    <title>Healthy Cooking</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20250901130000+0300" stop="20250901140000+0300" channel="mychannel">
+    <title>Kids Fitness</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+
+  <!-- Tue 02 Sep 2025 -->
+  <programme start="20250902110000+0300" stop="20250902120000+0300" channel="mychannel">
+    <title>Morning Meditation</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20250902120000+0300" stop="20250902130000+0300" channel="mychannel">
+    <title>Nutrition Tips</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20250902130000+0300" stop="20250902140000+0300" channel="mychannel">
+    <title>Fitness Challenge</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+
+  <!-- Wed 03 Sep 2025 -->
+  <programme start="20250903110000+0300" stop="20250903120000+0300" channel="mychannel">
+    <title>Evening Yoga</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20250903120000+0300" stop="20250903130000+0300" channel="mychannel">
+    <title>Healthy Cooking</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20250903130000+0300" stop="20250903140000+0300" channel="mychannel">
+    <title>Kids Fitness</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+</tv>
