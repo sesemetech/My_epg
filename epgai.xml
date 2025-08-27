@@ -10,6 +10,394 @@
   <programme start="20250825110000 +0300" stop="20250825120000 +0300" channel="mychannel">
     <title>Evening Yoga</title>
     <desc>Relaxing yoga session for all ages.</desc>
+    <programme start="20250828113000+0300" stop="20250828120000+0300" channel="mychannel">
+    <title>Healthy Cooking</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20250828120000+0300" stop="20250828123000+0300" channel="mychannel">
+    <title>Kids Fitness</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20250828123000+0300" stop="20250828130000+0300" channel="mychannel">
+    <title>Morning Meditation</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20250828130000+0300" stop="20250828133000+0300" channel="mychannel">
+    <title>Nutrition Tips</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20250828133000+0300" stop="20250828140000+0300" channel="mychannel">
+    <title>Fitness Challenge</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20250828140000+0300" stop="20250828143000+0300" channel="mychannel">
+    <title>Ufundi Challenge</title>
+    <desc>Mafundi tofauti wakishindana</desc>
+  </programme>
+  <programme start="20250828143000+0300" stop="20250828150000+0300" channel="mychannel">
+    <title>Huduma ya kwanza</title>
+    <desc>Ijue huduma ya kwanza</desc>
+  </programme>
+  <programme start="20250828150000+0300" stop="20250828153000+0300" channel="mychannel">
+    <title>Tekinologia</title>
+    <desc>Ujuzi tofauti ,maujuzi</desc>
+  </programme>
+  <programme start="20250828153000+0300" stop="20250828160000+0300" channel="mychannel">
+    <title>Artificial Intelligent</title>
+    <desc>Ijue AI</desc>
+  </programme>
+  <programme start="20250828160000+0300" stop="20250828163000+0300" channel="mychannel">
+    <title>Dini yako</title>
+    <desc>Ijue Dini Yako</desc>
+  </programme>
+  <programme start="20250828163000+0300" stop="20250828170000+0300" channel="mychannel">
+    <title>Uchawi na Ushirikina</title>
+    <desc>Ujue Uchawi na Ushirikina</desc>
+  </programme>
+  <programme start="20250828170000+0300" stop="20250828173000+0300" channel="mychannel">
+    <title>Ndoa ya kweli</title>
+    <desc>Ipi ni ndoa ya kweli</desc>
+  </programme>
+  <programme start="20250828173000+0300" stop="20250828180000+0300" channel="mychannel">
+    <title>Memes Kwanza</title>
+    <desc>Memes tofauti punguza userious</desc>
+  </programme>
+  <programme start="20250829110000+0300" stop="20250829113000+0300" channel="mychannel">
+    <title>Evening Yoga</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20250829113000+0300" stop="20250829120000+0300" channel="mychannel">
+    <title>Healthy Cooking</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20250829120000+0300" stop="20250829123000+0300" channel="mychannel">
+    <title>Kids Fitness</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20250829123000+0300" stop="20250829130000+0300" channel="mychannel">
+    <title>Morning Meditation</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20250829130000+0300" stop="20250829133000+0300" channel="mychannel">
+    <title>Nutrition Tips</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20250829133000+0300" stop="20250829140000+0300" channel="mychannel">
+    <title>Fitness Challenge</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20250829140000+0300" stop="20250829143000+0300" channel="mychannel">
+    <title>Ufundi Challenge</title>
+    <desc>Mafundi tofauti wakishindana</desc>
+  </programme>
+  <programme start="20250829143000+0300" stop="20250829150000+0300" channel="mychannel">
+    <title>Huduma ya kwanza</title>
+    <desc>Ijue huduma ya kwanza</desc>
+  </programme>
+  <programme start="20250829150000+0300" stop="20250829153000+0300" channel="mychannel">
+    <title>Tekinologia</title>
+    <desc>Ujuzi tofauti ,maujuzi</desc>
+  </programme>
+  <programme start="20250829153000+0300" stop="20250829160000+0300" channel="mychannel">
+    <title>Artificial Intelligent</title>
+    <desc>Ijue AI</desc>
+  </programme>
+  <programme start="20250829160000+0300" stop="20250829163000+0300" channel="mychannel">
+    <title>Dini yako</title>
+    <desc>Ijue Dini Yako</desc>
+  </programme>
+  <programme start="20250829163000+0300" stop="20250829170000+0300" channel="mychannel">
+    <title>Uchawi na Ushirikina</title>
+    <desc>Ujue Uchawi na Ushirikina</desc>
+  </programme>
+  <programme start="20250829170000+0300" stop="20250829173000+0300" channel="mychannel">
+    <title>Ndoa ya kweli</title>
+    <desc>Ipi ni ndoa ya kweli</desc>
+  </programme>
+  <programme start="20250829173000+0300" stop="20250829180000+0300" channel="mychannel">
+    <title>Memes Kwanza</title>
+    <desc>Memes tofauti punguza userious</desc>
+  </programme>
+  <programme start="20250830110000+0300" stop="20250830113000+0300" channel="mychannel">
+    <title>Evening Yoga</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20250830113000+0300" stop="20250830120000+0300" channel="mychannel">
+    <title>Healthy Cooking</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20250830120000+0300" stop="20250830123000+0300" channel="mychannel">
+    <title>Kids Fitness</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20250830123000+0300" stop="20250830130000+0300" channel="mychannel">
+    <title>Morning Meditation</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20250830130000+0300" stop="20250830133000+0300" channel="mychannel">
+    <title>Nutrition Tips</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20250830133000+0300" stop="20250830140000+0300" channel="mychannel">
+    <title>Fitness Challenge</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20250830140000+0300" stop="20250830143000+0300" channel="mychannel">
+    <title>Ufundi Challenge</title>
+    <desc>Mafundi tofauti wakishindana</desc>
+  </programme>
+  <programme start="20250830143000+0300" stop="20250830150000+0300" channel="mychannel">
+    <title>Huduma ya kwanza</title>
+    <desc>Ijue huduma ya kwanza</desc>
+  </programme>
+  <programme start="20250830150000+0300" stop="20250830153000+0300" channel="mychannel">
+    <title>Tekinologia</title>
+    <desc>Ujuzi tofauti ,maujuzi</desc>
+  </programme>
+  <programme start="20250830153000+0300" stop="20250830160000+0300" channel="mychannel">
+    <title>Artificial Intelligent</title>
+    <desc>Ijue AI</desc>
+  </programme>
+  <programme start="20250830160000+0300" stop="20250830163000+0300" channel="mychannel">
+    <title>Dini yako</title>
+    <desc>Ijue Dini Yako</desc>
+  </programme>
+  <programme start="20250830163000+0300" stop="20250830170000+0300" channel="mychannel">
+    <title>Uchawi na Ushirikina</title>
+    <desc>Ujue Uchawi na Ushirikina</desc>
+  </programme>
+  <programme start="20250830170000+0300" stop="20250830173000+0300" channel="mychannel">
+    <title>Ndoa ya kweli</title>
+    <desc>Ipi ni ndoa ya kweli</desc>
+  </programme>
+  <programme start="20250830173000+0300" stop="20250830180000+0300" channel="mychannel">
+    <title>Memes Kwanza</title>
+    <desc>Memes tofauti punguza userious</desc>
+  </programme>
+  <programme start="20250831110000+0300" stop="20250831113000+0300" channel="mychannel">
+    <title>Evening Yoga</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20250831113000+0300" stop="20250831120000+0300" channel="mychannel">
+    <title>Healthy Cooking</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20250831120000+0300" stop="20250831123000+0300" channel="mychannel">
+    <title>Kids Fitness</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20250831123000+0300" stop="20250831130000+0300" channel="mychannel">
+    <title>Morning Meditation</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20250831130000+0300" stop="20250831133000+0300" channel="mychannel">
+    <title>Nutrition Tips</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20250831133000+0300" stop="20250831140000+0300" channel="mychannel">
+    <title>Fitness Challenge</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20250831140000+0300" stop="20250831143000+0300" channel="mychannel">
+    <title>Ufundi Challenge</title>
+    <desc>Mafundi tofauti wakishindana</desc>
+  </programme>
+  <programme start="20250831143000+0300" stop="20250831150000+0300" channel="mychannel">
+    <title>Huduma ya kwanza</title>
+    <desc>Ijue huduma ya kwanza</desc>
+  </programme>
+  <programme start="20250831150000+0300" stop="20250831153000+0300" channel="mychannel">
+    <title>Tekinologia</title>
+    <desc>Ujuzi tofauti ,maujuzi</desc>
+  </programme>
+  <programme start="20250831153000+0300" stop="20250831160000+0300" channel="mychannel">
+    <title>Artificial Intelligent</title>
+    <desc>Ijue AI</desc>
+  </programme>
+  <programme start="20250831160000+0300" stop="20250831163000+0300" channel="mychannel">
+    <title>Dini yako</title>
+    <desc>Ijue Dini Yako</desc>
+  </programme>
+  <programme start="20250831163000+0300" stop="20250831170000+0300" channel="mychannel">
+    <title>Uchawi na Ushirikina</title>
+    <desc>Ujue Uchawi na Ushirikina</desc>
+  </programme>
+  <programme start="20250831170000+0300" stop="20250831173000+0300" channel="mychannel">
+    <title>Ndoa ya kweli</title>
+    <desc>Ipi ni ndoa ya kweli</desc>
+  </programme>
+  <programme start="20250831173000+0300" stop="20250831180000+0300" channel="mychannel">
+    <title>Memes Kwanza</title>
+    <desc>Memes tofauti punguza userious</desc>
+  </programme>
+  <programme start="20250901110000+0300" stop="20250901113000+0300" channel="mychannel">
+    <title>Evening Yoga</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20250901113000+0300" stop="20250901120000+0300" channel="mychannel">
+    <title>Healthy Cooking</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20250901120000+0300" stop="20250901123000+0300" channel="mychannel">
+    <title>Kids Fitness</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20250901123000+0300" stop="20250901130000+0300" channel="mychannel">
+    <title>Morning Meditation</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20250901130000+0300" stop="20250901133000+0300" channel="mychannel">
+    <title>Nutrition Tips</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20250901133000+0300" stop="20250901140000+0300" channel="mychannel">
+    <title>Fitness Challenge</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20250901140000+0300" stop="20250901143000+0300" channel="mychannel">
+    <title>Ufundi Challenge</title>
+    <desc>Mafundi tofauti wakishindana</desc>
+  </programme>
+  <programme start="20250901143000+0300" stop="20250901150000+0300" channel="mychannel">
+    <title>Huduma ya kwanza</title>
+    <desc>Ijue huduma ya kwanza</desc>
+  </programme>
+  <programme start="20250901150000+0300" stop="20250901153000+0300" channel="mychannel">
+    <title>Tekinologia</title>
+    <desc>Ujuzi tofauti ,maujuzi</desc>
+  </programme>
+  <programme start="20250901153000+0300" stop="20250901160000+0300" channel="mychannel">
+    <title>Artificial Intelligent</title>
+    <desc>Ijue AI</desc>
+  </programme>
+  <programme start="20250901160000+0300" stop="20250901163000+0300" channel="mychannel">
+    <title>Dini yako</title>
+    <desc>Ijue Dini Yako</desc>
+  </programme>
+  <programme start="20250901163000+0300" stop="20250901170000+0300" channel="mychannel">
+    <title>Uchawi na Ushirikina</title>
+    <desc>Ujue Uchawi na Ushirikina</desc>
+  </programme>
+  <programme start="20250901170000+0300" stop="20250901173000+0300" channel="mychannel">
+    <title>Ndoa ya kweli</title>
+    <desc>Ipi ni ndoa ya kweli</desc>
+  </programme>
+  <programme start="20250901173000+0300" stop="20250901180000+0300" channel="mychannel">
+    <title>Memes Kwanza</title>
+    <desc>Memes tofauti punguza userious</desc>
+  </programme>
+  <programme start="20250902110000+0300" stop="20250902113000+0300" channel="mychannel">
+    <title>Evening Yoga</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20250902113000+0300" stop="20250902120000+0300" channel="mychannel">
+    <title>Healthy Cooking</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20250902120000+0300" stop="20250902123000+0300" channel="mychannel">
+    <title>Kids Fitness</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20250902123000+0300" stop="20250902130000+0300" channel="mychannel">
+    <title>Morning Meditation</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20250902130000+0300" stop="20250902133000+0300" channel="mychannel">
+    <title>Nutrition Tips</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20250902133000+0300" stop="20250902140000+0300" channel="mychannel">
+    <title>Fitness Challenge</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20250902140000+0300" stop="20250902143000+0300" channel="mychannel">
+    <title>Ufundi Challenge</title>
+    <desc>Mafundi tofauti wakishindana</desc>
+  </programme>
+  <programme start="20250902143000+0300" stop="20250902150000+0300" channel="mychannel">
+    <title>Huduma ya kwanza</title>
+    <desc>Ijue huduma ya kwanza</desc>
+  </programme>
+  <programme start="20250902150000+0300" stop="20250902153000+0300" channel="mychannel">
+    <title>Tekinologia</title>
+    <desc>Ujuzi tofauti ,maujuzi</desc>
+  </programme>
+  <programme start="20250902153000+0300" stop="20250902160000+0300" channel="mychannel">
+    <title>Artificial Intelligent</title>
+    <desc>Ijue AI</desc>
+  </programme>
+  <programme start="20250902160000+0300" stop="20250902163000+0300" channel="mychannel">
+    <title>Dini yako</title>
+    <desc>Ijue Dini Yako</desc>
+  </programme>
+  <programme start="20250902163000+0300" stop="20250902170000+0300" channel="mychannel">
+    <title>Uchawi na Ushirikina</title>
+    <desc>Ujue Uchawi na Ushirikina</desc>
+  </programme>
+  <programme start="20250902170000+0300" stop="20250902173000+0300" channel="mychannel">
+    <title>Ndoa ya kweli</title>
+    <desc>Ipi ni ndoa ya kweli</desc>
+  </programme>
+  <programme start="20250902173000+0300" stop="20250902180000+0300" channel="mychannel">
+    <title>Memes Kwanza</title>
+    <desc>Memes tofauti punguza userious</desc>
+  </programme>
+  <programme start="20250903110000+0300" stop="20250903113000+0300" channel="mychannel">
+    <title>Evening Yoga</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20250903113000+0300" stop="20250903120000+0300" channel="mychannel">
+    <title>Healthy Cooking</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20250903120000+0300" stop="20250903123000+0300" channel="mychannel">
+    <title>Kids Fitness</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20250903123000+0300" stop="20250903130000+0300" channel="mychannel">
+    <title>Morning Meditation</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20250903130000+0300" stop="20250903133000+0300" channel="mychannel">
+    <title>Nutrition Tips</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20250903133000+0300" stop="20250903140000+0300" channel="mychannel">
+    <title>Fitness Challenge</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20250903140000+0300" stop="20250903143000+0300" channel="mychannel">
+    <title>Ufundi Challenge</title>
+    <desc>Mafundi tofauti wakishindana</desc>
+  </programme>
+  <programme start="20250903143000+0300" stop="20250903150000+0300" channel="mychannel">
+    <title>Huduma ya kwanza</title>
+    <desc>Ijue huduma ya kwanza</desc>
+  </programme>
+  <programme start="20250903150000+0300" stop="20250903153000+0300" channel="mychannel">
+    <title>Tekinologia</title>
+    <desc>Ujuzi tofauti ,maujuzi</desc>
+  </programme>
+  <programme start="20250903153000+0300" stop="20250903160000+0300" channel="mychannel">
+    <title>Artificial Intelligent</title>
+    <desc>Ijue AI</desc>
+  </programme>
+  <programme start="20250903160000+0300" stop="20250903163000+0300" channel="mychannel">
+    <title>Dini yako</title>
+    <desc>Ijue Dini Yako</desc>
+  </programme>
+  <programme start="20250903163000+0300" stop="20250903170000+0300" channel="mychannel">
+    <title>Uchawi na Ushirikina</title>
+    <desc>Ujue Uchawi na Ushirikina</desc>
+  </programme>
+  <programme start="20250903170000+0300" stop="20250903173000+0300" channel="mychannel">
+    <title>Ndoa ya kweli</title>
+    <desc>Ipi ni ndoa ya kweli</desc>
+  </programme>
+  <programme start="20250903173000+0300" stop="20250903180000+0300" channel="mychannel">
+    <title>Memes Kwanza</title>
+    <desc>Memes tofauti punguza userious</desc>
+  </programme>
   </programme>
   <programme start="20250825120000 +0300" stop="20250825130000 +0300" channel="mychannel">
     <title>Healthy Cooking</title>
