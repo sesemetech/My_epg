@@ -6,103 +6,35 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/8/85/Smiley.svg"/>
   </channel>
 
-  <!-- 7-day schedule -->
-  <!-- Day 1 -->
-  <programme start="20250824110000 +0300" stop="20250824120000 +0300" channel="mychannel">
-    <title>Evening Yoga</title>
-    <desc>Relaxing yoga session for all ages.</desc>
-  </programme>
-  <programme start="20250824120000 +0300" stop="20250824130000 +0300" channel="mychannel">
-    <title>Healthy Cooking</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
-  </programme>
-  <programme start="20250824130000 +0300" stop="20250824140000 +0300" channel="mychannel">
-    <title>Kids Fitness</title>
-    <desc>Fun exercises designed for kids.</desc>
-  </programme>
-
-  <!-- Day 2 -->
+  <!-- Monday 25 Aug -->
   <programme start="20250825110000 +0300" stop="20250825120000 +0300" channel="mychannel">
-    <title>Morning Meditation</title>
-    <desc>Start the day with a calming meditation session.</desc>
+    <title>Evening Yoga</title>
+    <desc>Relaxing yoga session for all ages.</desc>
   </programme>
+
   <programme start="20250825120000 +0300" stop="20250825130000 +0300" channel="mychannel">
-    <title>Nutrition Tips</title>
-    <desc>Daily advice on maintaining a healthy diet.</desc>
+    <title>Healthy Cooking</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
   </programme>
+
   <programme start="20250825130000 +0300" stop="20250825140000 +0300" channel="mychannel">
-    <title>Fitness Challenge</title>
-    <desc>Join the challenge to improve your strength and stamina.</desc>
+    <title>Kids Fitness</title>
+    <desc>Fun exercises designed for kids.</desc>
   </programme>
 
-  <!-- Day 3 -->
+  <!-- Tuesday 26 Aug -->
   <programme start="20250826110000 +0300" stop="20250826120000 +0300" channel="mychannel">
-    <title>Evening Yoga</title>
-    <desc>Relaxing yoga session for all ages.</desc>
+    <title>Morning Meditation</title>
+    <desc>Start the day with a calming meditation session.</desc>
   </programme>
+
   <programme start="20250826120000 +0300" stop="20250826130000 +0300" channel="mychannel">
-    <title>Healthy Cooking</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
+    <title>Nutrition Tips</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
+
   <programme start="20250826130000 +0300" stop="20250826140000 +0300" channel="mychannel">
-    <title>Kids Fitness</title>
-    <desc>Fun exercises designed for kids.</desc>
-  </programme>
-
-  <!-- Day 4 -->
-  <programme start="20250827110000 +0300" stop="20250827120000 +0300" channel="mychannel">
-    <title>Morning Meditation</title>
-    <desc>Start the day with a calming meditation session.</desc>
-  </programme>
-  <programme start="20250827120000 +0300" stop="20250827130000 +0300" channel="mychannel">
-    <title>Nutrition Tips</title>
-    <desc>Daily advice on maintaining a healthy diet.</desc>
-  </programme>
-  <programme start="20250827130000 +0300" stop="20250827140000 +0300" channel="mychannel">
     <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-
-  <!-- Day 5 -->
-  <programme start="20250828110000 +0300" stop="20250828120000 +0300" channel="mychannel">
-    <title>Evening Yoga</title>
-    <desc>Relaxing yoga session for all ages.</desc>
-  </programme>
-  <programme start="20250828120000 +0300" stop="20250828130000 +0300" channel="mychannel">
-    <title>Healthy Cooking</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
-  </programme>
-  <programme start="20250828130000 +0300" stop="20250828140000 +0300" channel="mychannel">
-    <title>Kids Fitness</title>
-    <desc>Fun exercises designed for kids.</desc>
-  </programme>
-
-  <!-- Day 6 -->
-  <programme start="20250829110000 +0300" stop="20250829120000 +0300" channel="mychannel">
-    <title>Morning Meditation</title>
-    <desc>Start the day with a calming meditation session.</desc>
-  </programme>
-  <programme start="20250829120000 +0300" stop="20250829130000 +0300" channel="mychannel">
-    <title>Nutrition Tips</title>
-    <desc>Daily advice on maintaining a healthy diet.</desc>
-  </programme>
-  <programme start="20250829130000 +0300" stop="20250829140000 +0300" channel="mychannel">
-    <title>Fitness Challenge</title>
-    <desc>Join the challenge to improve your strength and stamina.</desc>
-  </programme>
-
-  <!-- Day 7 -->
-  <programme start="20250830110000 +0300" stop="20250830120000 +0300" channel="mychannel">
-    <title>Evening Yoga</title>
-    <desc>Relaxing yoga session for all ages.</desc>
-  </programme>
-  <programme start="20250830120000 +0300" stop="20250830130000 +0300" channel="mychannel">
-    <title>Healthy Cooking</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
-  </programme>
-  <programme start="20250830130000 +0300" stop="20250830140000 +0300" channel="mychannel">
-    <title>Kids Fitness</title>
-    <desc>Fun exercises designed for kids.</desc>
-  </programme>
-
 </tv>
