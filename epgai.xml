@@ -5,172 +5,396 @@
     <display-name>SE-STREAM TV</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/8/85/Smiley.svg"/>
   </channel>
-  <programme start="20250828110000 +0300" stop="20250828113000 +0300" channel="mychannel">
+  <programme start="20250828110000 +0300" stop="20250828120000 +0300" channel="mychannel">
     <title>Evening Yoga</title>
     <desc>Relaxing yoga session for all ages.</desc>
   </programme>
-  <programme start="20250828113000 +0300" stop="20250828120000 +0300" channel="mychannel">
+  <programme start="20250828120000 +0300" stop="20250828130000 +0300" channel="mychannel">
     <title>Healthy Cooking</title>
     <desc>Learn to cook delicious and healthy meals.</desc>
   </programme>
-  <programme start="20250828120000 +0300" stop="20250828123000 +0300" channel="mychannel">
+  <programme start="20250828130000 +0300" stop="20250828140000 +0300" channel="mychannel">
     <title>Kids Fitness</title>
     <desc>Fun exercises designed for kids.</desc>
   </programme>
-  <programme start="20250828123000 +0300" stop="20250828130000 +0300" channel="mychannel">
+  <programme start="20250828140000 +0300" stop="20250828150000 +0300" channel="mychannel">
     <title>Morning Meditation</title>
     <desc>Start the day with a calming meditation session.</desc>
   </programme>
-  <programme start="20250828130000 +0300" stop="20250828133000 +0300" channel="mychannel">
+  <programme start="20250828150000 +0300" stop="20250828160000 +0300" channel="mychannel">
     <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20250828133000 +0300" stop="20250828140000 +0300" channel="mychannel">
+  <programme start="20250828160000 +0300" stop="20250828170000 +0300" channel="mychannel">
     <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20250829110000 +0300" stop="20250829113000 +0300" channel="mychannel">
+  <programme start="20250828170000 +0300" stop="20250828180000 +0300" channel="mychannel">
+    <title>Memes Kwanza</title>
+    <desc>Vichekesho.</desc>
+  </programme>
+  <programme start="20250829110000 +0300" stop="20250829120000 +0300" channel="mychannel">
     <title>Evening Yoga</title>
     <desc>Relaxing yoga session for all ages.</desc>
   </programme>
-  <programme start="20250829113000 +0300" stop="20250829120000 +0300" channel="mychannel">
+  <programme start="20250829120000 +0300" stop="20250829130000 +0300" channel="mychannel">
     <title>Healthy Cooking</title>
     <desc>Learn to cook delicious and healthy meals.</desc>
   </programme>
-  <programme start="20250829120000 +0300" stop="20250829123000 +0300" channel="mychannel">
+  <programme start="20250829130000 +0300" stop="20250829140000 +0300" channel="mychannel">
     <title>Kids Fitness</title>
     <desc>Fun exercises designed for kids.</desc>
   </programme>
-  <programme start="20250829123000 +0300" stop="20250829130000 +0300" channel="mychannel">
+  <programme start="20250829140000 +0300" stop="20250829150000 +0300" channel="mychannel">
     <title>Morning Meditation</title>
     <desc>Start the day with a calming meditation session.</desc>
   </programme>
-  <programme start="20250829130000 +0300" stop="20250829133000 +0300" channel="mychannel">
+  <programme start="20250829150000 +0300" stop="20250829160000 +0300" channel="mychannel">
     <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20250829133000 +0300" stop="20250829140000 +0300" channel="mychannel">
+  <programme start="20250829160000 +0300" stop="20250829170000 +0300" channel="mychannel">
     <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20250830110000 +0300" stop="20250830113000 +0300" channel="mychannel">
+  <programme start="20250829170000 +0300" stop="20250829180000 +0300" channel="mychannel">
+    <title>Memes Kwanza</title>
+    <desc>Vichekesho.</desc>
+  </programme>
+  <programme start="20250830110000 +0300" stop="20250830120000 +0300" channel="mychannel">
     <title>Evening Yoga</title>
     <desc>Relaxing yoga session for all ages.</desc>
   </programme>
-  <programme start="20250830113000 +0300" stop="20250830120000 +0300" channel="mychannel">
+  <programme start="20250830120000 +0300" stop="20250830130000 +0300" channel="mychannel">
     <title>Healthy Cooking</title>
     <desc>Learn to cook delicious and healthy meals.</desc>
   </programme>
-  <programme start="20250830120000 +0300" stop="20250830123000 +0300" channel="mychannel">
+  <programme start="20250830130000 +0300" stop="20250830140000 +0300" channel="mychannel">
     <title>Kids Fitness</title>
     <desc>Fun exercises designed for kids.</desc>
   </programme>
-  <programme start="20250830123000 +0300" stop="20250830130000 +0300" channel="mychannel">
+  <programme start="20250830140000 +0300" stop="20250830150000 +0300" channel="mychannel">
     <title>Morning Meditation</title>
     <desc>Start the day with a calming meditation session.</desc>
   </programme>
-  <programme start="20250830130000 +0300" stop="20250830133000 +0300" channel="mychannel">
+  <programme start="20250830150000 +0300" stop="20250830160000 +0300" channel="mychannel">
     <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20250830133000 +0300" stop="20250830140000 +0300" channel="mychannel">
+  <programme start="20250830160000 +0300" stop="20250830170000 +0300" channel="mychannel">
     <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20250831110000 +0300" stop="20250831113000 +0300" channel="mychannel">
+  <programme start="20250830170000 +0300" stop="20250830180000 +0300" channel="mychannel">
+    <title>Memes Kwanza</title>
+    <desc>Vichekesho.</desc>
+  </programme>
+  <programme start="20250831110000 +0300" stop="20250831120000 +0300" channel="mychannel">
     <title>Evening Yoga</title>
     <desc>Relaxing yoga session for all ages.</desc>
   </programme>
-  <programme start="20250831113000 +0300" stop="20250831120000 +0300" channel="mychannel">
+  <programme start="20250831120000 +0300" stop="20250831130000 +0300" channel="mychannel">
     <title>Healthy Cooking</title>
     <desc>Learn to cook delicious and healthy meals.</desc>
   </programme>
-  <programme start="20250831120000 +0300" stop="20250831123000 +0300" channel="mychannel">
+  <programme start="20250831130000 +0300" stop="20250831140000 +0300" channel="mychannel">
     <title>Kids Fitness</title>
     <desc>Fun exercises designed for kids.</desc>
   </programme>
-  <programme start="20250831123000 +0300" stop="20250831130000 +0300" channel="mychannel">
+  <programme start="20250831140000 +0300" stop="20250831150000 +0300" channel="mychannel">
     <title>Morning Meditation</title>
     <desc>Start the day with a calming meditation session.</desc>
   </programme>
-  <programme start="20250831130000 +0300" stop="20250831133000 +0300" channel="mychannel">
+  <programme start="20250831150000 +0300" stop="20250831160000 +0300" channel="mychannel">
     <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20250831133000 +0300" stop="20250831140000 +0300" channel="mychannel">
+  <programme start="20250831160000 +0300" stop="20250831170000 +0300" channel="mychannel">
     <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20250901110000 +0300" stop="20250901113000 +0300" channel="mychannel">
+  <programme start="20250831170000 +0300" stop="20250831180000 +0300" channel="mychannel">
+    <title>Memes Kwanza</title>
+    <desc>Vichekesho.</desc>
+  </programme>
+  <programme start="20250901110000 +0300" stop="20250901120000 +0300" channel="mychannel">
     <title>Evening Yoga</title>
     <desc>Relaxing yoga session for all ages.</desc>
   </programme>
-  <programme start="20250901113000 +0300" stop="20250901120000 +0300" channel="mychannel">
+  <programme start="20250901120000 +0300" stop="20250901130000 +0300" channel="mychannel">
     <title>Healthy Cooking</title>
     <desc>Learn to cook delicious and healthy meals.</desc>
   </programme>
-  <programme start="20250901120000 +0300" stop="20250901123000 +0300" channel="mychannel">
+  <programme start="20250901130000 +0300" stop="20250901140000 +0300" channel="mychannel">
     <title>Kids Fitness</title>
     <desc>Fun exercises designed for kids.</desc>
   </programme>
-  <programme start="20250901123000 +0300" stop="20250901130000 +0300" channel="mychannel">
+  <programme start="20250901140000 +0300" stop="20250901150000 +0300" channel="mychannel">
     <title>Morning Meditation</title>
     <desc>Start the day with a calming meditation session.</desc>
   </programme>
-  <programme start="20250901130000 +0300" stop="20250901133000 +0300" channel="mychannel">
+  <programme start="20250901150000 +0300" stop="20250901160000 +0300" channel="mychannel">
     <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20250901133000 +0300" stop="20250901140000 +0300" channel="mychannel">
+  <programme start="20250901160000 +0300" stop="20250901170000 +0300" channel="mychannel">
     <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20250902110000 +0300" stop="20250902113000 +0300" channel="mychannel">
+  <programme start="20250901170000 +0300" stop="20250901180000 +0300" channel="mychannel">
+    <title>Memes Kwanza</title>
+    <desc>Vichekesho.</desc>
+  </programme>
+  <programme start="20250902110000 +0300" stop="20250902120000 +0300" channel="mychannel">
     <title>Evening Yoga</title>
     <desc>Relaxing yoga session for all ages.</desc>
   </programme>
-  <programme start="20250902113000 +0300" stop="20250902120000 +0300" channel="mychannel">
+  <programme start="20250902120000 +0300" stop="20250902130000 +0300" channel="mychannel">
     <title>Healthy Cooking</title>
     <desc>Learn to cook delicious and healthy meals.</desc>
   </programme>
-  <programme start="20250902120000 +0300" stop="20250902123000 +0300" channel="mychannel">
+  <programme start="20250902130000 +0300" stop="20250902140000 +0300" channel="mychannel">
     <title>Kids Fitness</title>
     <desc>Fun exercises designed for kids.</desc>
   </programme>
-  <programme start="20250902123000 +0300" stop="20250902130000 +0300" channel="mychannel">
+  <programme start="20250902140000 +0300" stop="20250902150000 +0300" channel="mychannel">
     <title>Morning Meditation</title>
     <desc>Start the day with a calming meditation session.</desc>
   </programme>
-  <programme start="20250902130000 +0300" stop="20250902133000 +0300" channel="mychannel">
+  <programme start="20250902150000 +0300" stop="20250902160000 +0300" channel="mychannel">
     <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20250902133000 +0300" stop="20250902140000 +0300" channel="mychannel">
+  <programme start="20250902160000 +0300" stop="20250902170000 +0300" channel="mychannel">
     <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20250903110000 +0300" stop="20250903113000 +0300" channel="mychannel">
+  <programme start="20250902170000 +0300" stop="20250902180000 +0300" channel="mychannel">
+    <title>Memes Kwanza</title>
+    <desc>Vichekesho.</desc>
+  </programme>
+  <programme start="20250903110000 +0300" stop="20250903120000 +0300" channel="mychannel">
     <title>Evening Yoga</title>
     <desc>Relaxing yoga session for all ages.</desc>
   </programme>
-  <programme start="20250903113000 +0300" stop="20250903120000 +0300" channel="mychannel">
+  <programme start="20250903120000 +0300" stop="20250903130000 +0300" channel="mychannel">
     <title>Healthy Cooking</title>
     <desc>Learn to cook delicious and healthy meals.</desc>
   </programme>
-  <programme start="20250903120000 +0300" stop="20250903123000 +0300" channel="mychannel">
+  <programme start="20250903130000 +0300" stop="20250903140000 +0300" channel="mychannel">
     <title>Kids Fitness</title>
     <desc>Fun exercises designed for kids.</desc>
   </programme>
-  <programme start="20250903123000 +0300" stop="20250903130000 +0300" channel="mychannel">
+  <programme start="20250903140000 +0300" stop="20250903150000 +0300" channel="mychannel">
     <title>Morning Meditation</title>
     <desc>Start the day with a calming meditation session.</desc>
   </programme>
-  <programme start="20250903130000 +0300" stop="20250903133000 +0300" channel="mychannel">
+  <programme start="20250903150000 +0300" stop="20250903160000 +0300" channel="mychannel">
     <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20250903133000 +0300" stop="20250903140000 +0300" channel="mychannel">
+  <programme start="20250903160000 +0300" stop="20250903170000 +0300" channel="mychannel">
     <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20250903170000 +0300" stop="20250903180000 +0300" channel="mychannel">
+    <title>Memes Kwanza</title>
+    <desc>Vichekesho.</desc>
+  </programme>
+  <programme start="20250904110000 +0300" stop="20250904120000 +0300" channel="mychannel">
+    <title>Evening Yoga</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20250904120000 +0300" stop="20250904130000 +0300" channel="mychannel">
+    <title>Healthy Cooking</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20250904130000 +0300" stop="20250904140000 +0300" channel="mychannel">
+    <title>Kids Fitness</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20250904140000 +0300" stop="20250904150000 +0300" channel="mychannel">
+    <title>Morning Meditation</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20250904150000 +0300" stop="20250904160000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20250904160000 +0300" stop="20250904170000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20250904170000 +0300" stop="20250904180000 +0300" channel="mychannel">
+    <title>Memes Kwanza</title>
+    <desc>Vichekesho.</desc>
+  </programme>
+  <programme start="20250905110000 +0300" stop="20250905120000 +0300" channel="mychannel">
+    <title>Evening Yoga</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20250905120000 +0300" stop="20250905130000 +0300" channel="mychannel">
+    <title>Healthy Cooking</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20250905130000 +0300" stop="20250905140000 +0300" channel="mychannel">
+    <title>Kids Fitness</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20250905140000 +0300" stop="20250905150000 +0300" channel="mychannel">
+    <title>Morning Meditation</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20250905150000 +0300" stop="20250905160000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20250905160000 +0300" stop="20250905170000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20250905170000 +0300" stop="20250905180000 +0300" channel="mychannel">
+    <title>Memes Kwanza</title>
+    <desc>Vichekesho.</desc>
+  </programme>
+  <programme start="20250906110000 +0300" stop="20250906120000 +0300" channel="mychannel">
+    <title>Evening Yoga</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20250906120000 +0300" stop="20250906130000 +0300" channel="mychannel">
+    <title>Healthy Cooking</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20250906130000 +0300" stop="20250906140000 +0300" channel="mychannel">
+    <title>Kids Fitness</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20250906140000 +0300" stop="20250906150000 +0300" channel="mychannel">
+    <title>Morning Meditation</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20250906150000 +0300" stop="20250906160000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20250906160000 +0300" stop="20250906170000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20250906170000 +0300" stop="20250906180000 +0300" channel="mychannel">
+    <title>Memes Kwanza</title>
+    <desc>Vichekesho.</desc>
+  </programme>
+  <programme start="20250907110000 +0300" stop="20250907120000 +0300" channel="mychannel">
+    <title>Evening Yoga</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20250907120000 +0300" stop="20250907130000 +0300" channel="mychannel">
+    <title>Healthy Cooking</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20250907130000 +0300" stop="20250907140000 +0300" channel="mychannel">
+    <title>Kids Fitness</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20250907140000 +0300" stop="20250907150000 +0300" channel="mychannel">
+    <title>Morning Meditation</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20250907150000 +0300" stop="20250907160000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20250907160000 +0300" stop="20250907170000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20250907170000 +0300" stop="20250907180000 +0300" channel="mychannel">
+    <title>Memes Kwanza</title>
+    <desc>Vichekesho.</desc>
+  </programme>
+  <programme start="20250908110000 +0300" stop="20250908120000 +0300" channel="mychannel">
+    <title>Evening Yoga</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20250908120000 +0300" stop="20250908130000 +0300" channel="mychannel">
+    <title>Healthy Cooking</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20250908130000 +0300" stop="20250908140000 +0300" channel="mychannel">
+    <title>Kids Fitness</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20250908140000 +0300" stop="20250908150000 +0300" channel="mychannel">
+    <title>Morning Meditation</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20250908150000 +0300" stop="20250908160000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20250908160000 +0300" stop="20250908170000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20250908170000 +0300" stop="20250908180000 +0300" channel="mychannel">
+    <title>Memes Kwanza</title>
+    <desc>Vichekesho.</desc>
+  </programme>
+  <programme start="20250909110000 +0300" stop="20250909120000 +0300" channel="mychannel">
+    <title>Evening Yoga</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20250909120000 +0300" stop="20250909130000 +0300" channel="mychannel">
+    <title>Healthy Cooking</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20250909130000 +0300" stop="20250909140000 +0300" channel="mychannel">
+    <title>Kids Fitness</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20250909140000 +0300" stop="20250909150000 +0300" channel="mychannel">
+    <title>Morning Meditation</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20250909150000 +0300" stop="20250909160000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20250909160000 +0300" stop="20250909170000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20250909170000 +0300" stop="20250909180000 +0300" channel="mychannel">
+    <title>Memes Kwanza</title>
+    <desc>Vichekesho.</desc>
+  </programme>
+  <programme start="20250910110000 +0300" stop="20250910120000 +0300" channel="mychannel">
+    <title>Evening Yoga</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20250910120000 +0300" stop="20250910130000 +0300" channel="mychannel">
+    <title>Healthy Cooking</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20250910130000 +0300" stop="20250910140000 +0300" channel="mychannel">
+    <title>Kids Fitness</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20250910140000 +0300" stop="20250910150000 +0300" channel="mychannel">
+    <title>Morning Meditation</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20250910150000 +0300" stop="20250910160000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20250910160000 +0300" stop="20250910170000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20250910170000 +0300" stop="20250910180000 +0300" channel="mychannel">
+    <title>Memes Kwanza</title>
+    <desc>Vichekesho.</desc>
   </programme>
 </tv>
