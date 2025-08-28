@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/sesemetech/My_epg/refs/heads/main/epgai.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/sesemetech/My_epg/refs/heads/main/epg2.xml"
 
 #EXTINF:-1 tvg-id="mychannel" tvg-name="SE-STREAM TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Smiley.svg" group-title="Health", SE-STREAM TV 2
 http://192.168.200.70:1935/live/myStream/playlist.m3u8
