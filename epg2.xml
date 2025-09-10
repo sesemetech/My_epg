@@ -3,6 +3,214 @@
 <display-name>SE-STREAM TV</display-name>
 <icon src="https://upload.wikimedia.org/wikipedia/commons/8/85/Smiley.svg"/>
 </channel>
+<programme start="20250909060000 +0300" stop="20250909063000 +0300" channel="mychannel">
+<title>Real Madrid matches</title>
+<desc>Winning Matches</desc>
+</programme>
+<programme start="20250909063000 +0300" stop="20250909070000 +0300" channel="mychannel">
+<title>Real Madrid matches</title>
+<desc>Loosing Matches</desc>
+</programme>
+<programme start="20250909070000 +0300" stop="20250909073000 +0300" channel="mychannel">
+<title>MAZOEZI</title>
+<desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
+</programme>
+<programme start="20250909073000 +0300" stop="20250909080000 +0300" channel="mychannel">
+<title>Vyakula kwa Watoto</title>
+<desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
+</programme>
+<programme start="20250909080000 +0300" stop="20250909083000 +0300" channel="mychannel">
+<title>Elimika</title>
+<desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+</programme>
+<programme start="20250909083000 +0300" stop="20250909090000 +0300" channel="mychannel">
+<title>Technkologia</title>
+<desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+</programme>
+<programme start="20250909090000 +0300" stop="20250909093000 +0300" channel="mychannel">
+<title>Mashindano</title>
+<desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+</programme>
+<programme start="20250909093000 +0300" stop="20250909100000 +0300" channel="mychannel">
+<title>Challenges</title>
+<desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+</programme>
+<programme start="20250909100000 +0300" stop="20250909103000 +0300" channel="mychannel">
+<title>Ndoto za watoto</title>
+<desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+</programme>
+<programme start="20250909103000 +0300" stop="20250909110000 +0300" channel="mychannel">
+<title>Michezo ya watoto</title>
+<desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+</programme>
+<programme start="20250909110000 +0300" stop="20250909113000 +0300" channel="mychannel">
+<title>Filamu</title>
+<desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+</programme>
+<programme start="20250909113000 +0300" stop="20250909120000 +0300" channel="mychannel">
+<title>Tamthilia</title>
+<desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+</programme>
+<programme start="20250909120000 +0300" stop="20250909123000 +0300" channel="mychannel">
+<title>Mimi ni Nani</title>
+<desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+</programme>
+<programme start="20250909123000 +0300" stop="20250909130000 +0300" channel="mychannel">
+<title>Vitimbwi vya Uchawi</title>
+<desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+</programme>
+<programme start="20250909130000 +0300" stop="20250909133000 +0300" channel="mychannel">
+<title>Nutrition Tips</title>
+<desc>Daily advice on maintaining a healthy diet.</desc>
+</programme>
+<programme start="20250909133000 +0300" stop="20250909140000 +0300" channel="mychannel">
+<title>Fitness Challenge</title>
+<desc>Join the challenge to improve your strength and stamina.</desc>
+</programme>
+<programme start="20250909140000 +0300" stop="20250909143000 +0300" channel="mychannel">
+<title>League Kuu</title>
+<desc>Mpira wa Miguu mashuleni</desc>
+</programme>
+<programme start="20250909143000 +0300" stop="20250909150000 +0300" channel="mychannel">
+<title>League Kuu</title>
+<desc>Mchezo wa Kuogelea Mashuleni</desc>
+</programme>
+<programme start="20250909150000 +0300" stop="20250909153000 +0300" channel="mychannel">
+<title>League Kuu</title>
+<desc>Mchezo wa Tennis Mashuleni</desc>
+</programme>
+<programme start="20250909153000 +0300" stop="20250909160000 +0300" channel="mychannel">
+<title>League Kuu</title>
+<desc>Mchezo ya Kuandaa Miladi Mashuleni</desc>
+</programme>
+<programme start="20250909160000 +0300" stop="20250909163000 +0300" channel="mychannel">
+<title>League Kuu</title>
+<desc>Mchezo wa Kushindana Kutumia Computer</desc>
+</programme>
+<programme start="20250909163000 +0300" stop="20250909170000 +0300" channel="mychannel">
+<title>Elimika</title>
+<desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+</programme>
+<programme start="20250909170000 +0300" stop="20250909173000 +0300" channel="mychannel">
+<title>Technkologia</title>
+<desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+</programme>
+<programme start="20250909173000 +0300" stop="20250909180000 +0300" channel="mychannel">
+<title>Mashindano</title>
+<desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+</programme>
+<programme start="20250909180000 +0300" stop="20250909183000 +0300" channel="mychannel">
+<title>Challenges</title>
+<desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+</programme>
+<programme start="20250909183000 +0300" stop="20250909190000 +0300" channel="mychannel">
+<title>Ndoto za watoto</title>
+<desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+</programme>
+<programme start="20250910060000 +0300" stop="20250910063000 +0300" channel="mychannel">
+<title>Real Madrid matches</title>
+<desc>Winning Matches</desc>
+</programme>
+<programme start="20250910063000 +0300" stop="20250910070000 +0300" channel="mychannel">
+<title>Real Madrid matches</title>
+<desc>Loosing Matches</desc>
+</programme>
+<programme start="20250910070000 +0300" stop="20250910073000 +0300" channel="mychannel">
+<title>MAZOEZI</title>
+<desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
+</programme>
+<programme start="20250910073000 +0300" stop="20250910080000 +0300" channel="mychannel">
+<title>Vyakula kwa Watoto</title>
+<desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
+</programme>
+<programme start="20250910080000 +0300" stop="20250910083000 +0300" channel="mychannel">
+<title>Elimika</title>
+<desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+</programme>
+<programme start="20250910083000 +0300" stop="20250910090000 +0300" channel="mychannel">
+<title>Technkologia</title>
+<desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+</programme>
+<programme start="20250910090000 +0300" stop="20250910093000 +0300" channel="mychannel">
+<title>Mashindano</title>
+<desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+</programme>
+<programme start="20250910093000 +0300" stop="20250910100000 +0300" channel="mychannel">
+<title>Challenges</title>
+<desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+</programme>
+<programme start="20250910100000 +0300" stop="20250910103000 +0300" channel="mychannel">
+<title>Ndoto za watoto</title>
+<desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+</programme>
+<programme start="20250910103000 +0300" stop="20250910110000 +0300" channel="mychannel">
+<title>Michezo ya watoto</title>
+<desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+</programme>
+<programme start="20250910110000 +0300" stop="20250910113000 +0300" channel="mychannel">
+<title>Filamu</title>
+<desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+</programme>
+<programme start="20250910113000 +0300" stop="20250910120000 +0300" channel="mychannel">
+<title>Tamthilia</title>
+<desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+</programme>
+<programme start="20250910120000 +0300" stop="20250910123000 +0300" channel="mychannel">
+<title>Mimi ni Nani</title>
+<desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+</programme>
+<programme start="20250910123000 +0300" stop="20250910130000 +0300" channel="mychannel">
+<title>Vitimbwi vya Uchawi</title>
+<desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+</programme>
+<programme start="20250910130000 +0300" stop="20250910133000 +0300" channel="mychannel">
+<title>Nutrition Tips</title>
+<desc>Daily advice on maintaining a healthy diet.</desc>
+</programme>
+<programme start="20250910133000 +0300" stop="20250910140000 +0300" channel="mychannel">
+<title>Fitness Challenge</title>
+<desc>Join the challenge to improve your strength and stamina.</desc>
+</programme>
+<programme start="20250910140000 +0300" stop="20250910143000 +0300" channel="mychannel">
+<title>League Kuu</title>
+<desc>Mpira wa Miguu mashuleni</desc>
+</programme>
+<programme start="20250910143000 +0300" stop="20250910150000 +0300" channel="mychannel">
+<title>League Kuu</title>
+<desc>Mchezo wa Kuogelea Mashuleni</desc>
+</programme>
+<programme start="20250910150000 +0300" stop="20250910153000 +0300" channel="mychannel">
+<title>League Kuu</title>
+<desc>Mchezo wa Tennis Mashuleni</desc>
+</programme>
+<programme start="20250910153000 +0300" stop="20250910160000 +0300" channel="mychannel">
+<title>League Kuu</title>
+<desc>Mchezo ya Kuandaa Miladi Mashuleni</desc>
+</programme>
+<programme start="20250910160000 +0300" stop="20250910163000 +0300" channel="mychannel">
+<title>League Kuu</title>
+<desc>Mchezo wa Kushindana Kutumia Computer</desc>
+</programme>
+<programme start="20250910163000 +0300" stop="20250910170000 +0300" channel="mychannel">
+<title>Elimika</title>
+<desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+</programme>
+<programme start="20250910170000 +0300" stop="20250910173000 +0300" channel="mychannel">
+<title>Technkologia</title>
+<desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+</programme>
+<programme start="20250910173000 +0300" stop="20250910180000 +0300" channel="mychannel">
+<title>Mashindano</title>
+<desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+</programme>
+<programme start="20250910180000 +0300" stop="20250910183000 +0300" channel="mychannel">
+<title>Challenges</title>
+<desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+</programme>
+<programme start="20250910183000 +0300" stop="20250910190000 +0300" channel="mychannel">
+<title>Ndoto za watoto</title>
+<desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+</programme>
 <programme start="20250911060000 +0300" stop="20250911063000 +0300" channel="mychannel">
 <title>Real Madrid matches</title>
 <desc>Winning Matches</desc>
@@ -520,214 +728,6 @@
 <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
 </programme>
 <programme start="20250915183000 +0300" stop="20250915190000 +0300" channel="mychannel">
-<title>Ndoto za watoto</title>
-<desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
-</programme>
-<programme start="20250916060000 +0300" stop="20250916063000 +0300" channel="mychannel">
-<title>Real Madrid matches</title>
-<desc>Winning Matches</desc>
-</programme>
-<programme start="20250916063000 +0300" stop="20250916070000 +0300" channel="mychannel">
-<title>Real Madrid matches</title>
-<desc>Loosing Matches</desc>
-</programme>
-<programme start="20250916070000 +0300" stop="20250916073000 +0300" channel="mychannel">
-<title>MAZOEZI</title>
-<desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
-</programme>
-<programme start="20250916073000 +0300" stop="20250916080000 +0300" channel="mychannel">
-<title>Vyakula kwa Watoto</title>
-<desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
-</programme>
-<programme start="20250916080000 +0300" stop="20250916083000 +0300" channel="mychannel">
-<title>Elimika</title>
-<desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
-</programme>
-<programme start="20250916083000 +0300" stop="20250916090000 +0300" channel="mychannel">
-<title>Technkologia</title>
-<desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
-</programme>
-<programme start="20250916090000 +0300" stop="20250916093000 +0300" channel="mychannel">
-<title>Mashindano</title>
-<desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
-</programme>
-<programme start="20250916093000 +0300" stop="20250916100000 +0300" channel="mychannel">
-<title>Challenges</title>
-<desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
-</programme>
-<programme start="20250916100000 +0300" stop="20250916103000 +0300" channel="mychannel">
-<title>Ndoto za watoto</title>
-<desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
-</programme>
-<programme start="20250916103000 +0300" stop="20250916110000 +0300" channel="mychannel">
-<title>Michezo ya watoto</title>
-<desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
-</programme>
-<programme start="20250916110000 +0300" stop="20250916113000 +0300" channel="mychannel">
-<title>Filamu</title>
-<desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
-</programme>
-<programme start="20250916113000 +0300" stop="20250916120000 +0300" channel="mychannel">
-<title>Tamthilia</title>
-<desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
-</programme>
-<programme start="20250916120000 +0300" stop="20250916123000 +0300" channel="mychannel">
-<title>Mimi ni Nani</title>
-<desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
-</programme>
-<programme start="20250916123000 +0300" stop="20250916130000 +0300" channel="mychannel">
-<title>Vitimbwi vya Uchawi</title>
-<desc>Wanafanya nini na nini wanachonufaika nacho</desc>
-</programme>
-<programme start="20250916130000 +0300" stop="20250916133000 +0300" channel="mychannel">
-<title>Nutrition Tips</title>
-<desc>Daily advice on maintaining a healthy diet.</desc>
-</programme>
-<programme start="20250916133000 +0300" stop="20250916140000 +0300" channel="mychannel">
-<title>Fitness Challenge</title>
-<desc>Join the challenge to improve your strength and stamina.</desc>
-</programme>
-<programme start="20250916140000 +0300" stop="20250916143000 +0300" channel="mychannel">
-<title>League Kuu</title>
-<desc>Mpira wa Miguu mashuleni</desc>
-</programme>
-<programme start="20250916143000 +0300" stop="20250916150000 +0300" channel="mychannel">
-<title>League Kuu</title>
-<desc>Mchezo wa Kuogelea Mashuleni</desc>
-</programme>
-<programme start="20250916150000 +0300" stop="20250916153000 +0300" channel="mychannel">
-<title>League Kuu</title>
-<desc>Mchezo wa Tennis Mashuleni</desc>
-</programme>
-<programme start="20250916153000 +0300" stop="20250916160000 +0300" channel="mychannel">
-<title>League Kuu</title>
-<desc>Mchezo ya Kuandaa Miladi Mashuleni</desc>
-</programme>
-<programme start="20250916160000 +0300" stop="20250916163000 +0300" channel="mychannel">
-<title>League Kuu</title>
-<desc>Mchezo wa Kushindana Kutumia Computer</desc>
-</programme>
-<programme start="20250916163000 +0300" stop="20250916170000 +0300" channel="mychannel">
-<title>Elimika</title>
-<desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
-</programme>
-<programme start="20250916170000 +0300" stop="20250916173000 +0300" channel="mychannel">
-<title>Technkologia</title>
-<desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
-</programme>
-<programme start="20250916173000 +0300" stop="20250916180000 +0300" channel="mychannel">
-<title>Mashindano</title>
-<desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
-</programme>
-<programme start="20250916180000 +0300" stop="20250916183000 +0300" channel="mychannel">
-<title>Challenges</title>
-<desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
-</programme>
-<programme start="20250916183000 +0300" stop="20250916190000 +0300" channel="mychannel">
-<title>Ndoto za watoto</title>
-<desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
-</programme>
-<programme start="20250917060000 +0300" stop="20250917063000 +0300" channel="mychannel">
-<title>Real Madrid matches</title>
-<desc>Winning Matches</desc>
-</programme>
-<programme start="20250917063000 +0300" stop="20250917070000 +0300" channel="mychannel">
-<title>Real Madrid matches</title>
-<desc>Loosing Matches</desc>
-</programme>
-<programme start="20250917070000 +0300" stop="20250917073000 +0300" channel="mychannel">
-<title>MAZOEZI</title>
-<desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
-</programme>
-<programme start="20250917073000 +0300" stop="20250917080000 +0300" channel="mychannel">
-<title>Vyakula kwa Watoto</title>
-<desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
-</programme>
-<programme start="20250917080000 +0300" stop="20250917083000 +0300" channel="mychannel">
-<title>Elimika</title>
-<desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
-</programme>
-<programme start="20250917083000 +0300" stop="20250917090000 +0300" channel="mychannel">
-<title>Technkologia</title>
-<desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
-</programme>
-<programme start="20250917090000 +0300" stop="20250917093000 +0300" channel="mychannel">
-<title>Mashindano</title>
-<desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
-</programme>
-<programme start="20250917093000 +0300" stop="20250917100000 +0300" channel="mychannel">
-<title>Challenges</title>
-<desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
-</programme>
-<programme start="20250917100000 +0300" stop="20250917103000 +0300" channel="mychannel">
-<title>Ndoto za watoto</title>
-<desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
-</programme>
-<programme start="20250917103000 +0300" stop="20250917110000 +0300" channel="mychannel">
-<title>Michezo ya watoto</title>
-<desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
-</programme>
-<programme start="20250917110000 +0300" stop="20250917113000 +0300" channel="mychannel">
-<title>Filamu</title>
-<desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
-</programme>
-<programme start="20250917113000 +0300" stop="20250917120000 +0300" channel="mychannel">
-<title>Tamthilia</title>
-<desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
-</programme>
-<programme start="20250917120000 +0300" stop="20250917123000 +0300" channel="mychannel">
-<title>Mimi ni Nani</title>
-<desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
-</programme>
-<programme start="20250917123000 +0300" stop="20250917130000 +0300" channel="mychannel">
-<title>Vitimbwi vya Uchawi</title>
-<desc>Wanafanya nini na nini wanachonufaika nacho</desc>
-</programme>
-<programme start="20250917130000 +0300" stop="20250917133000 +0300" channel="mychannel">
-<title>Nutrition Tips</title>
-<desc>Daily advice on maintaining a healthy diet.</desc>
-</programme>
-<programme start="20250917133000 +0300" stop="20250917140000 +0300" channel="mychannel">
-<title>Fitness Challenge</title>
-<desc>Join the challenge to improve your strength and stamina.</desc>
-</programme>
-<programme start="20250917140000 +0300" stop="20250917143000 +0300" channel="mychannel">
-<title>League Kuu</title>
-<desc>Mpira wa Miguu mashuleni</desc>
-</programme>
-<programme start="20250917143000 +0300" stop="20250917150000 +0300" channel="mychannel">
-<title>League Kuu</title>
-<desc>Mchezo wa Kuogelea Mashuleni</desc>
-</programme>
-<programme start="20250917150000 +0300" stop="20250917153000 +0300" channel="mychannel">
-<title>League Kuu</title>
-<desc>Mchezo wa Tennis Mashuleni</desc>
-</programme>
-<programme start="20250917153000 +0300" stop="20250917160000 +0300" channel="mychannel">
-<title>League Kuu</title>
-<desc>Mchezo ya Kuandaa Miladi Mashuleni</desc>
-</programme>
-<programme start="20250917160000 +0300" stop="20250917163000 +0300" channel="mychannel">
-<title>League Kuu</title>
-<desc>Mchezo wa Kushindana Kutumia Computer</desc>
-</programme>
-<programme start="20250917163000 +0300" stop="20250917170000 +0300" channel="mychannel">
-<title>Elimika</title>
-<desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
-</programme>
-<programme start="20250917170000 +0300" stop="20250917173000 +0300" channel="mychannel">
-<title>Technkologia</title>
-<desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
-</programme>
-<programme start="20250917173000 +0300" stop="20250917180000 +0300" channel="mychannel">
-<title>Mashindano</title>
-<desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
-</programme>
-<programme start="20250917180000 +0300" stop="20250917183000 +0300" channel="mychannel">
-<title>Challenges</title>
-<desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
-</programme>
-<programme start="20250917183000 +0300" stop="20250917190000 +0300" channel="mychannel">
 <title>Ndoto za watoto</title>
 <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
 </programme>
