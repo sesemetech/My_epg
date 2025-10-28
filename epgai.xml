@@ -5,404 +5,964 @@
     <display-name>SE-STREAM TV</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/8/85/Smiley.svg"/>
   </channel>
-  <programme start="20251011170000 +0300" stop="20251011190000 +0300" channel="mychannel">
-    <title>Batman &amp; Robin</title>
-    <desc/>
-  </programme>
-  <programme start="20251011190000 +0300" stop="20251011210000 +0300" channel="mychannel">
-    <title>Creed</title>
-    <desc/>
-  </programme>
-  <programme start="20251011210000 +0300" stop="20251011230000 +0300" channel="mychannel">
-    <title>Birds of Prey</title>
-    <desc/>
-  </programme>
-  <programme start="20251011230000 +0300" stop="20251012010000 +0300" channel="mychannel">
-    <title>Killer Elite</title>
-    <desc/>
-  </programme>
-  <programme start="20251012010000 +0300" stop="20251012030000 +0300" channel="mychannel">
-    <title>Death Proof</title>
-    <desc/>
-  </programme>
-  <programme start="20251012030000 +0300" stop="20251012050000 +0300" channel="mychannel">
-    <title>Birds of Prey</title>
-    <desc/>
-  </programme>
-  <programme start="20251012050000 +0300" stop="20251012070000 +0300" channel="mychannel">
-    <title>Suicide Squad</title>
-    <desc/>
-  </programme>
-  <programme start="20251012070000 +0300" stop="20251012090000 +0300" channel="mychannel">
-    <title>Greenland</title>
-    <desc/>
-  </programme>
-  <programme start="20251012090000 +0300" stop="20251012110000 +0300" channel="mychannel">
-    <title>Batman &amp; Robin</title>
-    <desc/>
-  </programme>
-  <programme start="20251012110000 +0300" stop="20251012130000 +0300" channel="mychannel">
-    <title>Creed</title>
-    <desc/>
-  </programme>
-  <programme start="20251012130000 +0300" stop="20251012150000 +0300" channel="mychannel">
-    <title>Birds of Prey</title>
-    <desc/>
-  </programme>
-  <programme start="20251012150000 +0300" stop="20251012170000 +0300" channel="mychannel">
-    <title>Batman Returns</title>
-    <desc/>
-  </programme>
-  <programme start="20251012170000 +0300" stop="20251012190000 +0300" channel="mychannel">
-    <title>10,000 B.C.</title>
-    <desc/>
-  </programme>
-  <programme start="20251012190000 +0300" stop="20251012210000 +0300" channel="mychannel">
-    <title>King Arthur</title>
-    <desc>Legend of the Sword</desc>
-  </programme>
-  <programme start="20251012210000 +0300" stop="20251012230000 +0300" channel="mychannel">
-    <title>Bulletproof Monk</title>
-    <desc/>
-  </programme>
-  <programme start="20251012230000 +0300" stop="20251013010000 +0300" channel="mychannel">
-    <title>The Man with the Iron Fists</title>
-    <desc/>
-  </programme>
-  <programme start="20251013010000 +0300" stop="20251013030000 +0300" channel="mychannel">
-    <title>Batman v Superman</title>
-    <desc>Dawn of Justice</desc>
-  </programme>
-  <programme start="20251013030000 +0300" stop="20251013050000 +0300" channel="mychannel">
-    <title>Bulletproof Monk</title>
-    <desc/>
-  </programme>
-  <programme start="20251013050000 +0300" stop="20251013070000 +0300" channel="mychannel">
-    <title>Batman Returns</title>
-    <desc/>
-  </programme>
-  <programme start="20251013070000 +0300" stop="20251013090000 +0300" channel="mychannel">
-    <title>10,000 B.C.</title>
-    <desc/>
-  </programme>
-  <programme start="20251012170000 +0300" stop="20251012190000 +0300" channel="mychannel">
-    <title>Batman &amp; Robin</title>
-    <desc/>
-  </programme>
-  <programme start="20251012190000 +0300" stop="20251012210000 +0300" channel="mychannel">
-    <title>Creed</title>
-    <desc/>
-  </programme>
-  <programme start="20251012210000 +0300" stop="20251012230000 +0300" channel="mychannel">
-    <title>Birds of Prey</title>
-    <desc/>
-  </programme>
-  <programme start="20251012230000 +0300" stop="20251013010000 +0300" channel="mychannel">
-    <title>Killer Elite</title>
-    <desc/>
-  </programme>
-  <programme start="20251013010000 +0300" stop="20251013030000 +0300" channel="mychannel">
-    <title>Death Proof</title>
-    <desc/>
-  </programme>
-  <programme start="20251013030000 +0300" stop="20251013050000 +0300" channel="mychannel">
-    <title>Birds of Prey</title>
-    <desc/>
-  </programme>
-  <programme start="20251013050000 +0300" stop="20251013070000 +0300" channel="mychannel">
-    <title>Suicide Squad</title>
-    <desc/>
-  </programme>
-  <programme start="20251013070000 +0300" stop="20251013090000 +0300" channel="mychannel">
-    <title>Greenland</title>
-    <desc/>
-  </programme>
-  <programme start="20251013090000 +0300" stop="20251013110000 +0300" channel="mychannel">
-    <title>Batman &amp; Robin</title>
-    <desc/>
-  </programme>
-  <programme start="20251013110000 +0300" stop="20251013130000 +0300" channel="mychannel">
-    <title>Creed</title>
-    <desc/>
-  </programme>
-  <programme start="20251013130000 +0300" stop="20251013150000 +0300" channel="mychannel">
-    <title>Birds of Prey</title>
-    <desc/>
-  </programme>
-  <programme start="20251013150000 +0300" stop="20251013170000 +0300" channel="mychannel">
-    <title>Batman Returns</title>
-    <desc/>
-  </programme>
-  <programme start="20251013170000 +0300" stop="20251013190000 +0300" channel="mychannel">
-    <title>10,000 B.C.</title>
-    <desc/>
-  </programme>
-  <programme start="20251013190000 +0300" stop="20251013210000 +0300" channel="mychannel">
-    <title>King Arthur</title>
-    <desc>Legend of the Sword</desc>
-  </programme>
-  <programme start="20251013210000 +0300" stop="20251013230000 +0300" channel="mychannel">
-    <title>Bulletproof Monk</title>
-    <desc/>
-  </programme>
-  <programme start="20251013230000 +0300" stop="20251014010000 +0300" channel="mychannel">
-    <title>The Man with the Iron Fists</title>
-    <desc/>
-  </programme>
-  <programme start="20251014010000 +0300" stop="20251014030000 +0300" channel="mychannel">
-    <title>Batman v Superman</title>
-    <desc>Dawn of Justice</desc>
-  </programme>
-  <programme start="20251014030000 +0300" stop="20251014050000 +0300" channel="mychannel">
-    <title>Bulletproof Monk</title>
-    <desc/>
-  </programme>
-  <programme start="20251014050000 +0300" stop="20251014070000 +0300" channel="mychannel">
-    <title>Batman Returns</title>
-    <desc/>
-  </programme>
-  <programme start="20251014070000 +0300" stop="20251014090000 +0300" channel="mychannel">
-    <title>10,000 B.C.</title>
-    <desc/>
-  </programme>
-  <programme start="20251013170000 +0300" stop="20251013190000 +0300" channel="mychannel">
-    <title>Batman &amp; Robin</title>
-    <desc/>
-  </programme>
-  <programme start="20251013190000 +0300" stop="20251013210000 +0300" channel="mychannel">
-    <title>Creed</title>
-    <desc/>
-  </programme>
-  <programme start="20251013210000 +0300" stop="20251013230000 +0300" channel="mychannel">
-    <title>Birds of Prey</title>
-    <desc/>
-  </programme>
-  <programme start="20251013230000 +0300" stop="20251014010000 +0300" channel="mychannel">
-    <title>Killer Elite</title>
-    <desc/>
-  </programme>
-  <programme start="20251014010000 +0300" stop="20251014030000 +0300" channel="mychannel">
-    <title>Death Proof</title>
-    <desc/>
-  </programme>
-  <programme start="20251014030000 +0300" stop="20251014050000 +0300" channel="mychannel">
-    <title>Birds of Prey</title>
-    <desc/>
-  </programme>
-  <programme start="20251014050000 +0300" stop="20251014070000 +0300" channel="mychannel">
-    <title>Suicide Squad</title>
-    <desc/>
-  </programme>
-  <programme start="20251014070000 +0300" stop="20251014090000 +0300" channel="mychannel">
-    <title>Greenland</title>
-    <desc/>
-  </programme>
-  <programme start="20251014090000 +0300" stop="20251014110000 +0300" channel="mychannel">
-    <title>Batman &amp; Robin</title>
-    <desc/>
-  </programme>
-  <programme start="20251014110000 +0300" stop="20251014130000 +0300" channel="mychannel">
-    <title>Creed</title>
-    <desc/>
-  </programme>
-  <programme start="20251014130000 +0300" stop="20251014150000 +0300" channel="mychannel">
-    <title>Birds of Prey</title>
-    <desc/>
-  </programme>
-  <programme start="20251014150000 +0300" stop="20251014170000 +0300" channel="mychannel">
-    <title>Batman Returns</title>
-    <desc/>
-  </programme>
-  <programme start="20251014170000 +0300" stop="20251014190000 +0300" channel="mychannel">
-    <title>10,000 B.C.</title>
-    <desc/>
-  </programme>
-  <programme start="20251014190000 +0300" stop="20251014210000 +0300" channel="mychannel">
-    <title>King Arthur</title>
-    <desc>Legend of the Sword</desc>
-  </programme>
-  <programme start="20251014210000 +0300" stop="20251014230000 +0300" channel="mychannel">
-    <title>Bulletproof Monk</title>
-    <desc/>
-  </programme>
-  <programme start="20251014230000 +0300" stop="20251015010000 +0300" channel="mychannel">
-    <title>The Man with the Iron Fists</title>
-    <desc/>
-  </programme>
-  <programme start="20251015010000 +0300" stop="20251015030000 +0300" channel="mychannel">
-    <title>Batman v Superman</title>
-    <desc>Dawn of Justice</desc>
-  </programme>
-  <programme start="20251015030000 +0300" stop="20251015050000 +0300" channel="mychannel">
-    <title>Bulletproof Monk</title>
-    <desc/>
-  </programme>
-  <programme start="20251015050000 +0300" stop="20251015070000 +0300" channel="mychannel">
-    <title>Batman Returns</title>
-    <desc/>
-  </programme>
-  <programme start="20251015070000 +0300" stop="20251015090000 +0300" channel="mychannel">
-    <title>10,000 B.C.</title>
-    <desc/>
-  </programme>
-  <programme start="20251014170000 +0300" stop="20251014190000 +0300" channel="mychannel">
-    <title>Batman &amp; Robin</title>
-    <desc/>
-  </programme>
-  <programme start="20251014190000 +0300" stop="20251014210000 +0300" channel="mychannel">
-    <title>Creed</title>
-    <desc/>
-  </programme>
-  <programme start="20251014210000 +0300" stop="20251014230000 +0300" channel="mychannel">
-    <title>Birds of Prey</title>
-    <desc/>
-  </programme>
-  <programme start="20251014230000 +0300" stop="20251015010000 +0300" channel="mychannel">
-    <title>Killer Elite</title>
-    <desc/>
-  </programme>
-  <programme start="20251015010000 +0300" stop="20251015030000 +0300" channel="mychannel">
-    <title>Death Proof</title>
-    <desc/>
-  </programme>
-  <programme start="20251015030000 +0300" stop="20251015050000 +0300" channel="mychannel">
-    <title>Birds of Prey</title>
-    <desc/>
-  </programme>
-  <programme start="20251015050000 +0300" stop="20251015070000 +0300" channel="mychannel">
-    <title>Suicide Squad</title>
-    <desc/>
-  </programme>
-  <programme start="20251015070000 +0300" stop="20251015090000 +0300" channel="mychannel">
-    <title>Greenland</title>
-    <desc/>
-  </programme>
-  <programme start="20251015090000 +0300" stop="20251015110000 +0300" channel="mychannel">
-    <title>Batman &amp; Robin</title>
-    <desc/>
-  </programme>
-  <programme start="20251015110000 +0300" stop="20251015130000 +0300" channel="mychannel">
-    <title>Creed</title>
-    <desc/>
-  </programme>
-  <programme start="20251015130000 +0300" stop="20251015150000 +0300" channel="mychannel">
-    <title>Birds of Prey</title>
-    <desc/>
-  </programme>
-  <programme start="20251015150000 +0300" stop="20251015170000 +0300" channel="mychannel">
-    <title>Batman Returns</title>
-    <desc/>
-  </programme>
-  <programme start="20251015170000 +0300" stop="20251015190000 +0300" channel="mychannel">
-    <title>10,000 B.C.</title>
-    <desc/>
-  </programme>
-  <programme start="20251015190000 +0300" stop="20251015210000 +0300" channel="mychannel">
-    <title>King Arthur</title>
-    <desc>Legend of the Sword</desc>
-  </programme>
-  <programme start="20251015210000 +0300" stop="20251015230000 +0300" channel="mychannel">
-    <title>Bulletproof Monk</title>
-    <desc/>
-  </programme>
-  <programme start="20251015230000 +0300" stop="20251016010000 +0300" channel="mychannel">
-    <title>The Man with the Iron Fists</title>
-    <desc/>
-  </programme>
-  <programme start="20251016010000 +0300" stop="20251016030000 +0300" channel="mychannel">
-    <title>Batman v Superman</title>
-    <desc>Dawn of Justice</desc>
-  </programme>
-  <programme start="20251016030000 +0300" stop="20251016050000 +0300" channel="mychannel">
-    <title>Bulletproof Monk</title>
-    <desc/>
-  </programme>
-  <programme start="20251016050000 +0300" stop="20251016070000 +0300" channel="mychannel">
-    <title>Batman Returns</title>
-    <desc/>
-  </programme>
-  <programme start="20251016070000 +0300" stop="20251016090000 +0300" channel="mychannel">
-    <title>10,000 B.C.</title>
-    <desc/>
-  </programme>
-  <programme start="20251015170000 +0300" stop="20251015190000 +0300" channel="mychannel">
-    <title>Batman &amp; Robin</title>
-    <desc/>
-  </programme>
-  <programme start="20251015190000 +0300" stop="20251015210000 +0300" channel="mychannel">
-    <title>Creed</title>
-    <desc/>
-  </programme>
-  <programme start="20251015210000 +0300" stop="20251015230000 +0300" channel="mychannel">
-    <title>Birds of Prey</title>
-    <desc/>
-  </programme>
-  <programme start="20251015230000 +0300" stop="20251016010000 +0300" channel="mychannel">
-    <title>Killer Elite</title>
-    <desc/>
-  </programme>
-  <programme start="20251016010000 +0300" stop="20251016030000 +0300" channel="mychannel">
-    <title>Death Proof</title>
-    <desc/>
-  </programme>
-  <programme start="20251016030000 +0300" stop="20251016050000 +0300" channel="mychannel">
-    <title>Birds of Prey</title>
-    <desc/>
-  </programme>
-  <programme start="20251016050000 +0300" stop="20251016070000 +0300" channel="mychannel">
-    <title>Suicide Squad</title>
-    <desc/>
-  </programme>
-  <programme start="20251016070000 +0300" stop="20251016090000 +0300" channel="mychannel">
-    <title>Greenland</title>
-    <desc/>
-  </programme>
-  <programme start="20251016090000 +0300" stop="20251016110000 +0300" channel="mychannel">
-    <title>Batman &amp; Robin</title>
-    <desc/>
-  </programme>
-  <programme start="20251016110000 +0300" stop="20251016130000 +0300" channel="mychannel">
-    <title>Creed</title>
-    <desc/>
-  </programme>
-  <programme start="20251016130000 +0300" stop="20251016150000 +0300" channel="mychannel">
-    <title>Birds of Prey</title>
-    <desc/>
-  </programme>
-  <programme start="20251016150000 +0300" stop="20251016170000 +0300" channel="mychannel">
-    <title>Batman Returns</title>
-    <desc/>
-  </programme>
-  <programme start="20251016170000 +0300" stop="20251016190000 +0300" channel="mychannel">
-    <title>10,000 B.C.</title>
-    <desc/>
-  </programme>
-  <programme start="20251016190000 +0300" stop="20251016210000 +0300" channel="mychannel">
-    <title>King Arthur</title>
-    <desc>Legend of the Sword</desc>
-  </programme>
-  <programme start="20251016210000 +0300" stop="20251016230000 +0300" channel="mychannel">
-    <title>Bulletproof Monk</title>
-    <desc/>
-  </programme>
-  <programme start="20251016230000 +0300" stop="20251017010000 +0300" channel="mychannel">
-    <title>The Man with the Iron Fists</title>
-    <desc/>
-  </programme>
-  <programme start="20251017010000 +0300" stop="20251017030000 +0300" channel="mychannel">
-    <title>Batman v Superman</title>
-    <desc>Dawn of Justice</desc>
-  </programme>
-  <programme start="20251017030000 +0300" stop="20251017050000 +0300" channel="mychannel">
-    <title>Bulletproof Monk</title>
-    <desc/>
-  </programme>
-  <programme start="20251017050000 +0300" stop="20251017070000 +0300" channel="mychannel">
-    <title>Batman Returns</title>
-    <desc/>
-  </programme>
-  <programme start="20251017070000 +0300" stop="20251017090000 +0300" channel="mychannel">
-    <title>10,000 B.C.</title>
-    <desc/>
+  <programme start="20251028190000 +0300" stop="20251028200000 +0300" channel="mychannel">
+    <title>Madrid Youth</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20251028200000 +0300" stop="20251028210000 +0300" channel="mychannel">
+    <title>Liverpool Vs Madrid</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20251028210000 +0300" stop="20251028220000 +0300" channel="mychannel">
+    <title>Highlight 2024/2025</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20251028220000 +0300" stop="20251028230000 +0300" channel="mychannel">
+    <title>Coach session</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20251028230000 +0300" stop="20251029000000 +0300" channel="mychannel">
+    <title>World of Champion</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20251029000000 +0300" stop="20251029010000 +0300" channel="mychannel">
+    <title>Madrid Best Finisher</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20251029010000 +0300" stop="20251029020000 +0300" channel="mychannel">
+    <title>Best Madrid Goals 2023/2025</title>
+    <desc>Join the challenge strength and stamina.</desc>
+  </programme>
+  <programme start="20251029020000 +0300" stop="20251029030000 +0300" channel="mychannel">
+    <title>Best Middfilder</title>
+    <desc>Join the challenge to improve your strength</desc>
+  </programme>
+  <programme start="20251029030000 +0300" stop="20251029040000 +0300" channel="mychannel">
+    <title>Best of Christian Ronaldo</title>
+    <desc>Highlight on the Board</desc>
+  </programme>
+  <programme start="20251029040000 +0300" stop="20251029050000 +0300" channel="mychannel">
+    <title>Ronaldo Delima season</title>
+    <desc>where up to now</desc>
+  </programme>
+  <programme start="20251029050000 +0300" stop="20251029060000 +0300" channel="mychannel">
+    <title>Best Madrid from Brazil</title>
+    <desc>best player and what they did from Brazil</desc>
+  </programme>
+  <programme start="20251029060000 +0300" stop="20251029070000 +0300" channel="mychannel">
+    <title>Madrid Coach of All the time</title>
+    <desc>Who own everything</desc>
+  </programme>
+  <programme start="20251029070000 +0300" stop="20251029080000 +0300" channel="mychannel">
+    <title>Madrid Youth</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20251029080000 +0300" stop="20251029090000 +0300" channel="mychannel">
+    <title>Liverpool Vs Madrid</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20251029090000 +0300" stop="20251029100000 +0300" channel="mychannel">
+    <title>Highlight 2024/2025</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20251029100000 +0300" stop="20251029110000 +0300" channel="mychannel">
+    <title>Coach session</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20251029110000 +0300" stop="20251029120000 +0300" channel="mychannel">
+    <title>World of Champion</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20251029120000 +0300" stop="20251029130000 +0300" channel="mychannel">
+    <title>Madrid Best Finisher</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20251029130000 +0300" stop="20251029140000 +0300" channel="mychannel">
+    <title>Best Madrid Goals 2023/2025</title>
+    <desc>Join the challenge strength and stamina.</desc>
+  </programme>
+  <programme start="20251029140000 +0300" stop="20251029150000 +0300" channel="mychannel">
+    <title>Best Middfilder</title>
+    <desc>Join the challenge to improve your strength</desc>
+  </programme>
+  <programme start="20251029150000 +0300" stop="20251029160000 +0300" channel="mychannel">
+    <title>Best of Christian Ronaldo</title>
+    <desc>Highlight on the Board</desc>
+  </programme>
+  <programme start="20251029160000 +0300" stop="20251029170000 +0300" channel="mychannel">
+    <title>Ronaldo Delima season</title>
+    <desc>where up to now</desc>
+  </programme>
+  <programme start="20251029170000 +0300" stop="20251029180000 +0300" channel="mychannel">
+    <title>Best Madrid from Brazil</title>
+    <desc>best player and what they did from Brazil</desc>
+  </programme>
+  <programme start="20251029180000 +0300" stop="20251029190000 +0300" channel="mychannel">
+    <title>Madrid Coach of All the time</title>
+    <desc>Who own everything</desc>
+  </programme>
+  <programme start="20251029190000 +0300" stop="20251029200000 +0300" channel="mychannel">
+    <title>Madrid Youth</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20251029200000 +0300" stop="20251029210000 +0300" channel="mychannel">
+    <title>Liverpool Vs Madrid</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20251029210000 +0300" stop="20251029220000 +0300" channel="mychannel">
+    <title>Highlight 2024/2025</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20251029220000 +0300" stop="20251029230000 +0300" channel="mychannel">
+    <title>Coach session</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20251029230000 +0300" stop="20251030000000 +0300" channel="mychannel">
+    <title>World of Champion</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20251030000000 +0300" stop="20251030010000 +0300" channel="mychannel">
+    <title>Madrid Best Finisher</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20251030010000 +0300" stop="20251030020000 +0300" channel="mychannel">
+    <title>Best Madrid Goals 2023/2025</title>
+    <desc>Join the challenge strength and stamina.</desc>
+  </programme>
+  <programme start="20251030020000 +0300" stop="20251030030000 +0300" channel="mychannel">
+    <title>Best Middfilder</title>
+    <desc>Join the challenge to improve your strength</desc>
+  </programme>
+  <programme start="20251030030000 +0300" stop="20251030040000 +0300" channel="mychannel">
+    <title>Best of Christian Ronaldo</title>
+    <desc>Highlight on the Board</desc>
+  </programme>
+  <programme start="20251030040000 +0300" stop="20251030050000 +0300" channel="mychannel">
+    <title>Ronaldo Delima season</title>
+    <desc>where up to now</desc>
+  </programme>
+  <programme start="20251030050000 +0300" stop="20251030060000 +0300" channel="mychannel">
+    <title>Best Madrid from Brazil</title>
+    <desc>best player and what they did from Brazil</desc>
+  </programme>
+  <programme start="20251030060000 +0300" stop="20251030070000 +0300" channel="mychannel">
+    <title>Madrid Coach of All the time</title>
+    <desc>Who own everything</desc>
+  </programme>
+  <programme start="20251030070000 +0300" stop="20251030080000 +0300" channel="mychannel">
+    <title>Madrid Youth</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20251030080000 +0300" stop="20251030090000 +0300" channel="mychannel">
+    <title>Liverpool Vs Madrid</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20251030090000 +0300" stop="20251030100000 +0300" channel="mychannel">
+    <title>Highlight 2024/2025</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20251030100000 +0300" stop="20251030110000 +0300" channel="mychannel">
+    <title>Coach session</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20251030110000 +0300" stop="20251030120000 +0300" channel="mychannel">
+    <title>World of Champion</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20251030120000 +0300" stop="20251030130000 +0300" channel="mychannel">
+    <title>Madrid Best Finisher</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20251030130000 +0300" stop="20251030140000 +0300" channel="mychannel">
+    <title>Best Madrid Goals 2023/2025</title>
+    <desc>Join the challenge strength and stamina.</desc>
+  </programme>
+  <programme start="20251030140000 +0300" stop="20251030150000 +0300" channel="mychannel">
+    <title>Best Middfilder</title>
+    <desc>Join the challenge to improve your strength</desc>
+  </programme>
+  <programme start="20251030150000 +0300" stop="20251030160000 +0300" channel="mychannel">
+    <title>Best of Christian Ronaldo</title>
+    <desc>Highlight on the Board</desc>
+  </programme>
+  <programme start="20251030160000 +0300" stop="20251030170000 +0300" channel="mychannel">
+    <title>Ronaldo Delima season</title>
+    <desc>where up to now</desc>
+  </programme>
+  <programme start="20251030170000 +0300" stop="20251030180000 +0300" channel="mychannel">
+    <title>Best Madrid from Brazil</title>
+    <desc>best player and what they did from Brazil</desc>
+  </programme>
+  <programme start="20251030180000 +0300" stop="20251030190000 +0300" channel="mychannel">
+    <title>Madrid Coach of All the time</title>
+    <desc>Who own everything</desc>
+  </programme>
+  <programme start="20251030190000 +0300" stop="20251030200000 +0300" channel="mychannel">
+    <title>Madrid Youth</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20251030200000 +0300" stop="20251030210000 +0300" channel="mychannel">
+    <title>Liverpool Vs Madrid</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20251030210000 +0300" stop="20251030220000 +0300" channel="mychannel">
+    <title>Highlight 2024/2025</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20251030220000 +0300" stop="20251030230000 +0300" channel="mychannel">
+    <title>Coach session</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20251030230000 +0300" stop="20251031000000 +0300" channel="mychannel">
+    <title>World of Champion</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20251031000000 +0300" stop="20251031010000 +0300" channel="mychannel">
+    <title>Madrid Best Finisher</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20251031010000 +0300" stop="20251031020000 +0300" channel="mychannel">
+    <title>Best Madrid Goals 2023/2025</title>
+    <desc>Join the challenge strength and stamina.</desc>
+  </programme>
+  <programme start="20251031020000 +0300" stop="20251031030000 +0300" channel="mychannel">
+    <title>Best Middfilder</title>
+    <desc>Join the challenge to improve your strength</desc>
+  </programme>
+  <programme start="20251031030000 +0300" stop="20251031040000 +0300" channel="mychannel">
+    <title>Best of Christian Ronaldo</title>
+    <desc>Highlight on the Board</desc>
+  </programme>
+  <programme start="20251031040000 +0300" stop="20251031050000 +0300" channel="mychannel">
+    <title>Ronaldo Delima season</title>
+    <desc>where up to now</desc>
+  </programme>
+  <programme start="20251031050000 +0300" stop="20251031060000 +0300" channel="mychannel">
+    <title>Best Madrid from Brazil</title>
+    <desc>best player and what they did from Brazil</desc>
+  </programme>
+  <programme start="20251031060000 +0300" stop="20251031070000 +0300" channel="mychannel">
+    <title>Madrid Coach of All the time</title>
+    <desc>Who own everything</desc>
+  </programme>
+  <programme start="20251031070000 +0300" stop="20251031080000 +0300" channel="mychannel">
+    <title>Madrid Youth</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20251031080000 +0300" stop="20251031090000 +0300" channel="mychannel">
+    <title>Liverpool Vs Madrid</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20251031090000 +0300" stop="20251031100000 +0300" channel="mychannel">
+    <title>Highlight 2024/2025</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20251031100000 +0300" stop="20251031110000 +0300" channel="mychannel">
+    <title>Coach session</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20251031110000 +0300" stop="20251031120000 +0300" channel="mychannel">
+    <title>World of Champion</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20251031120000 +0300" stop="20251031130000 +0300" channel="mychannel">
+    <title>Madrid Best Finisher</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20251031130000 +0300" stop="20251031140000 +0300" channel="mychannel">
+    <title>Best Madrid Goals 2023/2025</title>
+    <desc>Join the challenge strength and stamina.</desc>
+  </programme>
+  <programme start="20251031140000 +0300" stop="20251031150000 +0300" channel="mychannel">
+    <title>Best Middfilder</title>
+    <desc>Join the challenge to improve your strength</desc>
+  </programme>
+  <programme start="20251031150000 +0300" stop="20251031160000 +0300" channel="mychannel">
+    <title>Best of Christian Ronaldo</title>
+    <desc>Highlight on the Board</desc>
+  </programme>
+  <programme start="20251031160000 +0300" stop="20251031170000 +0300" channel="mychannel">
+    <title>Ronaldo Delima season</title>
+    <desc>where up to now</desc>
+  </programme>
+  <programme start="20251031170000 +0300" stop="20251031180000 +0300" channel="mychannel">
+    <title>Best Madrid from Brazil</title>
+    <desc>best player and what they did from Brazil</desc>
+  </programme>
+  <programme start="20251031180000 +0300" stop="20251031190000 +0300" channel="mychannel">
+    <title>Madrid Coach of All the time</title>
+    <desc>Who own everything</desc>
+  </programme>
+  <programme start="20251031190000 +0300" stop="20251031200000 +0300" channel="mychannel">
+    <title>Madrid Youth</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20251031200000 +0300" stop="20251031210000 +0300" channel="mychannel">
+    <title>Liverpool Vs Madrid</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20251031210000 +0300" stop="20251031220000 +0300" channel="mychannel">
+    <title>Highlight 2024/2025</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20251031220000 +0300" stop="20251031230000 +0300" channel="mychannel">
+    <title>Coach session</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20251031230000 +0300" stop="20251101000000 +0300" channel="mychannel">
+    <title>World of Champion</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20251101000000 +0300" stop="20251101010000 +0300" channel="mychannel">
+    <title>Madrid Best Finisher</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20251101010000 +0300" stop="20251101020000 +0300" channel="mychannel">
+    <title>Best Madrid Goals 2023/2025</title>
+    <desc>Join the challenge strength and stamina.</desc>
+  </programme>
+  <programme start="20251101020000 +0300" stop="20251101030000 +0300" channel="mychannel">
+    <title>Best Middfilder</title>
+    <desc>Join the challenge to improve your strength</desc>
+  </programme>
+  <programme start="20251101030000 +0300" stop="20251101040000 +0300" channel="mychannel">
+    <title>Best of Christian Ronaldo</title>
+    <desc>Highlight on the Board</desc>
+  </programme>
+  <programme start="20251101040000 +0300" stop="20251101050000 +0300" channel="mychannel">
+    <title>Ronaldo Delima season</title>
+    <desc>where up to now</desc>
+  </programme>
+  <programme start="20251101050000 +0300" stop="20251101060000 +0300" channel="mychannel">
+    <title>Best Madrid from Brazil</title>
+    <desc>best player and what they did from Brazil</desc>
+  </programme>
+  <programme start="20251101060000 +0300" stop="20251101070000 +0300" channel="mychannel">
+    <title>Madrid Coach of All the time</title>
+    <desc>Who own everything</desc>
+  </programme>
+  <programme start="20251101070000 +0300" stop="20251101080000 +0300" channel="mychannel">
+    <title>Madrid Youth</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20251101080000 +0300" stop="20251101090000 +0300" channel="mychannel">
+    <title>Liverpool Vs Madrid</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20251101090000 +0300" stop="20251101100000 +0300" channel="mychannel">
+    <title>Highlight 2024/2025</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20251101100000 +0300" stop="20251101110000 +0300" channel="mychannel">
+    <title>Coach session</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20251101110000 +0300" stop="20251101120000 +0300" channel="mychannel">
+    <title>World of Champion</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20251101120000 +0300" stop="20251101130000 +0300" channel="mychannel">
+    <title>Madrid Best Finisher</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20251101130000 +0300" stop="20251101140000 +0300" channel="mychannel">
+    <title>Best Madrid Goals 2023/2025</title>
+    <desc>Join the challenge strength and stamina.</desc>
+  </programme>
+  <programme start="20251101140000 +0300" stop="20251101150000 +0300" channel="mychannel">
+    <title>Best Middfilder</title>
+    <desc>Join the challenge to improve your strength</desc>
+  </programme>
+  <programme start="20251101150000 +0300" stop="20251101160000 +0300" channel="mychannel">
+    <title>Best of Christian Ronaldo</title>
+    <desc>Highlight on the Board</desc>
+  </programme>
+  <programme start="20251101160000 +0300" stop="20251101170000 +0300" channel="mychannel">
+    <title>Ronaldo Delima season</title>
+    <desc>where up to now</desc>
+  </programme>
+  <programme start="20251101170000 +0300" stop="20251101180000 +0300" channel="mychannel">
+    <title>Best Madrid from Brazil</title>
+    <desc>best player and what they did from Brazil</desc>
+  </programme>
+  <programme start="20251101180000 +0300" stop="20251101190000 +0300" channel="mychannel">
+    <title>Madrid Coach of All the time</title>
+    <desc>Who own everything</desc>
+  </programme>
+  <programme start="20251101190000 +0300" stop="20251101200000 +0300" channel="mychannel">
+    <title>Madrid Youth</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20251101200000 +0300" stop="20251101210000 +0300" channel="mychannel">
+    <title>Liverpool Vs Madrid</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20251101210000 +0300" stop="20251101220000 +0300" channel="mychannel">
+    <title>Highlight 2024/2025</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20251101220000 +0300" stop="20251101230000 +0300" channel="mychannel">
+    <title>Coach session</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20251101230000 +0300" stop="20251102000000 +0300" channel="mychannel">
+    <title>World of Champion</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20251102000000 +0300" stop="20251102010000 +0300" channel="mychannel">
+    <title>Madrid Best Finisher</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20251102010000 +0300" stop="20251102020000 +0300" channel="mychannel">
+    <title>Best Madrid Goals 2023/2025</title>
+    <desc>Join the challenge strength and stamina.</desc>
+  </programme>
+  <programme start="20251102020000 +0300" stop="20251102030000 +0300" channel="mychannel">
+    <title>Best Middfilder</title>
+    <desc>Join the challenge to improve your strength</desc>
+  </programme>
+  <programme start="20251102030000 +0300" stop="20251102040000 +0300" channel="mychannel">
+    <title>Best of Christian Ronaldo</title>
+    <desc>Highlight on the Board</desc>
+  </programme>
+  <programme start="20251102040000 +0300" stop="20251102050000 +0300" channel="mychannel">
+    <title>Ronaldo Delima season</title>
+    <desc>where up to now</desc>
+  </programme>
+  <programme start="20251102050000 +0300" stop="20251102060000 +0300" channel="mychannel">
+    <title>Best Madrid from Brazil</title>
+    <desc>best player and what they did from Brazil</desc>
+  </programme>
+  <programme start="20251102060000 +0300" stop="20251102070000 +0300" channel="mychannel">
+    <title>Madrid Coach of All the time</title>
+    <desc>Who own everything</desc>
+  </programme>
+  <programme start="20251102070000 +0300" stop="20251102080000 +0300" channel="mychannel">
+    <title>Madrid Youth</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20251102080000 +0300" stop="20251102090000 +0300" channel="mychannel">
+    <title>Liverpool Vs Madrid</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20251102090000 +0300" stop="20251102100000 +0300" channel="mychannel">
+    <title>Highlight 2024/2025</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20251102100000 +0300" stop="20251102110000 +0300" channel="mychannel">
+    <title>Coach session</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20251102110000 +0300" stop="20251102120000 +0300" channel="mychannel">
+    <title>World of Champion</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20251102120000 +0300" stop="20251102130000 +0300" channel="mychannel">
+    <title>Madrid Best Finisher</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20251102130000 +0300" stop="20251102140000 +0300" channel="mychannel">
+    <title>Best Madrid Goals 2023/2025</title>
+    <desc>Join the challenge strength and stamina.</desc>
+  </programme>
+  <programme start="20251102140000 +0300" stop="20251102150000 +0300" channel="mychannel">
+    <title>Best Middfilder</title>
+    <desc>Join the challenge to improve your strength</desc>
+  </programme>
+  <programme start="20251102150000 +0300" stop="20251102160000 +0300" channel="mychannel">
+    <title>Best of Christian Ronaldo</title>
+    <desc>Highlight on the Board</desc>
+  </programme>
+  <programme start="20251102160000 +0300" stop="20251102170000 +0300" channel="mychannel">
+    <title>Ronaldo Delima season</title>
+    <desc>where up to now</desc>
+  </programme>
+  <programme start="20251102170000 +0300" stop="20251102180000 +0300" channel="mychannel">
+    <title>Best Madrid from Brazil</title>
+    <desc>best player and what they did from Brazil</desc>
+  </programme>
+  <programme start="20251102180000 +0300" stop="20251102190000 +0300" channel="mychannel">
+    <title>Madrid Coach of All the time</title>
+    <desc>Who own everything</desc>
+  </programme>
+  <programme start="20251102190000 +0300" stop="20251102200000 +0300" channel="mychannel">
+    <title>Madrid Youth</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20251102200000 +0300" stop="20251102210000 +0300" channel="mychannel">
+    <title>Liverpool Vs Madrid</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20251102210000 +0300" stop="20251102220000 +0300" channel="mychannel">
+    <title>Highlight 2024/2025</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20251102220000 +0300" stop="20251102230000 +0300" channel="mychannel">
+    <title>Coach session</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20251102230000 +0300" stop="20251103000000 +0300" channel="mychannel">
+    <title>World of Champion</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20251103000000 +0300" stop="20251103010000 +0300" channel="mychannel">
+    <title>Madrid Best Finisher</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20251103010000 +0300" stop="20251103020000 +0300" channel="mychannel">
+    <title>Best Madrid Goals 2023/2025</title>
+    <desc>Join the challenge strength and stamina.</desc>
+  </programme>
+  <programme start="20251103020000 +0300" stop="20251103030000 +0300" channel="mychannel">
+    <title>Best Middfilder</title>
+    <desc>Join the challenge to improve your strength</desc>
+  </programme>
+  <programme start="20251103030000 +0300" stop="20251103040000 +0300" channel="mychannel">
+    <title>Best of Christian Ronaldo</title>
+    <desc>Highlight on the Board</desc>
+  </programme>
+  <programme start="20251103040000 +0300" stop="20251103050000 +0300" channel="mychannel">
+    <title>Ronaldo Delima season</title>
+    <desc>where up to now</desc>
+  </programme>
+  <programme start="20251103050000 +0300" stop="20251103060000 +0300" channel="mychannel">
+    <title>Best Madrid from Brazil</title>
+    <desc>best player and what they did from Brazil</desc>
+  </programme>
+  <programme start="20251103060000 +0300" stop="20251103070000 +0300" channel="mychannel">
+    <title>Madrid Coach of All the time</title>
+    <desc>Who own everything</desc>
+  </programme>
+  <programme start="20251103070000 +0300" stop="20251103080000 +0300" channel="mychannel">
+    <title>Madrid Youth</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20251103080000 +0300" stop="20251103090000 +0300" channel="mychannel">
+    <title>Liverpool Vs Madrid</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20251103090000 +0300" stop="20251103100000 +0300" channel="mychannel">
+    <title>Highlight 2024/2025</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20251103100000 +0300" stop="20251103110000 +0300" channel="mychannel">
+    <title>Coach session</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20251103110000 +0300" stop="20251103120000 +0300" channel="mychannel">
+    <title>World of Champion</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20251103120000 +0300" stop="20251103130000 +0300" channel="mychannel">
+    <title>Madrid Best Finisher</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20251103130000 +0300" stop="20251103140000 +0300" channel="mychannel">
+    <title>Best Madrid Goals 2023/2025</title>
+    <desc>Join the challenge strength and stamina.</desc>
+  </programme>
+  <programme start="20251103140000 +0300" stop="20251103150000 +0300" channel="mychannel">
+    <title>Best Middfilder</title>
+    <desc>Join the challenge to improve your strength</desc>
+  </programme>
+  <programme start="20251103150000 +0300" stop="20251103160000 +0300" channel="mychannel">
+    <title>Best of Christian Ronaldo</title>
+    <desc>Highlight on the Board</desc>
+  </programme>
+  <programme start="20251103160000 +0300" stop="20251103170000 +0300" channel="mychannel">
+    <title>Ronaldo Delima season</title>
+    <desc>where up to now</desc>
+  </programme>
+  <programme start="20251103170000 +0300" stop="20251103180000 +0300" channel="mychannel">
+    <title>Best Madrid from Brazil</title>
+    <desc>best player and what they did from Brazil</desc>
+  </programme>
+  <programme start="20251103180000 +0300" stop="20251103190000 +0300" channel="mychannel">
+    <title>Madrid Coach of All the time</title>
+    <desc>Who own everything</desc>
+  </programme>
+  <programme start="20251103190000 +0300" stop="20251103200000 +0300" channel="mychannel">
+    <title>Madrid Youth</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20251103200000 +0300" stop="20251103210000 +0300" channel="mychannel">
+    <title>Liverpool Vs Madrid</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20251103210000 +0300" stop="20251103220000 +0300" channel="mychannel">
+    <title>Highlight 2024/2025</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20251103220000 +0300" stop="20251103230000 +0300" channel="mychannel">
+    <title>Coach session</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20251103230000 +0300" stop="20251104000000 +0300" channel="mychannel">
+    <title>World of Champion</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20251104000000 +0300" stop="20251104010000 +0300" channel="mychannel">
+    <title>Madrid Best Finisher</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20251104010000 +0300" stop="20251104020000 +0300" channel="mychannel">
+    <title>Best Madrid Goals 2023/2025</title>
+    <desc>Join the challenge strength and stamina.</desc>
+  </programme>
+  <programme start="20251104020000 +0300" stop="20251104030000 +0300" channel="mychannel">
+    <title>Best Middfilder</title>
+    <desc>Join the challenge to improve your strength</desc>
+  </programme>
+  <programme start="20251104030000 +0300" stop="20251104040000 +0300" channel="mychannel">
+    <title>Best of Christian Ronaldo</title>
+    <desc>Highlight on the Board</desc>
+  </programme>
+  <programme start="20251104040000 +0300" stop="20251104050000 +0300" channel="mychannel">
+    <title>Ronaldo Delima season</title>
+    <desc>where up to now</desc>
+  </programme>
+  <programme start="20251104050000 +0300" stop="20251104060000 +0300" channel="mychannel">
+    <title>Best Madrid from Brazil</title>
+    <desc>best player and what they did from Brazil</desc>
+  </programme>
+  <programme start="20251104060000 +0300" stop="20251104070000 +0300" channel="mychannel">
+    <title>Madrid Coach of All the time</title>
+    <desc>Who own everything</desc>
+  </programme>
+  <programme start="20251104070000 +0300" stop="20251104080000 +0300" channel="mychannel">
+    <title>Madrid Youth</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20251104080000 +0300" stop="20251104090000 +0300" channel="mychannel">
+    <title>Liverpool Vs Madrid</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20251104090000 +0300" stop="20251104100000 +0300" channel="mychannel">
+    <title>Highlight 2024/2025</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20251104100000 +0300" stop="20251104110000 +0300" channel="mychannel">
+    <title>Coach session</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20251104110000 +0300" stop="20251104120000 +0300" channel="mychannel">
+    <title>World of Champion</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20251104120000 +0300" stop="20251104130000 +0300" channel="mychannel">
+    <title>Madrid Best Finisher</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20251104130000 +0300" stop="20251104140000 +0300" channel="mychannel">
+    <title>Best Madrid Goals 2023/2025</title>
+    <desc>Join the challenge strength and stamina.</desc>
+  </programme>
+  <programme start="20251104140000 +0300" stop="20251104150000 +0300" channel="mychannel">
+    <title>Best Middfilder</title>
+    <desc>Join the challenge to improve your strength</desc>
+  </programme>
+  <programme start="20251104150000 +0300" stop="20251104160000 +0300" channel="mychannel">
+    <title>Best of Christian Ronaldo</title>
+    <desc>Highlight on the Board</desc>
+  </programme>
+  <programme start="20251104160000 +0300" stop="20251104170000 +0300" channel="mychannel">
+    <title>Ronaldo Delima season</title>
+    <desc>where up to now</desc>
+  </programme>
+  <programme start="20251104170000 +0300" stop="20251104180000 +0300" channel="mychannel">
+    <title>Best Madrid from Brazil</title>
+    <desc>best player and what they did from Brazil</desc>
+  </programme>
+  <programme start="20251104180000 +0300" stop="20251104190000 +0300" channel="mychannel">
+    <title>Madrid Coach of All the time</title>
+    <desc>Who own everything</desc>
+  </programme>
+  <programme start="20251104190000 +0300" stop="20251104200000 +0300" channel="mychannel">
+    <title>Madrid Youth</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20251104200000 +0300" stop="20251104210000 +0300" channel="mychannel">
+    <title>Liverpool Vs Madrid</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20251104210000 +0300" stop="20251104220000 +0300" channel="mychannel">
+    <title>Highlight 2024/2025</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20251104220000 +0300" stop="20251104230000 +0300" channel="mychannel">
+    <title>Coach session</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20251104230000 +0300" stop="20251105000000 +0300" channel="mychannel">
+    <title>World of Champion</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20251105000000 +0300" stop="20251105010000 +0300" channel="mychannel">
+    <title>Madrid Best Finisher</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20251105010000 +0300" stop="20251105020000 +0300" channel="mychannel">
+    <title>Best Madrid Goals 2023/2025</title>
+    <desc>Join the challenge strength and stamina.</desc>
+  </programme>
+  <programme start="20251105020000 +0300" stop="20251105030000 +0300" channel="mychannel">
+    <title>Best Middfilder</title>
+    <desc>Join the challenge to improve your strength</desc>
+  </programme>
+  <programme start="20251105030000 +0300" stop="20251105040000 +0300" channel="mychannel">
+    <title>Best of Christian Ronaldo</title>
+    <desc>Highlight on the Board</desc>
+  </programme>
+  <programme start="20251105040000 +0300" stop="20251105050000 +0300" channel="mychannel">
+    <title>Ronaldo Delima season</title>
+    <desc>where up to now</desc>
+  </programme>
+  <programme start="20251105050000 +0300" stop="20251105060000 +0300" channel="mychannel">
+    <title>Best Madrid from Brazil</title>
+    <desc>best player and what they did from Brazil</desc>
+  </programme>
+  <programme start="20251105060000 +0300" stop="20251105070000 +0300" channel="mychannel">
+    <title>Madrid Coach of All the time</title>
+    <desc>Who own everything</desc>
+  </programme>
+  <programme start="20251105070000 +0300" stop="20251105080000 +0300" channel="mychannel">
+    <title>Madrid Youth</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20251105080000 +0300" stop="20251105090000 +0300" channel="mychannel">
+    <title>Liverpool Vs Madrid</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20251105090000 +0300" stop="20251105100000 +0300" channel="mychannel">
+    <title>Highlight 2024/2025</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20251105100000 +0300" stop="20251105110000 +0300" channel="mychannel">
+    <title>Coach session</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20251105110000 +0300" stop="20251105120000 +0300" channel="mychannel">
+    <title>World of Champion</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20251105120000 +0300" stop="20251105130000 +0300" channel="mychannel">
+    <title>Madrid Best Finisher</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20251105130000 +0300" stop="20251105140000 +0300" channel="mychannel">
+    <title>Best Madrid Goals 2023/2025</title>
+    <desc>Join the challenge strength and stamina.</desc>
+  </programme>
+  <programme start="20251105140000 +0300" stop="20251105150000 +0300" channel="mychannel">
+    <title>Best Middfilder</title>
+    <desc>Join the challenge to improve your strength</desc>
+  </programme>
+  <programme start="20251105150000 +0300" stop="20251105160000 +0300" channel="mychannel">
+    <title>Best of Christian Ronaldo</title>
+    <desc>Highlight on the Board</desc>
+  </programme>
+  <programme start="20251105160000 +0300" stop="20251105170000 +0300" channel="mychannel">
+    <title>Ronaldo Delima season</title>
+    <desc>where up to now</desc>
+  </programme>
+  <programme start="20251105170000 +0300" stop="20251105180000 +0300" channel="mychannel">
+    <title>Best Madrid from Brazil</title>
+    <desc>best player and what they did from Brazil</desc>
+  </programme>
+  <programme start="20251105180000 +0300" stop="20251105190000 +0300" channel="mychannel">
+    <title>Madrid Coach of All the time</title>
+    <desc>Who own everything</desc>
+  </programme>
+  <programme start="20251105190000 +0300" stop="20251105200000 +0300" channel="mychannel">
+    <title>Madrid Youth</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20251105200000 +0300" stop="20251105210000 +0300" channel="mychannel">
+    <title>Liverpool Vs Madrid</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20251105210000 +0300" stop="20251105220000 +0300" channel="mychannel">
+    <title>Highlight 2024/2025</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20251105220000 +0300" stop="20251105230000 +0300" channel="mychannel">
+    <title>Coach session</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20251105230000 +0300" stop="20251106000000 +0300" channel="mychannel">
+    <title>World of Champion</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20251106000000 +0300" stop="20251106010000 +0300" channel="mychannel">
+    <title>Madrid Best Finisher</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20251106010000 +0300" stop="20251106020000 +0300" channel="mychannel">
+    <title>Best Madrid Goals 2023/2025</title>
+    <desc>Join the challenge strength and stamina.</desc>
+  </programme>
+  <programme start="20251106020000 +0300" stop="20251106030000 +0300" channel="mychannel">
+    <title>Best Middfilder</title>
+    <desc>Join the challenge to improve your strength</desc>
+  </programme>
+  <programme start="20251106030000 +0300" stop="20251106040000 +0300" channel="mychannel">
+    <title>Best of Christian Ronaldo</title>
+    <desc>Highlight on the Board</desc>
+  </programme>
+  <programme start="20251106040000 +0300" stop="20251106050000 +0300" channel="mychannel">
+    <title>Ronaldo Delima season</title>
+    <desc>where up to now</desc>
+  </programme>
+  <programme start="20251106050000 +0300" stop="20251106060000 +0300" channel="mychannel">
+    <title>Best Madrid from Brazil</title>
+    <desc>best player and what they did from Brazil</desc>
+  </programme>
+  <programme start="20251106060000 +0300" stop="20251106070000 +0300" channel="mychannel">
+    <title>Madrid Coach of All the time</title>
+    <desc>Who own everything</desc>
+  </programme>
+  <programme start="20251106070000 +0300" stop="20251106080000 +0300" channel="mychannel">
+    <title>Madrid Youth</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20251106080000 +0300" stop="20251106090000 +0300" channel="mychannel">
+    <title>Liverpool Vs Madrid</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20251106090000 +0300" stop="20251106100000 +0300" channel="mychannel">
+    <title>Highlight 2024/2025</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20251106100000 +0300" stop="20251106110000 +0300" channel="mychannel">
+    <title>Coach session</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20251106110000 +0300" stop="20251106120000 +0300" channel="mychannel">
+    <title>World of Champion</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20251106120000 +0300" stop="20251106130000 +0300" channel="mychannel">
+    <title>Madrid Best Finisher</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20251106130000 +0300" stop="20251106140000 +0300" channel="mychannel">
+    <title>Best Madrid Goals 2023/2025</title>
+    <desc>Join the challenge strength and stamina.</desc>
+  </programme>
+  <programme start="20251106140000 +0300" stop="20251106150000 +0300" channel="mychannel">
+    <title>Best Middfilder</title>
+    <desc>Join the challenge to improve your strength</desc>
+  </programme>
+  <programme start="20251106150000 +0300" stop="20251106160000 +0300" channel="mychannel">
+    <title>Best of Christian Ronaldo</title>
+    <desc>Highlight on the Board</desc>
+  </programme>
+  <programme start="20251106160000 +0300" stop="20251106170000 +0300" channel="mychannel">
+    <title>Ronaldo Delima season</title>
+    <desc>where up to now</desc>
+  </programme>
+  <programme start="20251106170000 +0300" stop="20251106180000 +0300" channel="mychannel">
+    <title>Best Madrid from Brazil</title>
+    <desc>best player and what they did from Brazil</desc>
+  </programme>
+  <programme start="20251106180000 +0300" stop="20251106190000 +0300" channel="mychannel">
+    <title>Madrid Coach of All the time</title>
+    <desc>Who own everything</desc>
+  </programme>
+  <programme start="20251106190000 +0300" stop="20251106200000 +0300" channel="mychannel">
+    <title>Madrid Youth</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20251106200000 +0300" stop="20251106210000 +0300" channel="mychannel">
+    <title>Liverpool Vs Madrid</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20251106210000 +0300" stop="20251106220000 +0300" channel="mychannel">
+    <title>Highlight 2024/2025</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20251106220000 +0300" stop="20251106230000 +0300" channel="mychannel">
+    <title>Coach session</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20251106230000 +0300" stop="20251107000000 +0300" channel="mychannel">
+    <title>World of Champion</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20251107000000 +0300" stop="20251107010000 +0300" channel="mychannel">
+    <title>Madrid Best Finisher</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20251107010000 +0300" stop="20251107020000 +0300" channel="mychannel">
+    <title>Best Madrid Goals 2023/2025</title>
+    <desc>Join the challenge strength and stamina.</desc>
+  </programme>
+  <programme start="20251107020000 +0300" stop="20251107030000 +0300" channel="mychannel">
+    <title>Best Middfilder</title>
+    <desc>Join the challenge to improve your strength</desc>
+  </programme>
+  <programme start="20251107030000 +0300" stop="20251107040000 +0300" channel="mychannel">
+    <title>Best of Christian Ronaldo</title>
+    <desc>Highlight on the Board</desc>
+  </programme>
+  <programme start="20251107040000 +0300" stop="20251107050000 +0300" channel="mychannel">
+    <title>Ronaldo Delima season</title>
+    <desc>where up to now</desc>
+  </programme>
+  <programme start="20251107050000 +0300" stop="20251107060000 +0300" channel="mychannel">
+    <title>Best Madrid from Brazil</title>
+    <desc>best player and what they did from Brazil</desc>
+  </programme>
+  <programme start="20251107060000 +0300" stop="20251107070000 +0300" channel="mychannel">
+    <title>Madrid Coach of All the time</title>
+    <desc>Who own everything</desc>
+  </programme>
+  <programme start="20251107070000 +0300" stop="20251107080000 +0300" channel="mychannel">
+    <title>Madrid Youth</title>
+    <desc>Relaxing yoga session for all ages.</desc>
+  </programme>
+  <programme start="20251107080000 +0300" stop="20251107090000 +0300" channel="mychannel">
+    <title>Liverpool Vs Madrid</title>
+    <desc>Learn to cook delicious and healthy meals.</desc>
+  </programme>
+  <programme start="20251107090000 +0300" stop="20251107100000 +0300" channel="mychannel">
+    <title>Highlight 2024/2025</title>
+    <desc>Fun exercises designed for kids.</desc>
+  </programme>
+  <programme start="20251107100000 +0300" stop="20251107110000 +0300" channel="mychannel">
+    <title>Coach session</title>
+    <desc>Start the day with a calming meditation session.</desc>
+  </programme>
+  <programme start="20251107110000 +0300" stop="20251107120000 +0300" channel="mychannel">
+    <title>World of Champion</title>
+    <desc>Daily advice on maintaining a healthy diet.</desc>
+  </programme>
+  <programme start="20251107120000 +0300" stop="20251107130000 +0300" channel="mychannel">
+    <title>Madrid Best Finisher</title>
+    <desc>Join the challenge to improve your strength and stamina.</desc>
+  </programme>
+  <programme start="20251107130000 +0300" stop="20251107140000 +0300" channel="mychannel">
+    <title>Best Madrid Goals 2023/2025</title>
+    <desc>Join the challenge strength and stamina.</desc>
+  </programme>
+  <programme start="20251107140000 +0300" stop="20251107150000 +0300" channel="mychannel">
+    <title>Best Middfilder</title>
+    <desc>Join the challenge to improve your strength</desc>
+  </programme>
+  <programme start="20251107150000 +0300" stop="20251107160000 +0300" channel="mychannel">
+    <title>Best of Christian Ronaldo</title>
+    <desc>Highlight on the Board</desc>
+  </programme>
+  <programme start="20251107160000 +0300" stop="20251107170000 +0300" channel="mychannel">
+    <title>Ronaldo Delima season</title>
+    <desc>where up to now</desc>
+  </programme>
+  <programme start="20251107170000 +0300" stop="20251107180000 +0300" channel="mychannel">
+    <title>Best Madrid from Brazil</title>
+    <desc>best player and what they did from Brazil</desc>
+  </programme>
+  <programme start="20251107180000 +0300" stop="20251107190000 +0300" channel="mychannel">
+    <title>Madrid Coach of All the time</title>
+    <desc>Who own everything</desc>
   </programme>
 </tv>
