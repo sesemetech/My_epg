@@ -3,1926 +3,2118 @@
 <tv>
   <channel id="mychannel">
     <display-name>SE-STREAM TV</display-name>
-    <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikAKSIGo8ztHHdSK0EuJy9IUUgZkRZA_vcN11bRgqsAhJNxq3IJ4cuSa7_B9ALajUe62xVUoZazjzyu2SoLjx3nqZLCkmnZfLwzw7UGufdztKcv_e14fDT8D0kNfarSgI4gPYcizHLEuA/s320/za.gif"/>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/8/85/Smiley.svg"/>
   </channel>
-  <programme start="20260220110000 +0300" stop="20260220120000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
+  <programme start="20260615195000 +0300" stop="20260615205000 +0300" channel="mychannel">
+    <title>Movies</title>
+    <desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
   </programme>
-  <programme start="20260220120000 +0300" stop="20260220130000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
+  <programme start="20260615205000 +0300" stop="20260615215000 +0300" channel="mychannel">
+    <title>Vyakula kwa Watoto</title>
+    <desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
   </programme>
-  <programme start="20260220130000 +0300" stop="20260220140000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
+  <programme start="20260615215000 +0300" stop="20260615225000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
   </programme>
-  <programme start="20260220140000 +0300" stop="20260220150000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
+  <programme start="20260615225000 +0300" stop="20260615235000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
   </programme>
-  <programme start="20260220150000 +0300" stop="20260220160000 +0300" channel="mychannel">
-    <title>World of Champion</title>
+  <programme start="20260615235000 +0300" stop="20260616005000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+  </programme>
+  <programme start="20260616005000 +0300" stop="20260616015000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+  </programme>
+  <programme start="20260616015000 +0300" stop="20260616025000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+  </programme>
+  <programme start="20260616025000 +0300" stop="20260616035000 +0300" channel="mychannel">
+    <title>Michezo ya watoto</title>
+    <desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+  </programme>
+  <programme start="20260616035000 +0300" stop="20260616045000 +0300" channel="mychannel">
+    <title>Filamu</title>
+    <desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+  </programme>
+  <programme start="20260616045000 +0300" stop="20260616055000 +0300" channel="mychannel">
+    <title>Tamthilia</title>
+    <desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+  </programme>
+  <programme start="20260616055000 +0300" stop="20260616065000 +0300" channel="mychannel">
+    <title>Mimi ni Nani</title>
+    <desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+  </programme>
+  <programme start="20260616065000 +0300" stop="20260616075000 +0300" channel="mychannel">
+    <title>Vitimbwi vya Uchawi</title>
+    <desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+  </programme>
+  <programme start="20260616075000 +0300" stop="20260616085000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20260220160000 +0300" stop="20260220170000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
+  <programme start="20260616085000 +0300" stop="20260616095000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20260220170000 +0300" stop="20260220180000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
+  <programme start="20260616095000 +0300" stop="20260616105000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mpira wa Miguu mashuleni</desc>
   </programme>
-  <programme start="20260220180000 +0300" stop="20260220190000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
+  <programme start="20260616105000 +0300" stop="20260616115000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mchezo wa Kuogelea Mashuleni</desc>
   </programme>
-  <programme start="20260220190000 +0300" stop="20260220200000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
+  <programme start="20260616115000 +0300" stop="20260616125000 +0300" channel="mychannel">
+    <title>Tafsiri Vitabu vya Dini</title>
+    <desc>Maana na Historia ya kila jambo katika vitabu vya dini</desc>
   </programme>
-  <programme start="20260220200000 +0300" stop="20260220210000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
+  <programme start="20260616125000 +0300" stop="20260616135000 +0300" channel="mychannel">
+    <title>Elimu ya Dini</title>
+    <desc>Elimika ,Maisha ya Duniani na ya Akhera</desc>
   </programme>
-  <programme start="20260220210000 +0300" stop="20260220220000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
+  <programme start="20260616135000 +0300" stop="20260616145000 +0300" channel="mychannel">
+    <title>Afya ya Akili</title>
+    <desc>Imarisha Afya yako ya Akili</desc>
   </programme>
-  <programme start="20260220220000 +0300" stop="20260220230000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
+  <programme start="20260616145000 +0300" stop="20260616155000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
   </programme>
-  <programme start="20260220230000 +0300" stop="20260221000000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
+  <programme start="20260616155000 +0300" stop="20260616165000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
   </programme>
-  <programme start="20260221000000 +0300" stop="20260221010000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
+  <programme start="20260616165000 +0300" stop="20260616175000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
   </programme>
-  <programme start="20260221010000 +0300" stop="20260221020000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
+  <programme start="20260616175000 +0300" stop="20260616185000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
   </programme>
-  <programme start="20260221020000 +0300" stop="20260221030000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
+  <programme start="20260616185000 +0300" stop="20260616195000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
   </programme>
-  <programme start="20260221030000 +0300" stop="20260221040000 +0300" channel="mychannel">
-    <title>World of Champion</title>
+  <programme start="20260616195000 +0300" stop="20260616205000 +0300" channel="mychannel">
+    <title>Movies</title>
+    <desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
+  </programme>
+  <programme start="20260616205000 +0300" stop="20260616215000 +0300" channel="mychannel">
+    <title>Vyakula kwa Watoto</title>
+    <desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
+  </programme>
+  <programme start="20260616215000 +0300" stop="20260616225000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+  </programme>
+  <programme start="20260616225000 +0300" stop="20260616235000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+  </programme>
+  <programme start="20260616235000 +0300" stop="20260617005000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+  </programme>
+  <programme start="20260617005000 +0300" stop="20260617015000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+  </programme>
+  <programme start="20260617015000 +0300" stop="20260617025000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+  </programme>
+  <programme start="20260617025000 +0300" stop="20260617035000 +0300" channel="mychannel">
+    <title>Michezo ya watoto</title>
+    <desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+  </programme>
+  <programme start="20260617035000 +0300" stop="20260617045000 +0300" channel="mychannel">
+    <title>Filamu</title>
+    <desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+  </programme>
+  <programme start="20260617045000 +0300" stop="20260617055000 +0300" channel="mychannel">
+    <title>Tamthilia</title>
+    <desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+  </programme>
+  <programme start="20260617055000 +0300" stop="20260617065000 +0300" channel="mychannel">
+    <title>Mimi ni Nani</title>
+    <desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+  </programme>
+  <programme start="20260617065000 +0300" stop="20260617075000 +0300" channel="mychannel">
+    <title>Vitimbwi vya Uchawi</title>
+    <desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+  </programme>
+  <programme start="20260617075000 +0300" stop="20260617085000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20260221040000 +0300" stop="20260221050000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
+  <programme start="20260617085000 +0300" stop="20260617095000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20260221050000 +0300" stop="20260221060000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
+  <programme start="20260617095000 +0300" stop="20260617105000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mpira wa Miguu mashuleni</desc>
   </programme>
-  <programme start="20260221060000 +0300" stop="20260221070000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
+  <programme start="20260617105000 +0300" stop="20260617115000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mchezo wa Kuogelea Mashuleni</desc>
   </programme>
-  <programme start="20260221070000 +0300" stop="20260221080000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
+  <programme start="20260617115000 +0300" stop="20260617125000 +0300" channel="mychannel">
+    <title>Tafsiri Vitabu vya Dini</title>
+    <desc>Maana na Historia ya kila jambo katika vitabu vya dini</desc>
   </programme>
-  <programme start="20260221080000 +0300" stop="20260221090000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
+  <programme start="20260617125000 +0300" stop="20260617135000 +0300" channel="mychannel">
+    <title>Elimu ya Dini</title>
+    <desc>Elimika ,Maisha ya Duniani na ya Akhera</desc>
   </programme>
-  <programme start="20260221090000 +0300" stop="20260221100000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
+  <programme start="20260617135000 +0300" stop="20260617145000 +0300" channel="mychannel">
+    <title>Afya ya Akili</title>
+    <desc>Imarisha Afya yako ya Akili</desc>
   </programme>
-  <programme start="20260221100000 +0300" stop="20260221110000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
+  <programme start="20260617145000 +0300" stop="20260617155000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
   </programme>
-  <programme start="20260221110000 +0300" stop="20260221120000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
+  <programme start="20260617155000 +0300" stop="20260617165000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
   </programme>
-  <programme start="20260221120000 +0300" stop="20260221130000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
+  <programme start="20260617165000 +0300" stop="20260617175000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
   </programme>
-  <programme start="20260221130000 +0300" stop="20260221140000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
+  <programme start="20260617175000 +0300" stop="20260617185000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
   </programme>
-  <programme start="20260221140000 +0300" stop="20260221150000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
+  <programme start="20260617185000 +0300" stop="20260617195000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
   </programme>
-  <programme start="20260221150000 +0300" stop="20260221160000 +0300" channel="mychannel">
-    <title>World of Champion</title>
+  <programme start="20260617195000 +0300" stop="20260617205000 +0300" channel="mychannel">
+    <title>Movies</title>
+    <desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
+  </programme>
+  <programme start="20260617205000 +0300" stop="20260617215000 +0300" channel="mychannel">
+    <title>Vyakula kwa Watoto</title>
+    <desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
+  </programme>
+  <programme start="20260617215000 +0300" stop="20260617225000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+  </programme>
+  <programme start="20260617225000 +0300" stop="20260617235000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+  </programme>
+  <programme start="20260617235000 +0300" stop="20260618005000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+  </programme>
+  <programme start="20260618005000 +0300" stop="20260618015000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+  </programme>
+  <programme start="20260618015000 +0300" stop="20260618025000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+  </programme>
+  <programme start="20260618025000 +0300" stop="20260618035000 +0300" channel="mychannel">
+    <title>Michezo ya watoto</title>
+    <desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+  </programme>
+  <programme start="20260618035000 +0300" stop="20260618045000 +0300" channel="mychannel">
+    <title>Filamu</title>
+    <desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+  </programme>
+  <programme start="20260618045000 +0300" stop="20260618055000 +0300" channel="mychannel">
+    <title>Tamthilia</title>
+    <desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+  </programme>
+  <programme start="20260618055000 +0300" stop="20260618065000 +0300" channel="mychannel">
+    <title>Mimi ni Nani</title>
+    <desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+  </programme>
+  <programme start="20260618065000 +0300" stop="20260618075000 +0300" channel="mychannel">
+    <title>Vitimbwi vya Uchawi</title>
+    <desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+  </programme>
+  <programme start="20260618075000 +0300" stop="20260618085000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20260221160000 +0300" stop="20260221170000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
+  <programme start="20260618085000 +0300" stop="20260618095000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20260221170000 +0300" stop="20260221180000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
+  <programme start="20260618095000 +0300" stop="20260618105000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mpira wa Miguu mashuleni</desc>
   </programme>
-  <programme start="20260221180000 +0300" stop="20260221190000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
+  <programme start="20260618105000 +0300" stop="20260618115000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mchezo wa Kuogelea Mashuleni</desc>
   </programme>
-  <programme start="20260221190000 +0300" stop="20260221200000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
+  <programme start="20260618115000 +0300" stop="20260618125000 +0300" channel="mychannel">
+    <title>Tafsiri Vitabu vya Dini</title>
+    <desc>Maana na Historia ya kila jambo katika vitabu vya dini</desc>
   </programme>
-  <programme start="20260221200000 +0300" stop="20260221210000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
+  <programme start="20260618125000 +0300" stop="20260618135000 +0300" channel="mychannel">
+    <title>Elimu ya Dini</title>
+    <desc>Elimika ,Maisha ya Duniani na ya Akhera</desc>
   </programme>
-  <programme start="20260221210000 +0300" stop="20260221220000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
+  <programme start="20260618135000 +0300" stop="20260618145000 +0300" channel="mychannel">
+    <title>Afya ya Akili</title>
+    <desc>Imarisha Afya yako ya Akili</desc>
   </programme>
-  <programme start="20260221220000 +0300" stop="20260221230000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
+  <programme start="20260618145000 +0300" stop="20260618155000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
   </programme>
-  <programme start="20260221230000 +0300" stop="20260222000000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
+  <programme start="20260618155000 +0300" stop="20260618165000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
   </programme>
-  <programme start="20260222000000 +0300" stop="20260222010000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
+  <programme start="20260618165000 +0300" stop="20260618175000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
   </programme>
-  <programme start="20260222010000 +0300" stop="20260222020000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
+  <programme start="20260618175000 +0300" stop="20260618185000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
   </programme>
-  <programme start="20260222020000 +0300" stop="20260222030000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
+  <programme start="20260618185000 +0300" stop="20260618195000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
   </programme>
-  <programme start="20260222030000 +0300" stop="20260222040000 +0300" channel="mychannel">
-    <title>World of Champion</title>
+  <programme start="20260618195000 +0300" stop="20260618205000 +0300" channel="mychannel">
+    <title>Movies</title>
+    <desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
+  </programme>
+  <programme start="20260618205000 +0300" stop="20260618215000 +0300" channel="mychannel">
+    <title>Vyakula kwa Watoto</title>
+    <desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
+  </programme>
+  <programme start="20260618215000 +0300" stop="20260618225000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+  </programme>
+  <programme start="20260618225000 +0300" stop="20260618235000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+  </programme>
+  <programme start="20260618235000 +0300" stop="20260619005000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+  </programme>
+  <programme start="20260619005000 +0300" stop="20260619015000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+  </programme>
+  <programme start="20260619015000 +0300" stop="20260619025000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+  </programme>
+  <programme start="20260619025000 +0300" stop="20260619035000 +0300" channel="mychannel">
+    <title>Michezo ya watoto</title>
+    <desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+  </programme>
+  <programme start="20260619035000 +0300" stop="20260619045000 +0300" channel="mychannel">
+    <title>Filamu</title>
+    <desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+  </programme>
+  <programme start="20260619045000 +0300" stop="20260619055000 +0300" channel="mychannel">
+    <title>Tamthilia</title>
+    <desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+  </programme>
+  <programme start="20260619055000 +0300" stop="20260619065000 +0300" channel="mychannel">
+    <title>Mimi ni Nani</title>
+    <desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+  </programme>
+  <programme start="20260619065000 +0300" stop="20260619075000 +0300" channel="mychannel">
+    <title>Vitimbwi vya Uchawi</title>
+    <desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+  </programme>
+  <programme start="20260619075000 +0300" stop="20260619085000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20260222040000 +0300" stop="20260222050000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
+  <programme start="20260619085000 +0300" stop="20260619095000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20260222050000 +0300" stop="20260222060000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
+  <programme start="20260619095000 +0300" stop="20260619105000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mpira wa Miguu mashuleni</desc>
   </programme>
-  <programme start="20260222060000 +0300" stop="20260222070000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
+  <programme start="20260619105000 +0300" stop="20260619115000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mchezo wa Kuogelea Mashuleni</desc>
   </programme>
-  <programme start="20260222070000 +0300" stop="20260222080000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
+  <programme start="20260619115000 +0300" stop="20260619125000 +0300" channel="mychannel">
+    <title>Tafsiri Vitabu vya Dini</title>
+    <desc>Maana na Historia ya kila jambo katika vitabu vya dini</desc>
   </programme>
-  <programme start="20260222080000 +0300" stop="20260222090000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
+  <programme start="20260619125000 +0300" stop="20260619135000 +0300" channel="mychannel">
+    <title>Elimu ya Dini</title>
+    <desc>Elimika ,Maisha ya Duniani na ya Akhera</desc>
   </programme>
-  <programme start="20260222090000 +0300" stop="20260222100000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
+  <programme start="20260619135000 +0300" stop="20260619145000 +0300" channel="mychannel">
+    <title>Afya ya Akili</title>
+    <desc>Imarisha Afya yako ya Akili</desc>
   </programme>
-  <programme start="20260222100000 +0300" stop="20260222110000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
+  <programme start="20260619145000 +0300" stop="20260619155000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
   </programme>
-  <programme start="20260222110000 +0300" stop="20260222120000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
+  <programme start="20260619155000 +0300" stop="20260619165000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
   </programme>
-  <programme start="20260222120000 +0300" stop="20260222130000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
+  <programme start="20260619165000 +0300" stop="20260619175000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
   </programme>
-  <programme start="20260222130000 +0300" stop="20260222140000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
+  <programme start="20260619175000 +0300" stop="20260619185000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
   </programme>
-  <programme start="20260222140000 +0300" stop="20260222150000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
+  <programme start="20260619185000 +0300" stop="20260619195000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
   </programme>
-  <programme start="20260222150000 +0300" stop="20260222160000 +0300" channel="mychannel">
-    <title>World of Champion</title>
+  <programme start="20260619195000 +0300" stop="20260619205000 +0300" channel="mychannel">
+    <title>Movies</title>
+    <desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
+  </programme>
+  <programme start="20260619205000 +0300" stop="20260619215000 +0300" channel="mychannel">
+    <title>Vyakula kwa Watoto</title>
+    <desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
+  </programme>
+  <programme start="20260619215000 +0300" stop="20260619225000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+  </programme>
+  <programme start="20260619225000 +0300" stop="20260619235000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+  </programme>
+  <programme start="20260619235000 +0300" stop="20260620005000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+  </programme>
+  <programme start="20260620005000 +0300" stop="20260620015000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+  </programme>
+  <programme start="20260620015000 +0300" stop="20260620025000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+  </programme>
+  <programme start="20260620025000 +0300" stop="20260620035000 +0300" channel="mychannel">
+    <title>Michezo ya watoto</title>
+    <desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+  </programme>
+  <programme start="20260620035000 +0300" stop="20260620045000 +0300" channel="mychannel">
+    <title>Filamu</title>
+    <desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+  </programme>
+  <programme start="20260620045000 +0300" stop="20260620055000 +0300" channel="mychannel">
+    <title>Tamthilia</title>
+    <desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+  </programme>
+  <programme start="20260620055000 +0300" stop="20260620065000 +0300" channel="mychannel">
+    <title>Mimi ni Nani</title>
+    <desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+  </programme>
+  <programme start="20260620065000 +0300" stop="20260620075000 +0300" channel="mychannel">
+    <title>Vitimbwi vya Uchawi</title>
+    <desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+  </programme>
+  <programme start="20260620075000 +0300" stop="20260620085000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20260222160000 +0300" stop="20260222170000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
+  <programme start="20260620085000 +0300" stop="20260620095000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20260222170000 +0300" stop="20260222180000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
+  <programme start="20260620095000 +0300" stop="20260620105000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mpira wa Miguu mashuleni</desc>
   </programme>
-  <programme start="20260222180000 +0300" stop="20260222190000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
+  <programme start="20260620105000 +0300" stop="20260620115000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mchezo wa Kuogelea Mashuleni</desc>
   </programme>
-  <programme start="20260222190000 +0300" stop="20260222200000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
+  <programme start="20260620115000 +0300" stop="20260620125000 +0300" channel="mychannel">
+    <title>Tafsiri Vitabu vya Dini</title>
+    <desc>Maana na Historia ya kila jambo katika vitabu vya dini</desc>
   </programme>
-  <programme start="20260222200000 +0300" stop="20260222210000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
+  <programme start="20260620125000 +0300" stop="20260620135000 +0300" channel="mychannel">
+    <title>Elimu ya Dini</title>
+    <desc>Elimika ,Maisha ya Duniani na ya Akhera</desc>
   </programme>
-  <programme start="20260222210000 +0300" stop="20260222220000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
+  <programme start="20260620135000 +0300" stop="20260620145000 +0300" channel="mychannel">
+    <title>Afya ya Akili</title>
+    <desc>Imarisha Afya yako ya Akili</desc>
   </programme>
-  <programme start="20260222220000 +0300" stop="20260222230000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
+  <programme start="20260620145000 +0300" stop="20260620155000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
   </programme>
-  <programme start="20260222230000 +0300" stop="20260223000000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
+  <programme start="20260620155000 +0300" stop="20260620165000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
   </programme>
-  <programme start="20260223000000 +0300" stop="20260223010000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
+  <programme start="20260620165000 +0300" stop="20260620175000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
   </programme>
-  <programme start="20260223010000 +0300" stop="20260223020000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
+  <programme start="20260620175000 +0300" stop="20260620185000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
   </programme>
-  <programme start="20260223020000 +0300" stop="20260223030000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
+  <programme start="20260620185000 +0300" stop="20260620195000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
   </programme>
-  <programme start="20260223030000 +0300" stop="20260223040000 +0300" channel="mychannel">
-    <title>World of Champion</title>
+  <programme start="20260620195000 +0300" stop="20260620205000 +0300" channel="mychannel">
+    <title>Movies</title>
+    <desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
+  </programme>
+  <programme start="20260620205000 +0300" stop="20260620215000 +0300" channel="mychannel">
+    <title>Vyakula kwa Watoto</title>
+    <desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
+  </programme>
+  <programme start="20260620215000 +0300" stop="20260620225000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+  </programme>
+  <programme start="20260620225000 +0300" stop="20260620235000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+  </programme>
+  <programme start="20260620235000 +0300" stop="20260621005000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+  </programme>
+  <programme start="20260621005000 +0300" stop="20260621015000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+  </programme>
+  <programme start="20260621015000 +0300" stop="20260621025000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+  </programme>
+  <programme start="20260621025000 +0300" stop="20260621035000 +0300" channel="mychannel">
+    <title>Michezo ya watoto</title>
+    <desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+  </programme>
+  <programme start="20260621035000 +0300" stop="20260621045000 +0300" channel="mychannel">
+    <title>Filamu</title>
+    <desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+  </programme>
+  <programme start="20260621045000 +0300" stop="20260621055000 +0300" channel="mychannel">
+    <title>Tamthilia</title>
+    <desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+  </programme>
+  <programme start="20260621055000 +0300" stop="20260621065000 +0300" channel="mychannel">
+    <title>Mimi ni Nani</title>
+    <desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+  </programme>
+  <programme start="20260621065000 +0300" stop="20260621075000 +0300" channel="mychannel">
+    <title>Vitimbwi vya Uchawi</title>
+    <desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+  </programme>
+  <programme start="20260621075000 +0300" stop="20260621085000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20260223040000 +0300" stop="20260223050000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
+  <programme start="20260621085000 +0300" stop="20260621095000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20260223050000 +0300" stop="20260223060000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
+  <programme start="20260621095000 +0300" stop="20260621105000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mpira wa Miguu mashuleni</desc>
   </programme>
-  <programme start="20260223060000 +0300" stop="20260223070000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
+  <programme start="20260621105000 +0300" stop="20260621115000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mchezo wa Kuogelea Mashuleni</desc>
   </programme>
-  <programme start="20260223070000 +0300" stop="20260223080000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
+  <programme start="20260621115000 +0300" stop="20260621125000 +0300" channel="mychannel">
+    <title>Tafsiri Vitabu vya Dini</title>
+    <desc>Maana na Historia ya kila jambo katika vitabu vya dini</desc>
   </programme>
-  <programme start="20260223080000 +0300" stop="20260223090000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
+  <programme start="20260621125000 +0300" stop="20260621135000 +0300" channel="mychannel">
+    <title>Elimu ya Dini</title>
+    <desc>Elimika ,Maisha ya Duniani na ya Akhera</desc>
   </programme>
-  <programme start="20260223090000 +0300" stop="20260223100000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
+  <programme start="20260621135000 +0300" stop="20260621145000 +0300" channel="mychannel">
+    <title>Afya ya Akili</title>
+    <desc>Imarisha Afya yako ya Akili</desc>
   </programme>
-  <programme start="20260223100000 +0300" stop="20260223110000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
+  <programme start="20260621145000 +0300" stop="20260621155000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
   </programme>
-  <programme start="20260223110000 +0300" stop="20260223120000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
+  <programme start="20260621155000 +0300" stop="20260621165000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
   </programme>
-  <programme start="20260223120000 +0300" stop="20260223130000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
+  <programme start="20260621165000 +0300" stop="20260621175000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
   </programme>
-  <programme start="20260223130000 +0300" stop="20260223140000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
+  <programme start="20260621175000 +0300" stop="20260621185000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
   </programme>
-  <programme start="20260223140000 +0300" stop="20260223150000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
+  <programme start="20260621185000 +0300" stop="20260621195000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
   </programme>
-  <programme start="20260223150000 +0300" stop="20260223160000 +0300" channel="mychannel">
-    <title>World of Champion</title>
+  <programme start="20260621195000 +0300" stop="20260621205000 +0300" channel="mychannel">
+    <title>Movies</title>
+    <desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
+  </programme>
+  <programme start="20260621205000 +0300" stop="20260621215000 +0300" channel="mychannel">
+    <title>Vyakula kwa Watoto</title>
+    <desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
+  </programme>
+  <programme start="20260621215000 +0300" stop="20260621225000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+  </programme>
+  <programme start="20260621225000 +0300" stop="20260621235000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+  </programme>
+  <programme start="20260621235000 +0300" stop="20260622005000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+  </programme>
+  <programme start="20260622005000 +0300" stop="20260622015000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+  </programme>
+  <programme start="20260622015000 +0300" stop="20260622025000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+  </programme>
+  <programme start="20260622025000 +0300" stop="20260622035000 +0300" channel="mychannel">
+    <title>Michezo ya watoto</title>
+    <desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+  </programme>
+  <programme start="20260622035000 +0300" stop="20260622045000 +0300" channel="mychannel">
+    <title>Filamu</title>
+    <desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+  </programme>
+  <programme start="20260622045000 +0300" stop="20260622055000 +0300" channel="mychannel">
+    <title>Tamthilia</title>
+    <desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+  </programme>
+  <programme start="20260622055000 +0300" stop="20260622065000 +0300" channel="mychannel">
+    <title>Mimi ni Nani</title>
+    <desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+  </programme>
+  <programme start="20260622065000 +0300" stop="20260622075000 +0300" channel="mychannel">
+    <title>Vitimbwi vya Uchawi</title>
+    <desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+  </programme>
+  <programme start="20260622075000 +0300" stop="20260622085000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20260223160000 +0300" stop="20260223170000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
+  <programme start="20260622085000 +0300" stop="20260622095000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20260223170000 +0300" stop="20260223180000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
+  <programme start="20260622095000 +0300" stop="20260622105000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mpira wa Miguu mashuleni</desc>
   </programme>
-  <programme start="20260223180000 +0300" stop="20260223190000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
+  <programme start="20260622105000 +0300" stop="20260622115000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mchezo wa Kuogelea Mashuleni</desc>
   </programme>
-  <programme start="20260223190000 +0300" stop="20260223200000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
+  <programme start="20260622115000 +0300" stop="20260622125000 +0300" channel="mychannel">
+    <title>Tafsiri Vitabu vya Dini</title>
+    <desc>Maana na Historia ya kila jambo katika vitabu vya dini</desc>
   </programme>
-  <programme start="20260223200000 +0300" stop="20260223210000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
+  <programme start="20260622125000 +0300" stop="20260622135000 +0300" channel="mychannel">
+    <title>Elimu ya Dini</title>
+    <desc>Elimika ,Maisha ya Duniani na ya Akhera</desc>
   </programme>
-  <programme start="20260223210000 +0300" stop="20260223220000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
+  <programme start="20260622135000 +0300" stop="20260622145000 +0300" channel="mychannel">
+    <title>Afya ya Akili</title>
+    <desc>Imarisha Afya yako ya Akili</desc>
   </programme>
-  <programme start="20260223220000 +0300" stop="20260223230000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
+  <programme start="20260622145000 +0300" stop="20260622155000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
   </programme>
-  <programme start="20260223230000 +0300" stop="20260224000000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
+  <programme start="20260622155000 +0300" stop="20260622165000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
   </programme>
-  <programme start="20260224000000 +0300" stop="20260224010000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
+  <programme start="20260622165000 +0300" stop="20260622175000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
   </programme>
-  <programme start="20260224010000 +0300" stop="20260224020000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
+  <programme start="20260622175000 +0300" stop="20260622185000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
   </programme>
-  <programme start="20260224020000 +0300" stop="20260224030000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
+  <programme start="20260622185000 +0300" stop="20260622195000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
   </programme>
-  <programme start="20260224030000 +0300" stop="20260224040000 +0300" channel="mychannel">
-    <title>World of Champion</title>
+  <programme start="20260622195000 +0300" stop="20260622205000 +0300" channel="mychannel">
+    <title>Movies</title>
+    <desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
+  </programme>
+  <programme start="20260622205000 +0300" stop="20260622215000 +0300" channel="mychannel">
+    <title>Vyakula kwa Watoto</title>
+    <desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
+  </programme>
+  <programme start="20260622215000 +0300" stop="20260622225000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+  </programme>
+  <programme start="20260622225000 +0300" stop="20260622235000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+  </programme>
+  <programme start="20260622235000 +0300" stop="20260623005000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+  </programme>
+  <programme start="20260623005000 +0300" stop="20260623015000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+  </programme>
+  <programme start="20260623015000 +0300" stop="20260623025000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+  </programme>
+  <programme start="20260623025000 +0300" stop="20260623035000 +0300" channel="mychannel">
+    <title>Michezo ya watoto</title>
+    <desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+  </programme>
+  <programme start="20260623035000 +0300" stop="20260623045000 +0300" channel="mychannel">
+    <title>Filamu</title>
+    <desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+  </programme>
+  <programme start="20260623045000 +0300" stop="20260623055000 +0300" channel="mychannel">
+    <title>Tamthilia</title>
+    <desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+  </programme>
+  <programme start="20260623055000 +0300" stop="20260623065000 +0300" channel="mychannel">
+    <title>Mimi ni Nani</title>
+    <desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+  </programme>
+  <programme start="20260623065000 +0300" stop="20260623075000 +0300" channel="mychannel">
+    <title>Vitimbwi vya Uchawi</title>
+    <desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+  </programme>
+  <programme start="20260623075000 +0300" stop="20260623085000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20260224040000 +0300" stop="20260224050000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
+  <programme start="20260623085000 +0300" stop="20260623095000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20260224050000 +0300" stop="20260224060000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
+  <programme start="20260623095000 +0300" stop="20260623105000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mpira wa Miguu mashuleni</desc>
   </programme>
-  <programme start="20260224060000 +0300" stop="20260224070000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
+  <programme start="20260623105000 +0300" stop="20260623115000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mchezo wa Kuogelea Mashuleni</desc>
   </programme>
-  <programme start="20260224070000 +0300" stop="20260224080000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
+  <programme start="20260623115000 +0300" stop="20260623125000 +0300" channel="mychannel">
+    <title>Tafsiri Vitabu vya Dini</title>
+    <desc>Maana na Historia ya kila jambo katika vitabu vya dini</desc>
   </programme>
-  <programme start="20260224080000 +0300" stop="20260224090000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
+  <programme start="20260623125000 +0300" stop="20260623135000 +0300" channel="mychannel">
+    <title>Elimu ya Dini</title>
+    <desc>Elimika ,Maisha ya Duniani na ya Akhera</desc>
   </programme>
-  <programme start="20260224090000 +0300" stop="20260224100000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
+  <programme start="20260623135000 +0300" stop="20260623145000 +0300" channel="mychannel">
+    <title>Afya ya Akili</title>
+    <desc>Imarisha Afya yako ya Akili</desc>
   </programme>
-  <programme start="20260224100000 +0300" stop="20260224110000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
+  <programme start="20260623145000 +0300" stop="20260623155000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
   </programme>
-  <programme start="20260224110000 +0300" stop="20260224120000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
+  <programme start="20260623155000 +0300" stop="20260623165000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
   </programme>
-  <programme start="20260224120000 +0300" stop="20260224130000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
+  <programme start="20260623165000 +0300" stop="20260623175000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
   </programme>
-  <programme start="20260224130000 +0300" stop="20260224140000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
+  <programme start="20260623175000 +0300" stop="20260623185000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
   </programme>
-  <programme start="20260224140000 +0300" stop="20260224150000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
+  <programme start="20260623185000 +0300" stop="20260623195000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
   </programme>
-  <programme start="20260224150000 +0300" stop="20260224160000 +0300" channel="mychannel">
-    <title>World of Champion</title>
+  <programme start="20260623195000 +0300" stop="20260623205000 +0300" channel="mychannel">
+    <title>Movies</title>
+    <desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
+  </programme>
+  <programme start="20260623205000 +0300" stop="20260623215000 +0300" channel="mychannel">
+    <title>Vyakula kwa Watoto</title>
+    <desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
+  </programme>
+  <programme start="20260623215000 +0300" stop="20260623225000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+  </programme>
+  <programme start="20260623225000 +0300" stop="20260623235000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+  </programme>
+  <programme start="20260623235000 +0300" stop="20260624005000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+  </programme>
+  <programme start="20260624005000 +0300" stop="20260624015000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+  </programme>
+  <programme start="20260624015000 +0300" stop="20260624025000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+  </programme>
+  <programme start="20260624025000 +0300" stop="20260624035000 +0300" channel="mychannel">
+    <title>Michezo ya watoto</title>
+    <desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+  </programme>
+  <programme start="20260624035000 +0300" stop="20260624045000 +0300" channel="mychannel">
+    <title>Filamu</title>
+    <desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+  </programme>
+  <programme start="20260624045000 +0300" stop="20260624055000 +0300" channel="mychannel">
+    <title>Tamthilia</title>
+    <desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+  </programme>
+  <programme start="20260624055000 +0300" stop="20260624065000 +0300" channel="mychannel">
+    <title>Mimi ni Nani</title>
+    <desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+  </programme>
+  <programme start="20260624065000 +0300" stop="20260624075000 +0300" channel="mychannel">
+    <title>Vitimbwi vya Uchawi</title>
+    <desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+  </programme>
+  <programme start="20260624075000 +0300" stop="20260624085000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20260224160000 +0300" stop="20260224170000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
+  <programme start="20260624085000 +0300" stop="20260624095000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20260224170000 +0300" stop="20260224180000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
+  <programme start="20260624095000 +0300" stop="20260624105000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mpira wa Miguu mashuleni</desc>
   </programme>
-  <programme start="20260224180000 +0300" stop="20260224190000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
+  <programme start="20260624105000 +0300" stop="20260624115000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mchezo wa Kuogelea Mashuleni</desc>
   </programme>
-  <programme start="20260224190000 +0300" stop="20260224200000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
+  <programme start="20260624115000 +0300" stop="20260624125000 +0300" channel="mychannel">
+    <title>Tafsiri Vitabu vya Dini</title>
+    <desc>Maana na Historia ya kila jambo katika vitabu vya dini</desc>
   </programme>
-  <programme start="20260224200000 +0300" stop="20260224210000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
+  <programme start="20260624125000 +0300" stop="20260624135000 +0300" channel="mychannel">
+    <title>Elimu ya Dini</title>
+    <desc>Elimika ,Maisha ya Duniani na ya Akhera</desc>
   </programme>
-  <programme start="20260224210000 +0300" stop="20260224220000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
+  <programme start="20260624135000 +0300" stop="20260624145000 +0300" channel="mychannel">
+    <title>Afya ya Akili</title>
+    <desc>Imarisha Afya yako ya Akili</desc>
   </programme>
-  <programme start="20260224220000 +0300" stop="20260224230000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
+  <programme start="20260624145000 +0300" stop="20260624155000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
   </programme>
-  <programme start="20260224230000 +0300" stop="20260225000000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
+  <programme start="20260624155000 +0300" stop="20260624165000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
   </programme>
-  <programme start="20260225000000 +0300" stop="20260225010000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
+  <programme start="20260624165000 +0300" stop="20260624175000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
   </programme>
-  <programme start="20260225010000 +0300" stop="20260225020000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
+  <programme start="20260624175000 +0300" stop="20260624185000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
   </programme>
-  <programme start="20260225020000 +0300" stop="20260225030000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
+  <programme start="20260624185000 +0300" stop="20260624195000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
   </programme>
-  <programme start="20260225030000 +0300" stop="20260225040000 +0300" channel="mychannel">
-    <title>World of Champion</title>
+  <programme start="20260624195000 +0300" stop="20260624205000 +0300" channel="mychannel">
+    <title>Movies</title>
+    <desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
+  </programme>
+  <programme start="20260624205000 +0300" stop="20260624215000 +0300" channel="mychannel">
+    <title>Vyakula kwa Watoto</title>
+    <desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
+  </programme>
+  <programme start="20260624215000 +0300" stop="20260624225000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+  </programme>
+  <programme start="20260624225000 +0300" stop="20260624235000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+  </programme>
+  <programme start="20260624235000 +0300" stop="20260625005000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+  </programme>
+  <programme start="20260625005000 +0300" stop="20260625015000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+  </programme>
+  <programme start="20260625015000 +0300" stop="20260625025000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+  </programme>
+  <programme start="20260625025000 +0300" stop="20260625035000 +0300" channel="mychannel">
+    <title>Michezo ya watoto</title>
+    <desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+  </programme>
+  <programme start="20260625035000 +0300" stop="20260625045000 +0300" channel="mychannel">
+    <title>Filamu</title>
+    <desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+  </programme>
+  <programme start="20260625045000 +0300" stop="20260625055000 +0300" channel="mychannel">
+    <title>Tamthilia</title>
+    <desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+  </programme>
+  <programme start="20260625055000 +0300" stop="20260625065000 +0300" channel="mychannel">
+    <title>Mimi ni Nani</title>
+    <desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+  </programme>
+  <programme start="20260625065000 +0300" stop="20260625075000 +0300" channel="mychannel">
+    <title>Vitimbwi vya Uchawi</title>
+    <desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+  </programme>
+  <programme start="20260625075000 +0300" stop="20260625085000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20260225040000 +0300" stop="20260225050000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
+  <programme start="20260625085000 +0300" stop="20260625095000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20260225050000 +0300" stop="20260225060000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
+  <programme start="20260625095000 +0300" stop="20260625105000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mpira wa Miguu mashuleni</desc>
   </programme>
-  <programme start="20260225060000 +0300" stop="20260225070000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
+  <programme start="20260625105000 +0300" stop="20260625115000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mchezo wa Kuogelea Mashuleni</desc>
   </programme>
-  <programme start="20260225070000 +0300" stop="20260225080000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
+  <programme start="20260625115000 +0300" stop="20260625125000 +0300" channel="mychannel">
+    <title>Tafsiri Vitabu vya Dini</title>
+    <desc>Maana na Historia ya kila jambo katika vitabu vya dini</desc>
   </programme>
-  <programme start="20260225080000 +0300" stop="20260225090000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
+  <programme start="20260625125000 +0300" stop="20260625135000 +0300" channel="mychannel">
+    <title>Elimu ya Dini</title>
+    <desc>Elimika ,Maisha ya Duniani na ya Akhera</desc>
   </programme>
-  <programme start="20260225090000 +0300" stop="20260225100000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
+  <programme start="20260625135000 +0300" stop="20260625145000 +0300" channel="mychannel">
+    <title>Afya ya Akili</title>
+    <desc>Imarisha Afya yako ya Akili</desc>
   </programme>
-  <programme start="20260225100000 +0300" stop="20260225110000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
+  <programme start="20260625145000 +0300" stop="20260625155000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
   </programme>
-  <programme start="20260225110000 +0300" stop="20260225120000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
+  <programme start="20260625155000 +0300" stop="20260625165000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
   </programme>
-  <programme start="20260225120000 +0300" stop="20260225130000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
+  <programme start="20260625165000 +0300" stop="20260625175000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
   </programme>
-  <programme start="20260225130000 +0300" stop="20260225140000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
+  <programme start="20260625175000 +0300" stop="20260625185000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
   </programme>
-  <programme start="20260225140000 +0300" stop="20260225150000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
+  <programme start="20260625185000 +0300" stop="20260625195000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
   </programme>
-  <programme start="20260225150000 +0300" stop="20260225160000 +0300" channel="mychannel">
-    <title>World of Champion</title>
+  <programme start="20260625195000 +0300" stop="20260625205000 +0300" channel="mychannel">
+    <title>Movies</title>
+    <desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
+  </programme>
+  <programme start="20260625205000 +0300" stop="20260625215000 +0300" channel="mychannel">
+    <title>Vyakula kwa Watoto</title>
+    <desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
+  </programme>
+  <programme start="20260625215000 +0300" stop="20260625225000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+  </programme>
+  <programme start="20260625225000 +0300" stop="20260625235000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+  </programme>
+  <programme start="20260625235000 +0300" stop="20260626005000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+  </programme>
+  <programme start="20260626005000 +0300" stop="20260626015000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+  </programme>
+  <programme start="20260626015000 +0300" stop="20260626025000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+  </programme>
+  <programme start="20260626025000 +0300" stop="20260626035000 +0300" channel="mychannel">
+    <title>Michezo ya watoto</title>
+    <desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+  </programme>
+  <programme start="20260626035000 +0300" stop="20260626045000 +0300" channel="mychannel">
+    <title>Filamu</title>
+    <desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+  </programme>
+  <programme start="20260626045000 +0300" stop="20260626055000 +0300" channel="mychannel">
+    <title>Tamthilia</title>
+    <desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+  </programme>
+  <programme start="20260626055000 +0300" stop="20260626065000 +0300" channel="mychannel">
+    <title>Mimi ni Nani</title>
+    <desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+  </programme>
+  <programme start="20260626065000 +0300" stop="20260626075000 +0300" channel="mychannel">
+    <title>Vitimbwi vya Uchawi</title>
+    <desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+  </programme>
+  <programme start="20260626075000 +0300" stop="20260626085000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20260225160000 +0300" stop="20260225170000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
+  <programme start="20260626085000 +0300" stop="20260626095000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20260225170000 +0300" stop="20260225180000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
+  <programme start="20260626095000 +0300" stop="20260626105000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mpira wa Miguu mashuleni</desc>
   </programme>
-  <programme start="20260225180000 +0300" stop="20260225190000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
+  <programme start="20260626105000 +0300" stop="20260626115000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mchezo wa Kuogelea Mashuleni</desc>
   </programme>
-  <programme start="20260225190000 +0300" stop="20260225200000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
+  <programme start="20260626115000 +0300" stop="20260626125000 +0300" channel="mychannel">
+    <title>Tafsiri Vitabu vya Dini</title>
+    <desc>Maana na Historia ya kila jambo katika vitabu vya dini</desc>
   </programme>
-  <programme start="20260225200000 +0300" stop="20260225210000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
+  <programme start="20260626125000 +0300" stop="20260626135000 +0300" channel="mychannel">
+    <title>Elimu ya Dini</title>
+    <desc>Elimika ,Maisha ya Duniani na ya Akhera</desc>
   </programme>
-  <programme start="20260225210000 +0300" stop="20260225220000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
+  <programme start="20260626135000 +0300" stop="20260626145000 +0300" channel="mychannel">
+    <title>Afya ya Akili</title>
+    <desc>Imarisha Afya yako ya Akili</desc>
   </programme>
-  <programme start="20260225220000 +0300" stop="20260225230000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
+  <programme start="20260626145000 +0300" stop="20260626155000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
   </programme>
-  <programme start="20260225230000 +0300" stop="20260226000000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
+  <programme start="20260626155000 +0300" stop="20260626165000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
   </programme>
-  <programme start="20260226000000 +0300" stop="20260226010000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
+  <programme start="20260626165000 +0300" stop="20260626175000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
   </programme>
-  <programme start="20260226010000 +0300" stop="20260226020000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
+  <programme start="20260626175000 +0300" stop="20260626185000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
   </programme>
-  <programme start="20260226020000 +0300" stop="20260226030000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
+  <programme start="20260626185000 +0300" stop="20260626195000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
   </programme>
-  <programme start="20260226030000 +0300" stop="20260226040000 +0300" channel="mychannel">
-    <title>World of Champion</title>
+  <programme start="20260626195000 +0300" stop="20260626205000 +0300" channel="mychannel">
+    <title>Movies</title>
+    <desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
+  </programme>
+  <programme start="20260626205000 +0300" stop="20260626215000 +0300" channel="mychannel">
+    <title>Vyakula kwa Watoto</title>
+    <desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
+  </programme>
+  <programme start="20260626215000 +0300" stop="20260626225000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+  </programme>
+  <programme start="20260626225000 +0300" stop="20260626235000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+  </programme>
+  <programme start="20260626235000 +0300" stop="20260627005000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+  </programme>
+  <programme start="20260627005000 +0300" stop="20260627015000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+  </programme>
+  <programme start="20260627015000 +0300" stop="20260627025000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+  </programme>
+  <programme start="20260627025000 +0300" stop="20260627035000 +0300" channel="mychannel">
+    <title>Michezo ya watoto</title>
+    <desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+  </programme>
+  <programme start="20260627035000 +0300" stop="20260627045000 +0300" channel="mychannel">
+    <title>Filamu</title>
+    <desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+  </programme>
+  <programme start="20260627045000 +0300" stop="20260627055000 +0300" channel="mychannel">
+    <title>Tamthilia</title>
+    <desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+  </programme>
+  <programme start="20260627055000 +0300" stop="20260627065000 +0300" channel="mychannel">
+    <title>Mimi ni Nani</title>
+    <desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+  </programme>
+  <programme start="20260627065000 +0300" stop="20260627075000 +0300" channel="mychannel">
+    <title>Vitimbwi vya Uchawi</title>
+    <desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+  </programme>
+  <programme start="20260627075000 +0300" stop="20260627085000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20260226040000 +0300" stop="20260226050000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
+  <programme start="20260627085000 +0300" stop="20260627095000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20260226050000 +0300" stop="20260226060000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
+  <programme start="20260627095000 +0300" stop="20260627105000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mpira wa Miguu mashuleni</desc>
   </programme>
-  <programme start="20260226060000 +0300" stop="20260226070000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
+  <programme start="20260627105000 +0300" stop="20260627115000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mchezo wa Kuogelea Mashuleni</desc>
   </programme>
-  <programme start="20260226070000 +0300" stop="20260226080000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
+  <programme start="20260627115000 +0300" stop="20260627125000 +0300" channel="mychannel">
+    <title>Tafsiri Vitabu vya Dini</title>
+    <desc>Maana na Historia ya kila jambo katika vitabu vya dini</desc>
   </programme>
-  <programme start="20260226080000 +0300" stop="20260226090000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
+  <programme start="20260627125000 +0300" stop="20260627135000 +0300" channel="mychannel">
+    <title>Elimu ya Dini</title>
+    <desc>Elimika ,Maisha ya Duniani na ya Akhera</desc>
   </programme>
-  <programme start="20260226090000 +0300" stop="20260226100000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
+  <programme start="20260627135000 +0300" stop="20260627145000 +0300" channel="mychannel">
+    <title>Afya ya Akili</title>
+    <desc>Imarisha Afya yako ya Akili</desc>
   </programme>
-  <programme start="20260226100000 +0300" stop="20260226110000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
+  <programme start="20260627145000 +0300" stop="20260627155000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
   </programme>
-  <programme start="20260226110000 +0300" stop="20260226120000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
+  <programme start="20260627155000 +0300" stop="20260627165000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
   </programme>
-  <programme start="20260226120000 +0300" stop="20260226130000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
+  <programme start="20260627165000 +0300" stop="20260627175000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
   </programme>
-  <programme start="20260226130000 +0300" stop="20260226140000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
+  <programme start="20260627175000 +0300" stop="20260627185000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
   </programme>
-  <programme start="20260226140000 +0300" stop="20260226150000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
+  <programme start="20260627185000 +0300" stop="20260627195000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
   </programme>
-  <programme start="20260226150000 +0300" stop="20260226160000 +0300" channel="mychannel">
-    <title>World of Champion</title>
+  <programme start="20260627195000 +0300" stop="20260627205000 +0300" channel="mychannel">
+    <title>Movies</title>
+    <desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
+  </programme>
+  <programme start="20260627205000 +0300" stop="20260627215000 +0300" channel="mychannel">
+    <title>Vyakula kwa Watoto</title>
+    <desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
+  </programme>
+  <programme start="20260627215000 +0300" stop="20260627225000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+  </programme>
+  <programme start="20260627225000 +0300" stop="20260627235000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+  </programme>
+  <programme start="20260627235000 +0300" stop="20260628005000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+  </programme>
+  <programme start="20260628005000 +0300" stop="20260628015000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+  </programme>
+  <programme start="20260628015000 +0300" stop="20260628025000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+  </programme>
+  <programme start="20260628025000 +0300" stop="20260628035000 +0300" channel="mychannel">
+    <title>Michezo ya watoto</title>
+    <desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+  </programme>
+  <programme start="20260628035000 +0300" stop="20260628045000 +0300" channel="mychannel">
+    <title>Filamu</title>
+    <desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+  </programme>
+  <programme start="20260628045000 +0300" stop="20260628055000 +0300" channel="mychannel">
+    <title>Tamthilia</title>
+    <desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+  </programme>
+  <programme start="20260628055000 +0300" stop="20260628065000 +0300" channel="mychannel">
+    <title>Mimi ni Nani</title>
+    <desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+  </programme>
+  <programme start="20260628065000 +0300" stop="20260628075000 +0300" channel="mychannel">
+    <title>Vitimbwi vya Uchawi</title>
+    <desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+  </programme>
+  <programme start="20260628075000 +0300" stop="20260628085000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20260226160000 +0300" stop="20260226170000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
+  <programme start="20260628085000 +0300" stop="20260628095000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20260226170000 +0300" stop="20260226180000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
+  <programme start="20260628095000 +0300" stop="20260628105000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mpira wa Miguu mashuleni</desc>
   </programme>
-  <programme start="20260226180000 +0300" stop="20260226190000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
+  <programme start="20260628105000 +0300" stop="20260628115000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mchezo wa Kuogelea Mashuleni</desc>
   </programme>
-  <programme start="20260226190000 +0300" stop="20260226200000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
+  <programme start="20260628115000 +0300" stop="20260628125000 +0300" channel="mychannel">
+    <title>Tafsiri Vitabu vya Dini</title>
+    <desc>Maana na Historia ya kila jambo katika vitabu vya dini</desc>
   </programme>
-  <programme start="20260226200000 +0300" stop="20260226210000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
+  <programme start="20260628125000 +0300" stop="20260628135000 +0300" channel="mychannel">
+    <title>Elimu ya Dini</title>
+    <desc>Elimika ,Maisha ya Duniani na ya Akhera</desc>
   </programme>
-  <programme start="20260226210000 +0300" stop="20260226220000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
+  <programme start="20260628135000 +0300" stop="20260628145000 +0300" channel="mychannel">
+    <title>Afya ya Akili</title>
+    <desc>Imarisha Afya yako ya Akili</desc>
   </programme>
-  <programme start="20260226220000 +0300" stop="20260226230000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
+  <programme start="20260628145000 +0300" stop="20260628155000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
   </programme>
-  <programme start="20260226230000 +0300" stop="20260227000000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
+  <programme start="20260628155000 +0300" stop="20260628165000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
   </programme>
-  <programme start="20260227000000 +0300" stop="20260227010000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
+  <programme start="20260628165000 +0300" stop="20260628175000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
   </programme>
-  <programme start="20260227010000 +0300" stop="20260227020000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
+  <programme start="20260628175000 +0300" stop="20260628185000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
   </programme>
-  <programme start="20260227020000 +0300" stop="20260227030000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
+  <programme start="20260628185000 +0300" stop="20260628195000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
   </programme>
-  <programme start="20260227030000 +0300" stop="20260227040000 +0300" channel="mychannel">
-    <title>World of Champion</title>
+  <programme start="20260628195000 +0300" stop="20260628205000 +0300" channel="mychannel">
+    <title>Movies</title>
+    <desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
+  </programme>
+  <programme start="20260628205000 +0300" stop="20260628215000 +0300" channel="mychannel">
+    <title>Vyakula kwa Watoto</title>
+    <desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
+  </programme>
+  <programme start="20260628215000 +0300" stop="20260628225000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+  </programme>
+  <programme start="20260628225000 +0300" stop="20260628235000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+  </programme>
+  <programme start="20260628235000 +0300" stop="20260629005000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+  </programme>
+  <programme start="20260629005000 +0300" stop="20260629015000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+  </programme>
+  <programme start="20260629015000 +0300" stop="20260629025000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+  </programme>
+  <programme start="20260629025000 +0300" stop="20260629035000 +0300" channel="mychannel">
+    <title>Michezo ya watoto</title>
+    <desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+  </programme>
+  <programme start="20260629035000 +0300" stop="20260629045000 +0300" channel="mychannel">
+    <title>Filamu</title>
+    <desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+  </programme>
+  <programme start="20260629045000 +0300" stop="20260629055000 +0300" channel="mychannel">
+    <title>Tamthilia</title>
+    <desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+  </programme>
+  <programme start="20260629055000 +0300" stop="20260629065000 +0300" channel="mychannel">
+    <title>Mimi ni Nani</title>
+    <desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+  </programme>
+  <programme start="20260629065000 +0300" stop="20260629075000 +0300" channel="mychannel">
+    <title>Vitimbwi vya Uchawi</title>
+    <desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+  </programme>
+  <programme start="20260629075000 +0300" stop="20260629085000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20260227040000 +0300" stop="20260227050000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
+  <programme start="20260629085000 +0300" stop="20260629095000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20260227050000 +0300" stop="20260227060000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
+  <programme start="20260629095000 +0300" stop="20260629105000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mpira wa Miguu mashuleni</desc>
   </programme>
-  <programme start="20260227060000 +0300" stop="20260227070000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
+  <programme start="20260629105000 +0300" stop="20260629115000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mchezo wa Kuogelea Mashuleni</desc>
   </programme>
-  <programme start="20260227070000 +0300" stop="20260227080000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
+  <programme start="20260629115000 +0300" stop="20260629125000 +0300" channel="mychannel">
+    <title>Tafsiri Vitabu vya Dini</title>
+    <desc>Maana na Historia ya kila jambo katika vitabu vya dini</desc>
   </programme>
-  <programme start="20260227080000 +0300" stop="20260227090000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
+  <programme start="20260629125000 +0300" stop="20260629135000 +0300" channel="mychannel">
+    <title>Elimu ya Dini</title>
+    <desc>Elimika ,Maisha ya Duniani na ya Akhera</desc>
   </programme>
-  <programme start="20260227090000 +0300" stop="20260227100000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
+  <programme start="20260629135000 +0300" stop="20260629145000 +0300" channel="mychannel">
+    <title>Afya ya Akili</title>
+    <desc>Imarisha Afya yako ya Akili</desc>
   </programme>
-  <programme start="20260227100000 +0300" stop="20260227110000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
+  <programme start="20260629145000 +0300" stop="20260629155000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
   </programme>
-  <programme start="20260227110000 +0300" stop="20260227120000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
+  <programme start="20260629155000 +0300" stop="20260629165000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
   </programme>
-  <programme start="20260227120000 +0300" stop="20260227130000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
+  <programme start="20260629165000 +0300" stop="20260629175000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
   </programme>
-  <programme start="20260227130000 +0300" stop="20260227140000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
+  <programme start="20260629175000 +0300" stop="20260629185000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
   </programme>
-  <programme start="20260227140000 +0300" stop="20260227150000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
+  <programme start="20260629185000 +0300" stop="20260629195000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
   </programme>
-  <programme start="20260227150000 +0300" stop="20260227160000 +0300" channel="mychannel">
-    <title>World of Champion</title>
+  <programme start="20260629195000 +0300" stop="20260629205000 +0300" channel="mychannel">
+    <title>Movies</title>
+    <desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
+  </programme>
+  <programme start="20260629205000 +0300" stop="20260629215000 +0300" channel="mychannel">
+    <title>Vyakula kwa Watoto</title>
+    <desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
+  </programme>
+  <programme start="20260629215000 +0300" stop="20260629225000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+  </programme>
+  <programme start="20260629225000 +0300" stop="20260629235000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+  </programme>
+  <programme start="20260629235000 +0300" stop="20260630005000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+  </programme>
+  <programme start="20260630005000 +0300" stop="20260630015000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+  </programme>
+  <programme start="20260630015000 +0300" stop="20260630025000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+  </programme>
+  <programme start="20260630025000 +0300" stop="20260630035000 +0300" channel="mychannel">
+    <title>Michezo ya watoto</title>
+    <desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+  </programme>
+  <programme start="20260630035000 +0300" stop="20260630045000 +0300" channel="mychannel">
+    <title>Filamu</title>
+    <desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+  </programme>
+  <programme start="20260630045000 +0300" stop="20260630055000 +0300" channel="mychannel">
+    <title>Tamthilia</title>
+    <desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+  </programme>
+  <programme start="20260630055000 +0300" stop="20260630065000 +0300" channel="mychannel">
+    <title>Mimi ni Nani</title>
+    <desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+  </programme>
+  <programme start="20260630065000 +0300" stop="20260630075000 +0300" channel="mychannel">
+    <title>Vitimbwi vya Uchawi</title>
+    <desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+  </programme>
+  <programme start="20260630075000 +0300" stop="20260630085000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20260227160000 +0300" stop="20260227170000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
+  <programme start="20260630085000 +0300" stop="20260630095000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20260227170000 +0300" stop="20260227180000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
+  <programme start="20260630095000 +0300" stop="20260630105000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mpira wa Miguu mashuleni</desc>
   </programme>
-  <programme start="20260227180000 +0300" stop="20260227190000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
+  <programme start="20260630105000 +0300" stop="20260630115000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mchezo wa Kuogelea Mashuleni</desc>
   </programme>
-  <programme start="20260227190000 +0300" stop="20260227200000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
+  <programme start="20260630115000 +0300" stop="20260630125000 +0300" channel="mychannel">
+    <title>Tafsiri Vitabu vya Dini</title>
+    <desc>Maana na Historia ya kila jambo katika vitabu vya dini</desc>
   </programme>
-  <programme start="20260227200000 +0300" stop="20260227210000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
+  <programme start="20260630125000 +0300" stop="20260630135000 +0300" channel="mychannel">
+    <title>Elimu ya Dini</title>
+    <desc>Elimika ,Maisha ya Duniani na ya Akhera</desc>
   </programme>
-  <programme start="20260227210000 +0300" stop="20260227220000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
+  <programme start="20260630135000 +0300" stop="20260630145000 +0300" channel="mychannel">
+    <title>Afya ya Akili</title>
+    <desc>Imarisha Afya yako ya Akili</desc>
   </programme>
-  <programme start="20260227220000 +0300" stop="20260227230000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
+  <programme start="20260630145000 +0300" stop="20260630155000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
   </programme>
-  <programme start="20260227230000 +0300" stop="20260228000000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
+  <programme start="20260630155000 +0300" stop="20260630165000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
   </programme>
-  <programme start="20260228000000 +0300" stop="20260228010000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
+  <programme start="20260630165000 +0300" stop="20260630175000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
   </programme>
-  <programme start="20260228010000 +0300" stop="20260228020000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
+  <programme start="20260630175000 +0300" stop="20260630185000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
   </programme>
-  <programme start="20260228020000 +0300" stop="20260228030000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
+  <programme start="20260630185000 +0300" stop="20260630195000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
   </programme>
-  <programme start="20260228030000 +0300" stop="20260228040000 +0300" channel="mychannel">
-    <title>World of Champion</title>
+  <programme start="20260630195000 +0300" stop="20260630205000 +0300" channel="mychannel">
+    <title>Movies</title>
+    <desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
+  </programme>
+  <programme start="20260630205000 +0300" stop="20260630215000 +0300" channel="mychannel">
+    <title>Vyakula kwa Watoto</title>
+    <desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
+  </programme>
+  <programme start="20260630215000 +0300" stop="20260630225000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+  </programme>
+  <programme start="20260630225000 +0300" stop="20260630235000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+  </programme>
+  <programme start="20260630235000 +0300" stop="20260701005000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+  </programme>
+  <programme start="20260701005000 +0300" stop="20260701015000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+  </programme>
+  <programme start="20260701015000 +0300" stop="20260701025000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+  </programme>
+  <programme start="20260701025000 +0300" stop="20260701035000 +0300" channel="mychannel">
+    <title>Michezo ya watoto</title>
+    <desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+  </programme>
+  <programme start="20260701035000 +0300" stop="20260701045000 +0300" channel="mychannel">
+    <title>Filamu</title>
+    <desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+  </programme>
+  <programme start="20260701045000 +0300" stop="20260701055000 +0300" channel="mychannel">
+    <title>Tamthilia</title>
+    <desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+  </programme>
+  <programme start="20260701055000 +0300" stop="20260701065000 +0300" channel="mychannel">
+    <title>Mimi ni Nani</title>
+    <desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+  </programme>
+  <programme start="20260701065000 +0300" stop="20260701075000 +0300" channel="mychannel">
+    <title>Vitimbwi vya Uchawi</title>
+    <desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+  </programme>
+  <programme start="20260701075000 +0300" stop="20260701085000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20260228040000 +0300" stop="20260228050000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
+  <programme start="20260701085000 +0300" stop="20260701095000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20260228050000 +0300" stop="20260228060000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
+  <programme start="20260701095000 +0300" stop="20260701105000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mpira wa Miguu mashuleni</desc>
   </programme>
-  <programme start="20260228060000 +0300" stop="20260228070000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
+  <programme start="20260701105000 +0300" stop="20260701115000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mchezo wa Kuogelea Mashuleni</desc>
   </programme>
-  <programme start="20260228070000 +0300" stop="20260228080000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
+  <programme start="20260701115000 +0300" stop="20260701125000 +0300" channel="mychannel">
+    <title>Tafsiri Vitabu vya Dini</title>
+    <desc>Maana na Historia ya kila jambo katika vitabu vya dini</desc>
   </programme>
-  <programme start="20260228080000 +0300" stop="20260228090000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
+  <programme start="20260701125000 +0300" stop="20260701135000 +0300" channel="mychannel">
+    <title>Elimu ya Dini</title>
+    <desc>Elimika ,Maisha ya Duniani na ya Akhera</desc>
   </programme>
-  <programme start="20260228090000 +0300" stop="20260228100000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
+  <programme start="20260701135000 +0300" stop="20260701145000 +0300" channel="mychannel">
+    <title>Afya ya Akili</title>
+    <desc>Imarisha Afya yako ya Akili</desc>
   </programme>
-  <programme start="20260228100000 +0300" stop="20260228110000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
+  <programme start="20260701145000 +0300" stop="20260701155000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
   </programme>
-  <programme start="20260228110000 +0300" stop="20260228120000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
+  <programme start="20260701155000 +0300" stop="20260701165000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
   </programme>
-  <programme start="20260228120000 +0300" stop="20260228130000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
+  <programme start="20260701165000 +0300" stop="20260701175000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
   </programme>
-  <programme start="20260228130000 +0300" stop="20260228140000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
+  <programme start="20260701175000 +0300" stop="20260701185000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
   </programme>
-  <programme start="20260228140000 +0300" stop="20260228150000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
+  <programme start="20260701185000 +0300" stop="20260701195000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
   </programme>
-  <programme start="20260228150000 +0300" stop="20260228160000 +0300" channel="mychannel">
-    <title>World of Champion</title>
+  <programme start="20260701195000 +0300" stop="20260701205000 +0300" channel="mychannel">
+    <title>Movies</title>
+    <desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
+  </programme>
+  <programme start="20260701205000 +0300" stop="20260701215000 +0300" channel="mychannel">
+    <title>Vyakula kwa Watoto</title>
+    <desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
+  </programme>
+  <programme start="20260701215000 +0300" stop="20260701225000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+  </programme>
+  <programme start="20260701225000 +0300" stop="20260701235000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+  </programme>
+  <programme start="20260701235000 +0300" stop="20260702005000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+  </programme>
+  <programme start="20260702005000 +0300" stop="20260702015000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+  </programme>
+  <programme start="20260702015000 +0300" stop="20260702025000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+  </programme>
+  <programme start="20260702025000 +0300" stop="20260702035000 +0300" channel="mychannel">
+    <title>Michezo ya watoto</title>
+    <desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+  </programme>
+  <programme start="20260702035000 +0300" stop="20260702045000 +0300" channel="mychannel">
+    <title>Filamu</title>
+    <desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+  </programme>
+  <programme start="20260702045000 +0300" stop="20260702055000 +0300" channel="mychannel">
+    <title>Tamthilia</title>
+    <desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+  </programme>
+  <programme start="20260702055000 +0300" stop="20260702065000 +0300" channel="mychannel">
+    <title>Mimi ni Nani</title>
+    <desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+  </programme>
+  <programme start="20260702065000 +0300" stop="20260702075000 +0300" channel="mychannel">
+    <title>Vitimbwi vya Uchawi</title>
+    <desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+  </programme>
+  <programme start="20260702075000 +0300" stop="20260702085000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20260228160000 +0300" stop="20260228170000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
+  <programme start="20260702085000 +0300" stop="20260702095000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20260228170000 +0300" stop="20260228180000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
+  <programme start="20260702095000 +0300" stop="20260702105000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mpira wa Miguu mashuleni</desc>
   </programme>
-  <programme start="20260228180000 +0300" stop="20260228190000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
+  <programme start="20260702105000 +0300" stop="20260702115000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mchezo wa Kuogelea Mashuleni</desc>
   </programme>
-  <programme start="20260228190000 +0300" stop="20260228200000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
+  <programme start="20260702115000 +0300" stop="20260702125000 +0300" channel="mychannel">
+    <title>Tafsiri Vitabu vya Dini</title>
+    <desc>Maana na Historia ya kila jambo katika vitabu vya dini</desc>
   </programme>
-  <programme start="20260228200000 +0300" stop="20260228210000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
+  <programme start="20260702125000 +0300" stop="20260702135000 +0300" channel="mychannel">
+    <title>Elimu ya Dini</title>
+    <desc>Elimika ,Maisha ya Duniani na ya Akhera</desc>
   </programme>
-  <programme start="20260228210000 +0300" stop="20260228220000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
+  <programme start="20260702135000 +0300" stop="20260702145000 +0300" channel="mychannel">
+    <title>Afya ya Akili</title>
+    <desc>Imarisha Afya yako ya Akili</desc>
   </programme>
-  <programme start="20260228220000 +0300" stop="20260228230000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
+  <programme start="20260702145000 +0300" stop="20260702155000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
   </programme>
-  <programme start="20260228230000 +0300" stop="20260301000000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
+  <programme start="20260702155000 +0300" stop="20260702165000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
   </programme>
-  <programme start="20260301000000 +0300" stop="20260301010000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
+  <programme start="20260702165000 +0300" stop="20260702175000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
   </programme>
-  <programme start="20260301010000 +0300" stop="20260301020000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
+  <programme start="20260702175000 +0300" stop="20260702185000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
   </programme>
-  <programme start="20260301020000 +0300" stop="20260301030000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
+  <programme start="20260702185000 +0300" stop="20260702195000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
   </programme>
-  <programme start="20260301030000 +0300" stop="20260301040000 +0300" channel="mychannel">
-    <title>World of Champion</title>
+  <programme start="20260702195000 +0300" stop="20260702205000 +0300" channel="mychannel">
+    <title>Movies</title>
+    <desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
+  </programme>
+  <programme start="20260702205000 +0300" stop="20260702215000 +0300" channel="mychannel">
+    <title>Vyakula kwa Watoto</title>
+    <desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
+  </programme>
+  <programme start="20260702215000 +0300" stop="20260702225000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+  </programme>
+  <programme start="20260702225000 +0300" stop="20260702235000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+  </programme>
+  <programme start="20260702235000 +0300" stop="20260703005000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+  </programme>
+  <programme start="20260703005000 +0300" stop="20260703015000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+  </programme>
+  <programme start="20260703015000 +0300" stop="20260703025000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+  </programme>
+  <programme start="20260703025000 +0300" stop="20260703035000 +0300" channel="mychannel">
+    <title>Michezo ya watoto</title>
+    <desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+  </programme>
+  <programme start="20260703035000 +0300" stop="20260703045000 +0300" channel="mychannel">
+    <title>Filamu</title>
+    <desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+  </programme>
+  <programme start="20260703045000 +0300" stop="20260703055000 +0300" channel="mychannel">
+    <title>Tamthilia</title>
+    <desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+  </programme>
+  <programme start="20260703055000 +0300" stop="20260703065000 +0300" channel="mychannel">
+    <title>Mimi ni Nani</title>
+    <desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+  </programme>
+  <programme start="20260703065000 +0300" stop="20260703075000 +0300" channel="mychannel">
+    <title>Vitimbwi vya Uchawi</title>
+    <desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+  </programme>
+  <programme start="20260703075000 +0300" stop="20260703085000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20260301040000 +0300" stop="20260301050000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
+  <programme start="20260703085000 +0300" stop="20260703095000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20260301050000 +0300" stop="20260301060000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
+  <programme start="20260703095000 +0300" stop="20260703105000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mpira wa Miguu mashuleni</desc>
   </programme>
-  <programme start="20260301060000 +0300" stop="20260301070000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
+  <programme start="20260703105000 +0300" stop="20260703115000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mchezo wa Kuogelea Mashuleni</desc>
   </programme>
-  <programme start="20260301070000 +0300" stop="20260301080000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
+  <programme start="20260703115000 +0300" stop="20260703125000 +0300" channel="mychannel">
+    <title>Tafsiri Vitabu vya Dini</title>
+    <desc>Maana na Historia ya kila jambo katika vitabu vya dini</desc>
   </programme>
-  <programme start="20260301080000 +0300" stop="20260301090000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
+  <programme start="20260703125000 +0300" stop="20260703135000 +0300" channel="mychannel">
+    <title>Elimu ya Dini</title>
+    <desc>Elimika ,Maisha ya Duniani na ya Akhera</desc>
   </programme>
-  <programme start="20260301090000 +0300" stop="20260301100000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
+  <programme start="20260703135000 +0300" stop="20260703145000 +0300" channel="mychannel">
+    <title>Afya ya Akili</title>
+    <desc>Imarisha Afya yako ya Akili</desc>
   </programme>
-  <programme start="20260301100000 +0300" stop="20260301110000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
+  <programme start="20260703145000 +0300" stop="20260703155000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
   </programme>
-  <programme start="20260301110000 +0300" stop="20260301120000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
+  <programme start="20260703155000 +0300" stop="20260703165000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
   </programme>
-  <programme start="20260301120000 +0300" stop="20260301130000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
+  <programme start="20260703165000 +0300" stop="20260703175000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
   </programme>
-  <programme start="20260301130000 +0300" stop="20260301140000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
+  <programme start="20260703175000 +0300" stop="20260703185000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
   </programme>
-  <programme start="20260301140000 +0300" stop="20260301150000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
+  <programme start="20260703185000 +0300" stop="20260703195000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
   </programme>
-  <programme start="20260301150000 +0300" stop="20260301160000 +0300" channel="mychannel">
-    <title>World of Champion</title>
+  <programme start="20260703195000 +0300" stop="20260703205000 +0300" channel="mychannel">
+    <title>Movies</title>
+    <desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
+  </programme>
+  <programme start="20260703205000 +0300" stop="20260703215000 +0300" channel="mychannel">
+    <title>Vyakula kwa Watoto</title>
+    <desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
+  </programme>
+  <programme start="20260703215000 +0300" stop="20260703225000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+  </programme>
+  <programme start="20260703225000 +0300" stop="20260703235000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+  </programme>
+  <programme start="20260703235000 +0300" stop="20260704005000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+  </programme>
+  <programme start="20260704005000 +0300" stop="20260704015000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+  </programme>
+  <programme start="20260704015000 +0300" stop="20260704025000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+  </programme>
+  <programme start="20260704025000 +0300" stop="20260704035000 +0300" channel="mychannel">
+    <title>Michezo ya watoto</title>
+    <desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+  </programme>
+  <programme start="20260704035000 +0300" stop="20260704045000 +0300" channel="mychannel">
+    <title>Filamu</title>
+    <desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+  </programme>
+  <programme start="20260704045000 +0300" stop="20260704055000 +0300" channel="mychannel">
+    <title>Tamthilia</title>
+    <desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+  </programme>
+  <programme start="20260704055000 +0300" stop="20260704065000 +0300" channel="mychannel">
+    <title>Mimi ni Nani</title>
+    <desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+  </programme>
+  <programme start="20260704065000 +0300" stop="20260704075000 +0300" channel="mychannel">
+    <title>Vitimbwi vya Uchawi</title>
+    <desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+  </programme>
+  <programme start="20260704075000 +0300" stop="20260704085000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20260301160000 +0300" stop="20260301170000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
+  <programme start="20260704085000 +0300" stop="20260704095000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20260301170000 +0300" stop="20260301180000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
+  <programme start="20260704095000 +0300" stop="20260704105000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mpira wa Miguu mashuleni</desc>
   </programme>
-  <programme start="20260301180000 +0300" stop="20260301190000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
+  <programme start="20260704105000 +0300" stop="20260704115000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mchezo wa Kuogelea Mashuleni</desc>
   </programme>
-  <programme start="20260301190000 +0300" stop="20260301200000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
+  <programme start="20260704115000 +0300" stop="20260704125000 +0300" channel="mychannel">
+    <title>Tafsiri Vitabu vya Dini</title>
+    <desc>Maana na Historia ya kila jambo katika vitabu vya dini</desc>
   </programme>
-  <programme start="20260301200000 +0300" stop="20260301210000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
+  <programme start="20260704125000 +0300" stop="20260704135000 +0300" channel="mychannel">
+    <title>Elimu ya Dini</title>
+    <desc>Elimika ,Maisha ya Duniani na ya Akhera</desc>
   </programme>
-  <programme start="20260301210000 +0300" stop="20260301220000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
+  <programme start="20260704135000 +0300" stop="20260704145000 +0300" channel="mychannel">
+    <title>Afya ya Akili</title>
+    <desc>Imarisha Afya yako ya Akili</desc>
   </programme>
-  <programme start="20260301220000 +0300" stop="20260301230000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
+  <programme start="20260704145000 +0300" stop="20260704155000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
   </programme>
-  <programme start="20260301230000 +0300" stop="20260302000000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
+  <programme start="20260704155000 +0300" stop="20260704165000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
   </programme>
-  <programme start="20260302000000 +0300" stop="20260302010000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
+  <programme start="20260704165000 +0300" stop="20260704175000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
   </programme>
-  <programme start="20260302010000 +0300" stop="20260302020000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
+  <programme start="20260704175000 +0300" stop="20260704185000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
   </programme>
-  <programme start="20260302020000 +0300" stop="20260302030000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
+  <programme start="20260704185000 +0300" stop="20260704195000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
   </programme>
-  <programme start="20260302030000 +0300" stop="20260302040000 +0300" channel="mychannel">
-    <title>World of Champion</title>
+  <programme start="20260704195000 +0300" stop="20260704205000 +0300" channel="mychannel">
+    <title>Movies</title>
+    <desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
+  </programme>
+  <programme start="20260704205000 +0300" stop="20260704215000 +0300" channel="mychannel">
+    <title>Vyakula kwa Watoto</title>
+    <desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
+  </programme>
+  <programme start="20260704215000 +0300" stop="20260704225000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+  </programme>
+  <programme start="20260704225000 +0300" stop="20260704235000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+  </programme>
+  <programme start="20260704235000 +0300" stop="20260705005000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+  </programme>
+  <programme start="20260705005000 +0300" stop="20260705015000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+  </programme>
+  <programme start="20260705015000 +0300" stop="20260705025000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+  </programme>
+  <programme start="20260705025000 +0300" stop="20260705035000 +0300" channel="mychannel">
+    <title>Michezo ya watoto</title>
+    <desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+  </programme>
+  <programme start="20260705035000 +0300" stop="20260705045000 +0300" channel="mychannel">
+    <title>Filamu</title>
+    <desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+  </programme>
+  <programme start="20260705045000 +0300" stop="20260705055000 +0300" channel="mychannel">
+    <title>Tamthilia</title>
+    <desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+  </programme>
+  <programme start="20260705055000 +0300" stop="20260705065000 +0300" channel="mychannel">
+    <title>Mimi ni Nani</title>
+    <desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+  </programme>
+  <programme start="20260705065000 +0300" stop="20260705075000 +0300" channel="mychannel">
+    <title>Vitimbwi vya Uchawi</title>
+    <desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+  </programme>
+  <programme start="20260705075000 +0300" stop="20260705085000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20260302040000 +0300" stop="20260302050000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
+  <programme start="20260705085000 +0300" stop="20260705095000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20260302050000 +0300" stop="20260302060000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
+  <programme start="20260705095000 +0300" stop="20260705105000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mpira wa Miguu mashuleni</desc>
   </programme>
-  <programme start="20260302060000 +0300" stop="20260302070000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
+  <programme start="20260705105000 +0300" stop="20260705115000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mchezo wa Kuogelea Mashuleni</desc>
   </programme>
-  <programme start="20260302070000 +0300" stop="20260302080000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
+  <programme start="20260705115000 +0300" stop="20260705125000 +0300" channel="mychannel">
+    <title>Tafsiri Vitabu vya Dini</title>
+    <desc>Maana na Historia ya kila jambo katika vitabu vya dini</desc>
   </programme>
-  <programme start="20260302080000 +0300" stop="20260302090000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
+  <programme start="20260705125000 +0300" stop="20260705135000 +0300" channel="mychannel">
+    <title>Elimu ya Dini</title>
+    <desc>Elimika ,Maisha ya Duniani na ya Akhera</desc>
   </programme>
-  <programme start="20260302090000 +0300" stop="20260302100000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
+  <programme start="20260705135000 +0300" stop="20260705145000 +0300" channel="mychannel">
+    <title>Afya ya Akili</title>
+    <desc>Imarisha Afya yako ya Akili</desc>
   </programme>
-  <programme start="20260302100000 +0300" stop="20260302110000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
+  <programme start="20260705145000 +0300" stop="20260705155000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
   </programme>
-  <programme start="20260302110000 +0300" stop="20260302120000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
+  <programme start="20260705155000 +0300" stop="20260705165000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
   </programme>
-  <programme start="20260302120000 +0300" stop="20260302130000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
+  <programme start="20260705165000 +0300" stop="20260705175000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
   </programme>
-  <programme start="20260302130000 +0300" stop="20260302140000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
+  <programme start="20260705175000 +0300" stop="20260705185000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
   </programme>
-  <programme start="20260302140000 +0300" stop="20260302150000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
+  <programme start="20260705185000 +0300" stop="20260705195000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
   </programme>
-  <programme start="20260302150000 +0300" stop="20260302160000 +0300" channel="mychannel">
-    <title>World of Champion</title>
+  <programme start="20260705195000 +0300" stop="20260705205000 +0300" channel="mychannel">
+    <title>Movies</title>
+    <desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
+  </programme>
+  <programme start="20260705205000 +0300" stop="20260705215000 +0300" channel="mychannel">
+    <title>Vyakula kwa Watoto</title>
+    <desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
+  </programme>
+  <programme start="20260705215000 +0300" stop="20260705225000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+  </programme>
+  <programme start="20260705225000 +0300" stop="20260705235000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+  </programme>
+  <programme start="20260705235000 +0300" stop="20260706005000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+  </programme>
+  <programme start="20260706005000 +0300" stop="20260706015000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+  </programme>
+  <programme start="20260706015000 +0300" stop="20260706025000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+  </programme>
+  <programme start="20260706025000 +0300" stop="20260706035000 +0300" channel="mychannel">
+    <title>Michezo ya watoto</title>
+    <desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+  </programme>
+  <programme start="20260706035000 +0300" stop="20260706045000 +0300" channel="mychannel">
+    <title>Filamu</title>
+    <desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+  </programme>
+  <programme start="20260706045000 +0300" stop="20260706055000 +0300" channel="mychannel">
+    <title>Tamthilia</title>
+    <desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+  </programme>
+  <programme start="20260706055000 +0300" stop="20260706065000 +0300" channel="mychannel">
+    <title>Mimi ni Nani</title>
+    <desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+  </programme>
+  <programme start="20260706065000 +0300" stop="20260706075000 +0300" channel="mychannel">
+    <title>Vitimbwi vya Uchawi</title>
+    <desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+  </programme>
+  <programme start="20260706075000 +0300" stop="20260706085000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20260302160000 +0300" stop="20260302170000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
+  <programme start="20260706085000 +0300" stop="20260706095000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20260302170000 +0300" stop="20260302180000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
+  <programme start="20260706095000 +0300" stop="20260706105000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mpira wa Miguu mashuleni</desc>
   </programme>
-  <programme start="20260302180000 +0300" stop="20260302190000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
+  <programme start="20260706105000 +0300" stop="20260706115000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mchezo wa Kuogelea Mashuleni</desc>
   </programme>
-  <programme start="20260302190000 +0300" stop="20260302200000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
+  <programme start="20260706115000 +0300" stop="20260706125000 +0300" channel="mychannel">
+    <title>Tafsiri Vitabu vya Dini</title>
+    <desc>Maana na Historia ya kila jambo katika vitabu vya dini</desc>
   </programme>
-  <programme start="20260302200000 +0300" stop="20260302210000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
+  <programme start="20260706125000 +0300" stop="20260706135000 +0300" channel="mychannel">
+    <title>Elimu ya Dini</title>
+    <desc>Elimika ,Maisha ya Duniani na ya Akhera</desc>
   </programme>
-  <programme start="20260302210000 +0300" stop="20260302220000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
+  <programme start="20260706135000 +0300" stop="20260706145000 +0300" channel="mychannel">
+    <title>Afya ya Akili</title>
+    <desc>Imarisha Afya yako ya Akili</desc>
   </programme>
-  <programme start="20260302220000 +0300" stop="20260302230000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
+  <programme start="20260706145000 +0300" stop="20260706155000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
   </programme>
-  <programme start="20260302230000 +0300" stop="20260303000000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
+  <programme start="20260706155000 +0300" stop="20260706165000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
   </programme>
-  <programme start="20260303000000 +0300" stop="20260303010000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
+  <programme start="20260706165000 +0300" stop="20260706175000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
   </programme>
-  <programme start="20260303010000 +0300" stop="20260303020000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
+  <programme start="20260706175000 +0300" stop="20260706185000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
   </programme>
-  <programme start="20260303020000 +0300" stop="20260303030000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
+  <programme start="20260706185000 +0300" stop="20260706195000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
   </programme>
-  <programme start="20260303030000 +0300" stop="20260303040000 +0300" channel="mychannel">
-    <title>World of Champion</title>
+  <programme start="20260706195000 +0300" stop="20260706205000 +0300" channel="mychannel">
+    <title>Movies</title>
+    <desc>Mazoezi ya Kufanya Urelax kwa siku nzima.</desc>
+  </programme>
+  <programme start="20260706205000 +0300" stop="20260706215000 +0300" channel="mychannel">
+    <title>Vyakula kwa Watoto</title>
+    <desc>Vyakula vya watoto na faida zake Kulingana na Umri.</desc>
+  </programme>
+  <programme start="20260706215000 +0300" stop="20260706225000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+  </programme>
+  <programme start="20260706225000 +0300" stop="20260706235000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+  </programme>
+  <programme start="20260706235000 +0300" stop="20260707005000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+  </programme>
+  <programme start="20260707005000 +0300" stop="20260707015000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+  </programme>
+  <programme start="20260707015000 +0300" stop="20260707025000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
+  </programme>
+  <programme start="20260707025000 +0300" stop="20260707035000 +0300" channel="mychannel">
+    <title>Michezo ya watoto</title>
+    <desc>Bonanza na Michezo Mbalimbali ya watoto</desc>
+  </programme>
+  <programme start="20260707035000 +0300" stop="20260707045000 +0300" channel="mychannel">
+    <title>Filamu</title>
+    <desc>Cartoon za watoto,Movie inayoanza na Kuisha kulingana na muda</desc>
+  </programme>
+  <programme start="20260707045000 +0300" stop="20260707055000 +0300" channel="mychannel">
+    <title>Tamthilia</title>
+    <desc>Tamthilia zenye mafunzo,tamthilia kwa rika zote</desc>
+  </programme>
+  <programme start="20260707055000 +0300" stop="20260707065000 +0300" channel="mychannel">
+    <title>Mimi ni Nani</title>
+    <desc>Nini ufanye kutimiza Malengo yako ,Ukishajitambua</desc>
+  </programme>
+  <programme start="20260707065000 +0300" stop="20260707075000 +0300" channel="mychannel">
+    <title>Vitimbwi vya Uchawi</title>
+    <desc>Wanafanya nini na nini wanachonufaika nacho</desc>
+  </programme>
+  <programme start="20260707075000 +0300" stop="20260707085000 +0300" channel="mychannel">
+    <title>Nutrition Tips</title>
     <desc>Daily advice on maintaining a healthy diet.</desc>
   </programme>
-  <programme start="20260303040000 +0300" stop="20260303050000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
+  <programme start="20260707085000 +0300" stop="20260707095000 +0300" channel="mychannel">
+    <title>Fitness Challenge</title>
     <desc>Join the challenge to improve your strength and stamina.</desc>
   </programme>
-  <programme start="20260303050000 +0300" stop="20260303060000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
-  </programme>
-  <programme start="20260303060000 +0300" stop="20260303070000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
-  </programme>
-  <programme start="20260303070000 +0300" stop="20260303080000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
-  </programme>
-  <programme start="20260303080000 +0300" stop="20260303090000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
-  </programme>
-  <programme start="20260303090000 +0300" stop="20260303100000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
-  </programme>
-  <programme start="20260303100000 +0300" stop="20260303110000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
-  </programme>
-  <programme start="20260303110000 +0300" stop="20260303120000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
-  </programme>
-  <programme start="20260303120000 +0300" stop="20260303130000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
-  </programme>
-  <programme start="20260303130000 +0300" stop="20260303140000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
-  </programme>
-  <programme start="20260303140000 +0300" stop="20260303150000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
-  </programme>
-  <programme start="20260303150000 +0300" stop="20260303160000 +0300" channel="mychannel">
-    <title>World of Champion</title>
-    <desc>Daily advice on maintaining a healthy diet.</desc>
-  </programme>
-  <programme start="20260303160000 +0300" stop="20260303170000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
-    <desc>Join the challenge to improve your strength and stamina.</desc>
-  </programme>
-  <programme start="20260303170000 +0300" stop="20260303180000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
-  </programme>
-  <programme start="20260303180000 +0300" stop="20260303190000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
-  </programme>
-  <programme start="20260303190000 +0300" stop="20260303200000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
-  </programme>
-  <programme start="20260303200000 +0300" stop="20260303210000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
-  </programme>
-  <programme start="20260303210000 +0300" stop="20260303220000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
-  </programme>
-  <programme start="20260303220000 +0300" stop="20260303230000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
-  </programme>
-  <programme start="20260303230000 +0300" stop="20260304000000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
-  </programme>
-  <programme start="20260304000000 +0300" stop="20260304010000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
-  </programme>
-  <programme start="20260304010000 +0300" stop="20260304020000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
-  </programme>
-  <programme start="20260304020000 +0300" stop="20260304030000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
-  </programme>
-  <programme start="20260304030000 +0300" stop="20260304040000 +0300" channel="mychannel">
-    <title>World of Champion</title>
-    <desc>Daily advice on maintaining a healthy diet.</desc>
-  </programme>
-  <programme start="20260304040000 +0300" stop="20260304050000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
-    <desc>Join the challenge to improve your strength and stamina.</desc>
-  </programme>
-  <programme start="20260304050000 +0300" stop="20260304060000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
-  </programme>
-  <programme start="20260304060000 +0300" stop="20260304070000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
-  </programme>
-  <programme start="20260304070000 +0300" stop="20260304080000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
-  </programme>
-  <programme start="20260304080000 +0300" stop="20260304090000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
-  </programme>
-  <programme start="20260304090000 +0300" stop="20260304100000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
-  </programme>
-  <programme start="20260304100000 +0300" stop="20260304110000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
-  </programme>
-  <programme start="20260304110000 +0300" stop="20260304120000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
-  </programme>
-  <programme start="20260304120000 +0300" stop="20260304130000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
-  </programme>
-  <programme start="20260304130000 +0300" stop="20260304140000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
-  </programme>
-  <programme start="20260304140000 +0300" stop="20260304150000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
-  </programme>
-  <programme start="20260304150000 +0300" stop="20260304160000 +0300" channel="mychannel">
-    <title>World of Champion</title>
-    <desc>Daily advice on maintaining a healthy diet.</desc>
-  </programme>
-  <programme start="20260304160000 +0300" stop="20260304170000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
-    <desc>Join the challenge to improve your strength and stamina.</desc>
-  </programme>
-  <programme start="20260304170000 +0300" stop="20260304180000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
-  </programme>
-  <programme start="20260304180000 +0300" stop="20260304190000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
-  </programme>
-  <programme start="20260304190000 +0300" stop="20260304200000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
-  </programme>
-  <programme start="20260304200000 +0300" stop="20260304210000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
-  </programme>
-  <programme start="20260304210000 +0300" stop="20260304220000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
-  </programme>
-  <programme start="20260304220000 +0300" stop="20260304230000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
-  </programme>
-  <programme start="20260304230000 +0300" stop="20260305000000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
-  </programme>
-  <programme start="20260305000000 +0300" stop="20260305010000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
-  </programme>
-  <programme start="20260305010000 +0300" stop="20260305020000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
-  </programme>
-  <programme start="20260305020000 +0300" stop="20260305030000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
-  </programme>
-  <programme start="20260305030000 +0300" stop="20260305040000 +0300" channel="mychannel">
-    <title>World of Champion</title>
-    <desc>Daily advice on maintaining a healthy diet.</desc>
-  </programme>
-  <programme start="20260305040000 +0300" stop="20260305050000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
-    <desc>Join the challenge to improve your strength and stamina.</desc>
-  </programme>
-  <programme start="20260305050000 +0300" stop="20260305060000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
-  </programme>
-  <programme start="20260305060000 +0300" stop="20260305070000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
-  </programme>
-  <programme start="20260305070000 +0300" stop="20260305080000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
-  </programme>
-  <programme start="20260305080000 +0300" stop="20260305090000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
-  </programme>
-  <programme start="20260305090000 +0300" stop="20260305100000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
-  </programme>
-  <programme start="20260305100000 +0300" stop="20260305110000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
-  </programme>
-  <programme start="20260305110000 +0300" stop="20260305120000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
-  </programme>
-  <programme start="20260305120000 +0300" stop="20260305130000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
-  </programme>
-  <programme start="20260305130000 +0300" stop="20260305140000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
-  </programme>
-  <programme start="20260305140000 +0300" stop="20260305150000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
-  </programme>
-  <programme start="20260305150000 +0300" stop="20260305160000 +0300" channel="mychannel">
-    <title>World of Champion</title>
-    <desc>Daily advice on maintaining a healthy diet.</desc>
-  </programme>
-  <programme start="20260305160000 +0300" stop="20260305170000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
-    <desc>Join the challenge to improve your strength and stamina.</desc>
-  </programme>
-  <programme start="20260305170000 +0300" stop="20260305180000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
-  </programme>
-  <programme start="20260305180000 +0300" stop="20260305190000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
-  </programme>
-  <programme start="20260305190000 +0300" stop="20260305200000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
-  </programme>
-  <programme start="20260305200000 +0300" stop="20260305210000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
-  </programme>
-  <programme start="20260305210000 +0300" stop="20260305220000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
-  </programme>
-  <programme start="20260305220000 +0300" stop="20260305230000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
-  </programme>
-  <programme start="20260305230000 +0300" stop="20260306000000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
-  </programme>
-  <programme start="20260306000000 +0300" stop="20260306010000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
-  </programme>
-  <programme start="20260306010000 +0300" stop="20260306020000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
-  </programme>
-  <programme start="20260306020000 +0300" stop="20260306030000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
-  </programme>
-  <programme start="20260306030000 +0300" stop="20260306040000 +0300" channel="mychannel">
-    <title>World of Champion</title>
-    <desc>Daily advice on maintaining a healthy diet.</desc>
-  </programme>
-  <programme start="20260306040000 +0300" stop="20260306050000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
-    <desc>Join the challenge to improve your strength and stamina.</desc>
-  </programme>
-  <programme start="20260306050000 +0300" stop="20260306060000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
-  </programme>
-  <programme start="20260306060000 +0300" stop="20260306070000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
-  </programme>
-  <programme start="20260306070000 +0300" stop="20260306080000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
-  </programme>
-  <programme start="20260306080000 +0300" stop="20260306090000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
-  </programme>
-  <programme start="20260306090000 +0300" stop="20260306100000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
-  </programme>
-  <programme start="20260306100000 +0300" stop="20260306110000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
-  </programme>
-  <programme start="20260306110000 +0300" stop="20260306120000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
-  </programme>
-  <programme start="20260306120000 +0300" stop="20260306130000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
-  </programme>
-  <programme start="20260306130000 +0300" stop="20260306140000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
-  </programme>
-  <programme start="20260306140000 +0300" stop="20260306150000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
-  </programme>
-  <programme start="20260306150000 +0300" stop="20260306160000 +0300" channel="mychannel">
-    <title>World of Champion</title>
-    <desc>Daily advice on maintaining a healthy diet.</desc>
-  </programme>
-  <programme start="20260306160000 +0300" stop="20260306170000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
-    <desc>Join the challenge to improve your strength and stamina.</desc>
-  </programme>
-  <programme start="20260306170000 +0300" stop="20260306180000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
-  </programme>
-  <programme start="20260306180000 +0300" stop="20260306190000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
-  </programme>
-  <programme start="20260306190000 +0300" stop="20260306200000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
-  </programme>
-  <programme start="20260306200000 +0300" stop="20260306210000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
-  </programme>
-  <programme start="20260306210000 +0300" stop="20260306220000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
-  </programme>
-  <programme start="20260306220000 +0300" stop="20260306230000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
-  </programme>
-  <programme start="20260306230000 +0300" stop="20260307000000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
-  </programme>
-  <programme start="20260307000000 +0300" stop="20260307010000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
-  </programme>
-  <programme start="20260307010000 +0300" stop="20260307020000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
-  </programme>
-  <programme start="20260307020000 +0300" stop="20260307030000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
-  </programme>
-  <programme start="20260307030000 +0300" stop="20260307040000 +0300" channel="mychannel">
-    <title>World of Champion</title>
-    <desc>Daily advice on maintaining a healthy diet.</desc>
-  </programme>
-  <programme start="20260307040000 +0300" stop="20260307050000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
-    <desc>Join the challenge to improve your strength and stamina.</desc>
-  </programme>
-  <programme start="20260307050000 +0300" stop="20260307060000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
-  </programme>
-  <programme start="20260307060000 +0300" stop="20260307070000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
-  </programme>
-  <programme start="20260307070000 +0300" stop="20260307080000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
-  </programme>
-  <programme start="20260307080000 +0300" stop="20260307090000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
-  </programme>
-  <programme start="20260307090000 +0300" stop="20260307100000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
-  </programme>
-  <programme start="20260307100000 +0300" stop="20260307110000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
-  </programme>
-  <programme start="20260307110000 +0300" stop="20260307120000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
-  </programme>
-  <programme start="20260307120000 +0300" stop="20260307130000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
-  </programme>
-  <programme start="20260307130000 +0300" stop="20260307140000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
-  </programme>
-  <programme start="20260307140000 +0300" stop="20260307150000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
-  </programme>
-  <programme start="20260307150000 +0300" stop="20260307160000 +0300" channel="mychannel">
-    <title>World of Champion</title>
-    <desc>Daily advice on maintaining a healthy diet.</desc>
-  </programme>
-  <programme start="20260307160000 +0300" stop="20260307170000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
-    <desc>Join the challenge to improve your strength and stamina.</desc>
-  </programme>
-  <programme start="20260307170000 +0300" stop="20260307180000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
-  </programme>
-  <programme start="20260307180000 +0300" stop="20260307190000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
-  </programme>
-  <programme start="20260307190000 +0300" stop="20260307200000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
-  </programme>
-  <programme start="20260307200000 +0300" stop="20260307210000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
-  </programme>
-  <programme start="20260307210000 +0300" stop="20260307220000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
-  </programme>
-  <programme start="20260307220000 +0300" stop="20260307230000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
-  </programme>
-  <programme start="20260307230000 +0300" stop="20260308000000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
-  </programme>
-  <programme start="20260308000000 +0300" stop="20260308010000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
-  </programme>
-  <programme start="20260308010000 +0300" stop="20260308020000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
-  </programme>
-  <programme start="20260308020000 +0300" stop="20260308030000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
-  </programme>
-  <programme start="20260308030000 +0300" stop="20260308040000 +0300" channel="mychannel">
-    <title>World of Champion</title>
-    <desc>Daily advice on maintaining a healthy diet.</desc>
-  </programme>
-  <programme start="20260308040000 +0300" stop="20260308050000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
-    <desc>Join the challenge to improve your strength and stamina.</desc>
-  </programme>
-  <programme start="20260308050000 +0300" stop="20260308060000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
-  </programme>
-  <programme start="20260308060000 +0300" stop="20260308070000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
-  </programme>
-  <programme start="20260308070000 +0300" stop="20260308080000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
-  </programme>
-  <programme start="20260308080000 +0300" stop="20260308090000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
-  </programme>
-  <programme start="20260308090000 +0300" stop="20260308100000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
-  </programme>
-  <programme start="20260308100000 +0300" stop="20260308110000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
-  </programme>
-  <programme start="20260308110000 +0300" stop="20260308120000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
-  </programme>
-  <programme start="20260308120000 +0300" stop="20260308130000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
-  </programme>
-  <programme start="20260308130000 +0300" stop="20260308140000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
-  </programme>
-  <programme start="20260308140000 +0300" stop="20260308150000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
-  </programme>
-  <programme start="20260308150000 +0300" stop="20260308160000 +0300" channel="mychannel">
-    <title>World of Champion</title>
-    <desc>Daily advice on maintaining a healthy diet.</desc>
-  </programme>
-  <programme start="20260308160000 +0300" stop="20260308170000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
-    <desc>Join the challenge to improve your strength and stamina.</desc>
-  </programme>
-  <programme start="20260308170000 +0300" stop="20260308180000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
-  </programme>
-  <programme start="20260308180000 +0300" stop="20260308190000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
-  </programme>
-  <programme start="20260308190000 +0300" stop="20260308200000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
-  </programme>
-  <programme start="20260308200000 +0300" stop="20260308210000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
-  </programme>
-  <programme start="20260308210000 +0300" stop="20260308220000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
-  </programme>
-  <programme start="20260308220000 +0300" stop="20260308230000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
-  </programme>
-  <programme start="20260308230000 +0300" stop="20260309000000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
-  </programme>
-  <programme start="20260309000000 +0300" stop="20260309010000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
-  </programme>
-  <programme start="20260309010000 +0300" stop="20260309020000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
-  </programme>
-  <programme start="20260309020000 +0300" stop="20260309030000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
-  </programme>
-  <programme start="20260309030000 +0300" stop="20260309040000 +0300" channel="mychannel">
-    <title>World of Champion</title>
-    <desc>Daily advice on maintaining a healthy diet.</desc>
-  </programme>
-  <programme start="20260309040000 +0300" stop="20260309050000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
-    <desc>Join the challenge to improve your strength and stamina.</desc>
-  </programme>
-  <programme start="20260309050000 +0300" stop="20260309060000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
-  </programme>
-  <programme start="20260309060000 +0300" stop="20260309070000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
-  </programme>
-  <programme start="20260309070000 +0300" stop="20260309080000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
-  </programme>
-  <programme start="20260309080000 +0300" stop="20260309090000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
-  </programme>
-  <programme start="20260309090000 +0300" stop="20260309100000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
-  </programme>
-  <programme start="20260309100000 +0300" stop="20260309110000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
-  </programme>
-  <programme start="20260309110000 +0300" stop="20260309120000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
-  </programme>
-  <programme start="20260309120000 +0300" stop="20260309130000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
-  </programme>
-  <programme start="20260309130000 +0300" stop="20260309140000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
-  </programme>
-  <programme start="20260309140000 +0300" stop="20260309150000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
-  </programme>
-  <programme start="20260309150000 +0300" stop="20260309160000 +0300" channel="mychannel">
-    <title>World of Champion</title>
-    <desc>Daily advice on maintaining a healthy diet.</desc>
-  </programme>
-  <programme start="20260309160000 +0300" stop="20260309170000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
-    <desc>Join the challenge to improve your strength and stamina.</desc>
-  </programme>
-  <programme start="20260309170000 +0300" stop="20260309180000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
-  </programme>
-  <programme start="20260309180000 +0300" stop="20260309190000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
-  </programme>
-  <programme start="20260309190000 +0300" stop="20260309200000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
-  </programme>
-  <programme start="20260309200000 +0300" stop="20260309210000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
-  </programme>
-  <programme start="20260309210000 +0300" stop="20260309220000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
-  </programme>
-  <programme start="20260309220000 +0300" stop="20260309230000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
-  </programme>
-  <programme start="20260309230000 +0300" stop="20260310000000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
-  </programme>
-  <programme start="20260310000000 +0300" stop="20260310010000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
-  </programme>
-  <programme start="20260310010000 +0300" stop="20260310020000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
-  </programme>
-  <programme start="20260310020000 +0300" stop="20260310030000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
-  </programme>
-  <programme start="20260310030000 +0300" stop="20260310040000 +0300" channel="mychannel">
-    <title>World of Champion</title>
-    <desc>Daily advice on maintaining a healthy diet.</desc>
-  </programme>
-  <programme start="20260310040000 +0300" stop="20260310050000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
-    <desc>Join the challenge to improve your strength and stamina.</desc>
-  </programme>
-  <programme start="20260310050000 +0300" stop="20260310060000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
-  </programme>
-  <programme start="20260310060000 +0300" stop="20260310070000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
-  </programme>
-  <programme start="20260310070000 +0300" stop="20260310080000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
-  </programme>
-  <programme start="20260310080000 +0300" stop="20260310090000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
-  </programme>
-  <programme start="20260310090000 +0300" stop="20260310100000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
-  </programme>
-  <programme start="20260310100000 +0300" stop="20260310110000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
-  </programme>
-  <programme start="20260310110000 +0300" stop="20260310120000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
-  </programme>
-  <programme start="20260310120000 +0300" stop="20260310130000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
-  </programme>
-  <programme start="20260310130000 +0300" stop="20260310140000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
-  </programme>
-  <programme start="20260310140000 +0300" stop="20260310150000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
-  </programme>
-  <programme start="20260310150000 +0300" stop="20260310160000 +0300" channel="mychannel">
-    <title>World of Champion</title>
-    <desc>Daily advice on maintaining a healthy diet.</desc>
-  </programme>
-  <programme start="20260310160000 +0300" stop="20260310170000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
-    <desc>Join the challenge to improve your strength and stamina.</desc>
-  </programme>
-  <programme start="20260310170000 +0300" stop="20260310180000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
-  </programme>
-  <programme start="20260310180000 +0300" stop="20260310190000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
-  </programme>
-  <programme start="20260310190000 +0300" stop="20260310200000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
-  </programme>
-  <programme start="20260310200000 +0300" stop="20260310210000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
-  </programme>
-  <programme start="20260310210000 +0300" stop="20260310220000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
-  </programme>
-  <programme start="20260310220000 +0300" stop="20260310230000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
-  </programme>
-  <programme start="20260310230000 +0300" stop="20260311000000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
-  </programme>
-  <programme start="20260311000000 +0300" stop="20260311010000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
-  </programme>
-  <programme start="20260311010000 +0300" stop="20260311020000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
-  </programme>
-  <programme start="20260311020000 +0300" stop="20260311030000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
-  </programme>
-  <programme start="20260311030000 +0300" stop="20260311040000 +0300" channel="mychannel">
-    <title>World of Champion</title>
-    <desc>Daily advice on maintaining a healthy diet.</desc>
-  </programme>
-  <programme start="20260311040000 +0300" stop="20260311050000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
-    <desc>Join the challenge to improve your strength and stamina.</desc>
-  </programme>
-  <programme start="20260311050000 +0300" stop="20260311060000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
-  </programme>
-  <programme start="20260311060000 +0300" stop="20260311070000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
-  </programme>
-  <programme start="20260311070000 +0300" stop="20260311080000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
-  </programme>
-  <programme start="20260311080000 +0300" stop="20260311090000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
-  </programme>
-  <programme start="20260311090000 +0300" stop="20260311100000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
-  </programme>
-  <programme start="20260311100000 +0300" stop="20260311110000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
-  </programme>
-  <programme start="20260311110000 +0300" stop="20260311120000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
-  </programme>
-  <programme start="20260311120000 +0300" stop="20260311130000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
-  </programme>
-  <programme start="20260311130000 +0300" stop="20260311140000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
-  </programme>
-  <programme start="20260311140000 +0300" stop="20260311150000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
-  </programme>
-  <programme start="20260311150000 +0300" stop="20260311160000 +0300" channel="mychannel">
-    <title>World of Champion</title>
-    <desc>Daily advice on maintaining a healthy diet.</desc>
-  </programme>
-  <programme start="20260311160000 +0300" stop="20260311170000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
-    <desc>Join the challenge to improve your strength and stamina.</desc>
-  </programme>
-  <programme start="20260311170000 +0300" stop="20260311180000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
-  </programme>
-  <programme start="20260311180000 +0300" stop="20260311190000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
-  </programme>
-  <programme start="20260311190000 +0300" stop="20260311200000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
-  </programme>
-  <programme start="20260311200000 +0300" stop="20260311210000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
-  </programme>
-  <programme start="20260311210000 +0300" stop="20260311220000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
-  </programme>
-  <programme start="20260311220000 +0300" stop="20260311230000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
-  </programme>
-  <programme start="20260311230000 +0300" stop="20260312000000 +0300" channel="mychannel">
-    <title>Madrid Youth</title>
-    <desc>Relaxing yoga session for all ages.</desc>
-  </programme>
-  <programme start="20260312000000 +0300" stop="20260312010000 +0300" channel="mychannel">
-    <title>Liverpool Vs Madrid</title>
-    <desc>Learn to cook delicious and healthy meals.</desc>
-  </programme>
-  <programme start="20260312010000 +0300" stop="20260312020000 +0300" channel="mychannel">
-    <title>Highlight 2024/2025</title>
-    <desc>Fun exercises designed for kids.</desc>
-  </programme>
-  <programme start="20260312020000 +0300" stop="20260312030000 +0300" channel="mychannel">
-    <title>Coach session</title>
-    <desc>Start the day with a calming meditation session.</desc>
-  </programme>
-  <programme start="20260312030000 +0300" stop="20260312040000 +0300" channel="mychannel">
-    <title>World of Champion</title>
-    <desc>Daily advice on maintaining a healthy diet.</desc>
-  </programme>
-  <programme start="20260312040000 +0300" stop="20260312050000 +0300" channel="mychannel">
-    <title>Madrid Best Finisher</title>
-    <desc>Join the challenge to improve your strength and stamina.</desc>
-  </programme>
-  <programme start="20260312050000 +0300" stop="20260312060000 +0300" channel="mychannel">
-    <title>Best Madrid Goals 2023/2025</title>
-    <desc>Join the challenge strength and stamina.</desc>
-  </programme>
-  <programme start="20260312060000 +0300" stop="20260312070000 +0300" channel="mychannel">
-    <title>Best Middfilder</title>
-    <desc>Join the challenge to improve your strength</desc>
-  </programme>
-  <programme start="20260312070000 +0300" stop="20260312080000 +0300" channel="mychannel">
-    <title>Best of Christian Ronaldo</title>
-    <desc>Highlight on the Board</desc>
-  </programme>
-  <programme start="20260312080000 +0300" stop="20260312090000 +0300" channel="mychannel">
-    <title>Ronaldo Delima season</title>
-    <desc>where up to now</desc>
-  </programme>
-  <programme start="20260312090000 +0300" stop="20260312100000 +0300" channel="mychannel">
-    <title>Best Madrid from Brazil</title>
-    <desc>best player and what they did from Brazil</desc>
-  </programme>
-  <programme start="20260312100000 +0300" stop="20260312110000 +0300" channel="mychannel">
-    <title>Madrid Coach of All the time</title>
-    <desc>Who own everything</desc>
+  <programme start="20260707095000 +0300" stop="20260707105000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mpira wa Miguu mashuleni</desc>
+  </programme>
+  <programme start="20260707105000 +0300" stop="20260707115000 +0300" channel="mychannel">
+    <title>League Kuu</title>
+    <desc>Mchezo wa Kuogelea Mashuleni</desc>
+  </programme>
+  <programme start="20260707115000 +0300" stop="20260707125000 +0300" channel="mychannel">
+    <title>Tafsiri Vitabu vya Dini</title>
+    <desc>Maana na Historia ya kila jambo katika vitabu vya dini</desc>
+  </programme>
+  <programme start="20260707125000 +0300" stop="20260707135000 +0300" channel="mychannel">
+    <title>Elimu ya Dini</title>
+    <desc>Elimika ,Maisha ya Duniani na ya Akhera</desc>
+  </programme>
+  <programme start="20260707135000 +0300" stop="20260707145000 +0300" channel="mychannel">
+    <title>Afya ya Akili</title>
+    <desc>Imarisha Afya yako ya Akili</desc>
+  </programme>
+  <programme start="20260707145000 +0300" stop="20260707155000 +0300" channel="mychannel">
+    <title>Elimika</title>
+    <desc>Elimu kulingana na Umri ,nani ajifunze nini.</desc>
+  </programme>
+  <programme start="20260707155000 +0300" stop="20260707165000 +0300" channel="mychannel">
+    <title>Technkologia</title>
+    <desc>Ufundi na Ubunifu kuanzia ngazi ya chini.</desc>
+  </programme>
+  <programme start="20260707165000 +0300" stop="20260707175000 +0300" channel="mychannel">
+    <title>Mashindano</title>
+    <desc>Wakwanza kumaliza challenge,Mashindano katika fani</desc>
+  </programme>
+  <programme start="20260707175000 +0300" stop="20260707185000 +0300" channel="mychannel">
+    <title>Challenges</title>
+    <desc>Mashindano ya wanafunzi,Maswali na Majibu</desc>
+  </programme>
+  <programme start="20260707185000 +0300" stop="20260707195000 +0300" channel="mychannel">
+    <title>Ndoto za watoto</title>
+    <desc>Wanawaza nini ,wanafikilia nini na nini chakufanya</desc>
   </programme>
 </tv>
